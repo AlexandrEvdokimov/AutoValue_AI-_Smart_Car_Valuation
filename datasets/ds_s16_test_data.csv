@@ -1,0 +1,2001 @@
+make_year,mileage_kmpl,engine_cc,fuel_type,owner_count,brand,transmission,color,service_history,accidents_reported,insurance_valid,price_rub,region
+2015,12.09,5000,Diesel,1,Nissan,Automatic,White,Full,2,No,1213351,Москва
+2016,14.03,800,Petrol,4,Chevrolet,Manual,White,Partial,0,Yes,586881,Дальний Восток
+2005,20.4,2000,Petrol,1,Kia,Manual,Blue,Full,2,Yes,650752,Сибирь
+1996,25.09,800,Diesel,3,Volkswagen,Manual,Silver,Full,0,Yes,320452,Урал
+1995,19.25,5000,Diesel,5,Hyundai,Automatic,Black,Partial,0,No,694911,СПб
+2011,30.59,1200,Diesel,3,Nissan,Automatic,Gray,Partial,1,No,662185,Урал
+2023,13.49,1800,Diesel,1,Ford,Automatic,Gray,Full,1,Yes,908313,Сибирь
+1999,17.74,4000,Diesel,1,Toyota,Automatic,Blue,Partial,0,Yes,917191,СПб
+2004,17.97,1200,Diesel,4,Ford,Automatic,Blue,Partial,0,Yes,270539,Москва
+1997,16.36,2500,Petrol,5,Tesla,Manual,Red,Unknown,2,Yes,368517,Юг
+2013,15.75,4000,Diesel,2,Kia,Automatic,Red,Partial,0,Yes,1001334,СПб
+2008,11.35,5000,Diesel,1,Hyundai,Automatic,Blue,Unknown,0,No,1131850,СПб
+1999,16.09,1500,Petrol,4,BMW,Manual,Red,Full,0,Yes,407399,Москва
+2022,26.68,2000,Petrol,5,Toyota,Automatic,Gray,Partial,1,Yes,721965,Сибирь
+2010,22.04,1800,Petrol,3,Honda,Manual,Silver,Full,0,Yes,571729,СПб
+2022,17.67,2000,Electric,1,Honda,Automatic,Blue,Full,0,Yes,1193288,Урал
+2013,24.66,1000,Petrol,3,Hyundai,Automatic,Silver,Partial,0,Yes,576324,Юг
+2007,21.4,2000,Petrol,3,BMW,Manual,Black,Partial,0,Yes,740720,Юг
+2023,9.61,1500,Diesel,4,Ford,Manual,Blue,Full,1,Yes,601552,Юг
+2010,16.33,2000,Diesel,3,Volkswagen,Manual,Black,Partial,1,Yes,490329,Москва
+1996,17.94,4000,Diesel,5,Chevrolet,Manual,Gray,Unknown,1,Yes,579345,Дальний Восток
+2023,15.48,800,Petrol,1,Kia,Manual,White,Full,0,Yes,539533,Юг
+2022,24.47,3000,Diesel,3,Honda,Manual,White,Full,0,Yes,1076315,Урал
+1996,13.69,1500,Diesel,4,Chevrolet,Automatic,Blue,Partial,1,Yes,265050,Юг
+2002,16.07,4000,Diesel,1,Nissan,Manual,Blue,Partial,2,Yes,767444,Урал
+2019,17.22,5000,Diesel,2,Nissan,Manual,Black,Full,0,Yes,1282312,СПб
+2023,16.25,800,Petrol,5,Tesla,Manual,Blue,Partial,1,Yes,476219,Сибирь
+2004,20.39,2500,Diesel,1,Tesla,Manual,Gray,Full,1,Yes,724610,СПб
+2002,15.51,800,Diesel,5,Ford,Automatic,Red,Partial,0,Yes,234094,Сибирь
+2004,14.19,1200,Diesel,3,Tesla,Automatic,Black,Unknown,0,Yes,407922,Урал
+2019,18.62,1800,Diesel,5,Volkswagen,Automatic,Red,Partial,0,No,764532,СПб
+2019,19.96,1200,Petrol,2,Tesla,Automatic,Blue,Partial,0,Yes,586080,СПб
+2007,16.33,2500,Petrol,2,Honda,Automatic,Blue,Full,0,Yes,805134,Сибирь
+2023,18.72,4000,Diesel,3,Hyundai,Manual,White,Full,1,No,954229,СПб
+2007,17.55,2500,Petrol,2,Honda,Automatic,Red,Unknown,0,No,785657,СПб
+2019,15.97,2000,Diesel,1,Nissan,Automatic,Red,Partial,1,Yes,806638,Юг
+1996,21.81,2500,Diesel,1,Honda,Automatic,White,Partial,0,Yes,636304,Сибирь
+2001,15.7,3000,Petrol,4,BMW,Manual,White,Full,1,Yes,517971,Урал
+2021,25.34,3000,Petrol,2,BMW,Automatic,Blue,Partial,0,Yes,1209498,Москва
+2017,23.53,1800,Petrol,1,Honda,Manual,Silver,Full,1,Yes,977559,СПб
+1996,22.07,1800,Diesel,3,Tesla,Manual,Silver,Full,1,No,460721,Урал
+2019,19.81,2500,Diesel,2,Ford,Automatic,Silver,Unknown,3,Yes,1068879,СПб
+2008,18.95,1200,Petrol,1,Tesla,Automatic,Blue,Partial,0,No,815655,Урал
+2001,27.33,5000,Diesel,1,Ford,Manual,Black,Partial,0,Yes,1167098,Юг
+1997,20.11,1000,Petrol,4,Chevrolet,Manual,Blue,Partial,0,Yes,276673,Дальний Восток
+2004,14.92,800,Diesel,4,Ford,Manual,White,Partial,0,Yes,176571,Москва
+2003,23.84,1800,Petrol,3,Nissan,Manual,White,Full,0,Yes,582438,СПб
+2014,21.44,1800,Electric,2,Ford,Manual,Blue,Partial,4,Yes,1023127,Дальний Восток
+2007,17.32,2000,Petrol,3,Volkswagen,Manual,Silver,Full,1,Yes,645695,Сибирь
+2008,14.64,2000,Petrol,1,Nissan,Manual,Silver,Unknown,0,Yes,737282,Юг
+2004,13.52,4000,Petrol,4,BMW,Automatic,Gray,Full,1,Yes,606986,Москва
+1997,14.5,1200,Diesel,1,Ford,Manual,Blue,Full,0,Yes,452880,Москва
+1998,13.64,1500,Petrol,4,Hyundai,Automatic,Black,Partial,1,Yes,380424,Урал
+2017,21.36,800,Petrol,4,BMW,Automatic,Silver,Partial,0,Yes,488395,Урал
+2007,24.05,2000,Diesel,5,Volkswagen,Manual,White,Full,1,No,755883,Дальний Восток
+2009,17.87,3000,Petrol,4,Volkswagen,Automatic,Blue,Partial,0,Yes,793544,Юг
+2010,20.57,2000,Diesel,1,Volkswagen,Automatic,Silver,Full,1,Yes,792595,СПб
+2016,21.55,1200,Diesel,5,Chevrolet,Automatic,Blue,Unknown,0,No,493610,Юг
+2006,11.75,800,Diesel,5,BMW,Automatic,Silver,Unknown,0,Yes,228785,Сибирь
+2007,16.67,1500,Petrol,5,Nissan,Manual,Blue,Partial,1,Yes,250033,Сибирь
+1999,20.21,2000,Diesel,2,Volkswagen,Manual,Red,Full,1,Yes,516763,Сибирь
+2006,22.33,3000,Diesel,1,Ford,Automatic,White,Partial,0,No,923290,Урал
+2006,17.37,1500,Petrol,4,Volkswagen,Automatic,Silver,Full,1,Yes,458738,Юг
+2010,14.87,800,Petrol,3,Volkswagen,Manual,Red,Full,1,Yes,233958,Юг
+2004,24.59,800,Diesel,5,Kia,Automatic,Red,Unknown,0,No,300815,Юг
+1997,28.93,800,Petrol,3,BMW,Automatic,Red,Full,0,Yes,453044,Урал
+2015,23.49,5000,Diesel,3,Toyota,Automatic,Gray,Full,0,Yes,1136019,Урал
+2005,24.74,3000,Petrol,4,Kia,Automatic,Silver,Partial,1,No,668568,Дальний Восток
+2013,19.0,1200,Diesel,3,Hyundai,Automatic,Red,Partial,1,No,622375,СПб
+2012,8.09,2000,Petrol,4,Volkswagen,Automatic,Blue,Partial,2,Yes,443868,Москва
+2016,22.88,1800,Petrol,3,Ford,Automatic,Blue,Full,2,No,810696,Москва
+2013,17.94,1000,Petrol,2,Honda,Manual,Black,Partial,0,No,553104,Урал
+2011,20.23,800,Electric,4,Kia,Manual,Gray,Unknown,0,Yes,691770,Юг
+2001,16.93,5000,Petrol,2,BMW,Automatic,Silver,Partial,1,No,915539,Москва
+2023,14.53,1500,Diesel,3,Honda,Manual,Red,Full,1,Yes,684847,Москва
+2019,27.53,4000,Petrol,4,Kia,Automatic,Gray,Full,0,Yes,1051820,Москва
+1996,8.66,1500,Petrol,4,Toyota,Automatic,White,Partial,1,No,186044,СПб
+2018,18.13,800,Diesel,5,Chevrolet,Manual,White,Full,2,Yes,557010,Сибирь
+2016,21.63,1500,Petrol,5,Nissan,Manual,Blue,Partial,0,Yes,504487,Сибирь
+1997,15.0,4000,Petrol,1,Hyundai,Automatic,Red,Full,1,Yes,1017802,Москва
+2008,21.29,1500,Diesel,4,Chevrolet,Automatic,Black,Full,1,No,603412,Юг
+1999,20.57,1200,Diesel,4,Honda,Automatic,Black,Unknown,1,Yes,303525,Дальний Восток
+2018,20.24,1500,Diesel,1,Kia,Automatic,Silver,Full,0,Yes,711592,Дальний Восток
+2021,21.27,4000,Petrol,3,Tesla,Manual,Blue,Full,0,Yes,1035163,СПб
+2016,26.63,4000,Petrol,2,Honda,Manual,Black,Full,2,No,1056381,СПб
+2012,6.37,5000,Petrol,4,Ford,Automatic,Black,Full,1,Yes,939084,Сибирь
+2003,22.17,1000,Petrol,4,Honda,Manual,Black,Full,1,Yes,413624,Юг
+2003,12.96,1800,Diesel,2,Tesla,Manual,Silver,Partial,1,Yes,596834,СПб
+2010,15.32,2000,Diesel,4,Nissan,Automatic,Silver,Full,2,Yes,614686,СПб
+2012,15.66,2500,Diesel,3,Chevrolet,Automatic,Red,Full,0,Yes,717140,Дальний Восток
+1999,18.86,4000,Electric,1,Honda,Automatic,Gray,Unknown,0,Yes,1237937,Дальний Восток
+1997,18.92,800,Petrol,3,Tesla,Manual,Black,Partial,1,Yes,95000,Юг
+2008,19.94,3000,Petrol,1,BMW,Manual,Black,Partial,1,Yes,878231,Сибирь
+2002,20.23,1000,Petrol,3,Toyota,Automatic,Red,Full,1,Yes,389269,Юг
+2008,14.55,4000,Petrol,5,Chevrolet,Manual,White,Unknown,0,Yes,810781,Дальний Восток
+2013,13.31,800,Petrol,2,Kia,Manual,Gray,Full,0,No,526452,Юг
+2006,15.6,5000,Petrol,1,Chevrolet,Manual,Blue,Full,0,Yes,951622,Урал
+2006,27.19,1800,Petrol,1,Chevrolet,Automatic,Red,Partial,0,Yes,645028,Сибирь
+2022,14.51,2000,Diesel,4,Tesla,Automatic,Silver,Unknown,0,Yes,658431,Урал
+2014,10.94,5000,Petrol,1,BMW,Automatic,Black,Partial,0,Yes,1254599,Дальний Восток
+2004,18.43,1200,Diesel,5,Ford,Manual,Black,Full,1,Yes,134130,Москва
+2018,15.57,2000,Petrol,3,Honda,Manual,Gray,Full,2,Yes,754347,Сибирь
+2020,22.21,1800,Petrol,1,Hyundai,Manual,Silver,Partial,1,Yes,941117,Юг
+2007,17.94,1200,Diesel,4,Tesla,Automatic,Red,Unknown,2,Yes,320230,Юг
+2002,23.81,3000,Petrol,4,Tesla,Manual,Black,Full,1,Yes,681350,Сибирь
+2023,21.02,4000,Petrol,1,Tesla,Manual,Silver,Partial,1,Yes,1062429,СПб
+2007,15.45,2000,Diesel,3,BMW,Manual,Blue,Partial,1,Yes,562716,Юг
+2015,18.3,4000,Petrol,2,Ford,Automatic,Black,Partial,0,Yes,1189612,Сибирь
+2004,8.97,3000,Diesel,3,Tesla,Manual,Red,Unknown,0,Yes,331373,Урал
+2011,15.5,800,Electric,4,Volkswagen,Manual,Black,Full,2,Yes,665661,Урал
+1999,13.89,2000,Diesel,3,Hyundai,Automatic,Black,Partial,2,Yes,353947,СПб
+2010,20.01,1800,Petrol,3,Ford,Manual,Silver,Full,1,Yes,761957,СПб
+2013,17.43,2500,Petrol,2,Ford,Automatic,Gray,Unknown,0,No,641886,Урал
+2008,17.31,800,Petrol,5,Ford,Manual,Gray,Full,1,No,370585,Урал
+2013,16.65,1200,Diesel,2,Nissan,Manual,Silver,Partial,0,Yes,518748,СПб
+2003,12.67,4000,Petrol,1,Honda,Automatic,White,Full,0,Yes,842245,Москва
+2005,11.53,3000,Petrol,2,Nissan,Manual,Gray,Partial,1,Yes,696398,Сибирь
+2020,15.88,1000,Diesel,5,Kia,Manual,Red,Full,2,Yes,609004,Урал
+1997,18.72,4000,Diesel,4,Toyota,Manual,White,Full,1,Yes,667195,Дальний Восток
+1997,18.91,2500,Diesel,1,Honda,Manual,Gray,Full,1,Yes,386175,Сибирь
+2020,21.84,2000,Petrol,4,Hyundai,Manual,Blue,Full,0,Yes,818109,Сибирь
+2007,18.38,4000,Petrol,2,BMW,Manual,White,Unknown,0,No,758281,Дальний Восток
+2008,21.98,5000,Electric,4,Kia,Manual,Red,Full,0,Yes,1355800,СПб
+2023,17.22,1200,Petrol,4,Kia,Manual,Black,Full,2,Yes,498740,Москва
+2020,21.5,1800,Petrol,4,Ford,Automatic,Gray,Partial,0,Yes,863250,Сибирь
+2009,13.53,2500,Diesel,1,Kia,Automatic,Black,Full,1,No,729453,Дальний Восток
+2013,15.47,1800,Diesel,5,Volkswagen,Automatic,Black,Unknown,0,No,452884,Сибирь
+2011,30.71,3000,Diesel,1,Hyundai,Manual,Black,Partial,0,No,1214872,Урал
+2012,18.38,1500,Petrol,2,Toyota,Manual,Red,Full,0,No,698248,Юг
+1996,26.2,1500,Petrol,1,Nissan,Manual,Black,Partial,1,Yes,468884,Юг
+2006,14.98,1500,Diesel,5,Nissan,Manual,Red,Full,1,Yes,391793,Москва
+2022,22.04,1000,Petrol,4,Volkswagen,Manual,Silver,Full,0,Yes,612749,Сибирь
+2020,19.48,1000,Petrol,3,Kia,Automatic,Red,Unknown,0,No,666400,Москва
+2018,21.01,1200,Diesel,3,Nissan,Automatic,Gray,Unknown,0,Yes,540506,Сибирь
+2000,23.78,2500,Petrol,3,Honda,Manual,Blue,Full,0,Yes,693077,Дальний Восток
+2007,6.23,1200,Petrol,5,Nissan,Automatic,Red,Full,0,Yes,363288,Урал
+1998,16.94,1800,Petrol,5,Nissan,Automatic,White,Partial,0,Yes,311670,Дальний Восток
+2002,11.07,800,Petrol,3,Chevrolet,Manual,Gray,Full,0,Yes,351003,Юг
+2011,10.72,5000,Diesel,2,Nissan,Manual,Gray,Full,1,Yes,1110548,Урал
+1995,22.72,1800,Petrol,1,Ford,Automatic,Black,Unknown,1,Yes,480919,Дальний Восток
+2003,21.15,3000,Petrol,3,Nissan,Manual,Black,Full,0,Yes,699581,СПб
+1997,22.82,1800,Petrol,2,Nissan,Automatic,White,Partial,0,No,503115,Дальний Восток
+2008,17.37,800,Petrol,1,Nissan,Automatic,Blue,Partial,3,Yes,588221,Сибирь
+2023,17.6,1200,Diesel,1,Chevrolet,Manual,Black,Unknown,0,Yes,908693,Москва
+2019,21.33,2500,Petrol,3,Honda,Manual,Blue,Full,0,Yes,620691,Дальний Восток
+2011,24.42,1200,Diesel,4,Hyundai,Automatic,Blue,Unknown,0,Yes,555157,Москва
+1995,9.6,1200,Petrol,1,Chevrolet,Manual,Gray,Unknown,1,Yes,375618,Юг
+2013,12.61,3000,Petrol,5,Tesla,Manual,White,Partial,1,Yes,720882,Москва
+2013,28.35,800,Diesel,1,BMW,Manual,Red,Unknown,0,Yes,658696,СПб
+2009,14.28,3000,Diesel,3,Chevrolet,Manual,Gray,Full,1,Yes,616696,Сибирь
+2016,18.22,1000,Petrol,4,Chevrolet,Manual,Blue,Full,0,Yes,492068,Сибирь
+2019,17.0,5000,Diesel,2,Ford,Manual,Blue,Partial,1,No,1129715,Москва
+1997,18.8,1500,Petrol,4,Honda,Automatic,Red,Full,1,Yes,279686,Москва
+2010,13.44,2500,Diesel,3,Volkswagen,Automatic,Blue,Full,0,Yes,670579,Москва
+2014,13.9,1500,Diesel,1,Hyundai,Manual,Black,Unknown,0,Yes,705556,Урал
+2017,19.92,1200,Petrol,3,Toyota,Automatic,Gray,Partial,0,Yes,763059,Сибирь
+2019,30.31,1200,Petrol,3,Ford,Automatic,White,Full,1,Yes,868346,Урал
+2020,23.27,4000,Petrol,3,Kia,Automatic,Silver,Full,0,Yes,1079417,Москва
+2005,22.34,4000,Petrol,3,BMW,Manual,White,Full,0,Yes,915011,Москва
+2016,19.86,800,Petrol,1,Toyota,Automatic,Red,Full,0,Yes,835383,Урал
+1995,20.19,1200,Petrol,2,Honda,Manual,Black,Full,0,No,479494,Сибирь
+1995,13.23,800,Diesel,2,Honda,Manual,Gray,Partial,1,Yes,218244,Дальний Восток
+2007,17.57,2000,Petrol,5,Nissan,Manual,Black,Full,0,Yes,557653,Сибирь
+1997,19.43,800,Electric,3,Ford,Automatic,Silver,Unknown,1,Yes,527535,Юг
+2000,14.47,2500,Petrol,3,Tesla,Manual,White,Unknown,2,Yes,391881,Дальний Восток
+2015,18.62,1200,Diesel,2,Hyundai,Manual,Black,Partial,0,Yes,709890,Сибирь
+2020,17.6,1000,Petrol,4,Nissan,Manual,Gray,Unknown,0,Yes,682779,Сибирь
+2022,20.08,800,Diesel,5,Chevrolet,Manual,Gray,Unknown,1,Yes,317192,Урал
+2020,17.1,5000,Petrol,2,Volkswagen,Manual,Silver,Full,0,Yes,1225332,Сибирь
+2010,20.52,2500,Electric,2,Volkswagen,Manual,Black,Full,0,Yes,1205507,Сибирь
+2017,18.47,2000,Diesel,3,Chevrolet,Automatic,Silver,Full,0,Yes,704159,Урал
+1997,26.58,800,Petrol,1,Ford,Manual,Blue,Partial,2,Yes,554814,Юг
+1999,19.7,5000,Petrol,1,Tesla,Manual,White,Full,0,No,1005650,Москва
+2012,16.6,2500,Petrol,3,Volkswagen,Manual,Gray,Full,3,Yes,623158,Сибирь
+1998,10.52,3000,Petrol,1,Hyundai,Manual,Gray,Full,1,Yes,553257,Москва
+2013,17.96,1800,Petrol,2,Toyota,Automatic,White,Full,1,Yes,626949,Москва
+2021,16.41,1500,Diesel,2,Volkswagen,Automatic,Silver,Unknown,0,No,905297,СПб
+2011,22.79,4000,Electric,2,Tesla,Automatic,Gray,Partial,0,Yes,1264721,Москва
+2006,15.37,1500,Diesel,3,Toyota,Automatic,Silver,Partial,1,Yes,411066,Сибирь
+1995,18.3,3000,Diesel,4,Ford,Manual,Blue,Unknown,0,Yes,439360,Москва
+2001,24.8,5000,Diesel,2,Nissan,Manual,Silver,Full,0,Yes,1002783,Дальний Восток
+2022,14.15,1200,Petrol,2,Tesla,Manual,Gray,Full,2,Yes,845013,СПб
+2018,16.86,1800,Petrol,3,Nissan,Automatic,Black,Partial,1,Yes,632625,СПб
+2015,19.15,4000,Diesel,1,BMW,Manual,White,Unknown,2,Yes,960333,Сибирь
+2004,10.29,1200,Petrol,2,Toyota,Manual,Silver,Full,0,No,137412,СПб
+2023,21.78,3000,Diesel,2,Ford,Manual,Red,Partial,0,Yes,1088954,Юг
+1998,24.0,2000,Petrol,2,Toyota,Automatic,White,Full,0,Yes,770837,Сибирь
+2023,25.78,1200,Diesel,5,Kia,Automatic,Gray,Partial,0,Yes,792774,Урал
+1999,17.13,1500,Petrol,5,Toyota,Automatic,Red,Partial,1,Yes,344199,Дальний Восток
+2016,17.06,1800,Petrol,3,Tesla,Automatic,Black,Partial,1,Yes,670328,Сибирь
+2005,21.87,1200,Petrol,3,Toyota,Automatic,Red,Full,0,No,442290,Урал
+2015,27.94,1500,Diesel,5,Tesla,Manual,Blue,Unknown,1,Yes,804090,Дальний Восток
+2001,16.44,3000,Diesel,3,Honda,Manual,Red,Full,1,Yes,620674,Москва
+2003,11.58,4000,Electric,5,Tesla,Automatic,White,Unknown,1,Yes,961960,Юг
+2022,15.29,5000,Diesel,1,Honda,Manual,White,Unknown,0,Yes,1422675,СПб
+2017,26.56,2500,Petrol,5,Chevrolet,Automatic,White,Full,0,Yes,704682,Юг
+2004,16.83,800,Diesel,3,Honda,Manual,Red,Full,1,Yes,345510,Урал
+2017,24.83,3000,Diesel,3,Toyota,Manual,Silver,Full,1,No,1028670,Урал
+2002,16.07,1200,Petrol,3,BMW,Automatic,Red,Full,1,No,426106,Сибирь
+2005,16.64,2000,Petrol,1,BMW,Automatic,Black,Unknown,0,Yes,707504,Сибирь
+2007,17.89,1800,Diesel,1,Volkswagen,Manual,Black,Full,1,Yes,716573,СПб
+2009,18.79,1800,Diesel,2,Tesla,Manual,Blue,Full,2,No,569448,Юг
+2021,18.05,1000,Diesel,4,Kia,Automatic,Gray,Full,1,Yes,674558,Урал
+2006,18.36,5000,Petrol,4,Chevrolet,Automatic,Gray,Full,0,No,752279,Сибирь
+2023,25.08,2500,Petrol,2,Hyundai,Manual,Black,Partial,1,Yes,1115530,Юг
+1998,17.01,2000,Diesel,5,Ford,Automatic,White,Partial,1,No,388026,Москва
+2015,9.43,2000,Diesel,3,Chevrolet,Automatic,Silver,Partial,0,Yes,593446,Москва
+2005,14.82,800,Diesel,4,Honda,Manual,Silver,Full,0,Yes,382037,СПб
+2005,17.47,4000,Diesel,2,Kia,Automatic,Black,Full,2,Yes,795389,Урал
+2003,31.19,1500,Petrol,5,Toyota,Automatic,Gray,Full,1,Yes,534567,Сибирь
+2022,15.66,1200,Electric,2,BMW,Manual,Blue,Unknown,0,No,737929,Урал
+1997,22.0,4000,Diesel,4,BMW,Manual,Gray,Partial,0,No,858354,Москва
+2000,21.68,2500,Diesel,5,Tesla,Manual,Black,Full,0,Yes,484029,Сибирь
+2022,25.04,5000,Petrol,2,BMW,Manual,Gray,Partial,0,No,1485049,Москва
+2014,16.01,2500,Electric,5,Volkswagen,Automatic,White,Full,1,Yes,984641,Москва
+2022,15.78,3000,Diesel,1,Toyota,Manual,Silver,Full,0,Yes,1061293,Юг
+2001,19.65,3000,Petrol,2,Tesla,Manual,Gray,Full,0,Yes,664651,Дальний Восток
+2014,17.39,1500,Electric,5,Volkswagen,Manual,Blue,Full,3,Yes,777072,Юг
+2023,22.27,1800,Petrol,4,Ford,Manual,Gray,Full,0,Yes,904288,СПб
+2007,16.48,2500,Diesel,1,Chevrolet,Manual,Silver,Unknown,0,Yes,637534,Урал
+2001,22.26,800,Petrol,3,Nissan,Manual,Gray,Partial,0,Yes,481586,Сибирь
+2019,21.85,800,Diesel,3,Hyundai,Manual,Blue,Full,0,Yes,589906,Москва
+2011,17.38,800,Petrol,2,Honda,Manual,Gray,Full,0,No,553647,Москва
+2000,12.39,3000,Petrol,4,Nissan,Manual,White,Full,0,Yes,645772,СПб
+2001,13.6,800,Petrol,3,Volkswagen,Automatic,Blue,Partial,0,Yes,272114,Дальний Восток
+2007,26.57,1800,Petrol,1,Volkswagen,Manual,Black,Full,1,Yes,608051,Сибирь
+2012,21.09,4000,Petrol,4,Hyundai,Automatic,Gray,Full,2,Yes,826969,Юг
+2016,18.6,1200,Petrol,5,Volkswagen,Manual,Red,Full,2,Yes,552620,Юг
+2007,7.21,2000,Petrol,1,Ford,Automatic,Red,Unknown,0,Yes,556861,Москва
+2000,21.12,3000,Diesel,3,Tesla,Manual,Gray,Partial,0,Yes,580002,Сибирь
+2011,21.39,3000,Diesel,3,Volkswagen,Manual,Gray,Full,0,Yes,722510,Дальний Восток
+2022,19.25,3000,Petrol,4,BMW,Manual,Black,Full,0,Yes,959501,Урал
+1999,20.7,2000,Petrol,5,Nissan,Manual,Gray,Full,1,Yes,315033,СПб
+2022,18.26,4000,Diesel,4,Toyota,Automatic,Gray,Partial,0,Yes,1263652,СПб
+2007,19.09,1000,Diesel,5,Volkswagen,Manual,Black,Full,0,Yes,356744,Москва
+1996,14.88,1200,Petrol,4,Toyota,Manual,Red,Full,0,Yes,95000,Урал
+2018,20.09,800,Diesel,4,Tesla,Automatic,Gray,Full,1,Yes,614575,Юг
+2022,23.57,800,Diesel,1,Chevrolet,Automatic,Red,Full,0,Yes,752676,Юг
+2004,14.46,1500,Petrol,2,Nissan,Manual,Blue,Partial,0,No,381677,СПб
+2003,19.39,2000,Diesel,5,Chevrolet,Manual,Blue,Partial,1,Yes,582668,Урал
+2005,20.42,3000,Diesel,2,Chevrolet,Manual,Gray,Unknown,0,Yes,616859,Юг
+2020,16.85,4000,Petrol,1,Ford,Automatic,White,Full,1,Yes,1148513,Урал
+1998,14.19,2500,Diesel,4,Toyota,Manual,White,Full,0,No,436801,Урал
+2003,20.38,1200,Electric,3,Tesla,Automatic,Red,Full,1,Yes,708062,Дальний Восток
+2021,16.12,800,Petrol,5,Ford,Manual,Red,Full,1,Yes,507502,СПб
+2022,11.99,1000,Petrol,2,Hyundai,Automatic,Blue,Partial,1,Yes,627439,Сибирь
+2004,18.74,800,Petrol,4,Chevrolet,Manual,White,Full,1,Yes,227956,Урал
+2014,22.23,5000,Petrol,4,Tesla,Manual,Gray,Partial,2,Yes,1157317,Дальний Восток
+2017,18.18,1500,Petrol,1,Honda,Manual,Black,Full,1,Yes,847322,Дальний Восток
+2016,14.33,1200,Petrol,5,Nissan,Manual,White,Partial,1,No,287589,СПб
+2020,23.95,2500,Petrol,5,BMW,Manual,Gray,Partial,0,Yes,857942,Москва
+2020,15.67,1800,Petrol,5,BMW,Manual,Blue,Unknown,1,Yes,661433,Москва
+2007,19.62,1800,Diesel,4,Kia,Manual,Red,Unknown,0,Yes,574639,Сибирь
+2022,23.91,2000,Diesel,2,Toyota,Manual,Silver,Full,0,Yes,910148,Дальний Восток
+2015,20.08,1000,Petrol,3,Chevrolet,Manual,Red,Full,0,Yes,434977,Сибирь
+2016,16.69,2000,Diesel,2,Chevrolet,Manual,Gray,Full,0,Yes,556700,Дальний Восток
+1999,14.67,3000,Petrol,2,Ford,Automatic,Gray,Unknown,0,Yes,572203,Юг
+1996,19.8,4000,Petrol,5,Volkswagen,Manual,Black,Partial,0,Yes,676562,Урал
+2009,11.81,800,Petrol,4,Nissan,Manual,Gray,Full,1,Yes,157185,СПб
+1999,18.67,800,Diesel,3,Tesla,Manual,Black,Full,0,Yes,286090,СПб
+2011,14.35,800,Petrol,4,Nissan,Automatic,Blue,Full,0,Yes,321330,Сибирь
+2004,13.25,2500,Diesel,1,Ford,Manual,Blue,Partial,1,Yes,761118,Юг
+2012,8.36,3000,Electric,4,Chevrolet,Automatic,Silver,Full,1,Yes,968260,Урал
+2021,12.44,2500,Petrol,3,Ford,Manual,Blue,Unknown,0,Yes,747853,Москва
+2001,16.54,1500,Electric,5,Toyota,Automatic,Blue,Unknown,1,No,502767,Юг
+2015,18.85,5000,Petrol,1,BMW,Automatic,Silver,Partial,0,Yes,1366067,Юг
+2022,17.04,1800,Petrol,3,Nissan,Manual,Silver,Full,1,Yes,740819,Москва
+2002,11.28,3000,Petrol,3,Tesla,Manual,Black,Full,0,Yes,610297,Дальний Восток
+2020,15.21,1500,Electric,5,Tesla,Automatic,Blue,Unknown,1,Yes,828951,Сибирь
+2013,23.95,3000,Diesel,4,BMW,Manual,Gray,Partial,0,Yes,1003583,Сибирь
+2001,18.72,2500,Electric,2,Kia,Manual,Silver,Full,0,Yes,798870,Сибирь
+2022,22.2,3000,Petrol,1,Toyota,Manual,Blue,Full,1,Yes,1059461,СПб
+2015,25.12,5000,Petrol,3,Volkswagen,Manual,Silver,Partial,2,Yes,1196788,Дальний Восток
+2015,21.7,1500,Diesel,2,Chevrolet,Automatic,Red,Partial,3,No,517507,СПб
+2007,19.23,1000,Petrol,3,Tesla,Manual,Red,Full,1,No,318097,Дальний Восток
+2017,19.68,1000,Petrol,4,Honda,Manual,Black,Full,2,No,468962,Дальний Восток
+2017,10.95,3000,Petrol,5,Kia,Manual,Blue,Full,0,No,806785,СПб
+1996,21.04,1200,Petrol,2,Honda,Manual,Red,Full,1,Yes,373595,Юг
+2019,22.38,1200,Petrol,5,Ford,Manual,Red,Unknown,0,Yes,576888,Юг
+2017,24.83,1200,Petrol,4,Chevrolet,Automatic,Blue,Unknown,0,Yes,622543,Урал
+1997,21.76,5000,Diesel,1,Volkswagen,Automatic,White,Partial,0,No,790382,Сибирь
+1998,13.99,3000,Diesel,3,Chevrolet,Manual,Black,Unknown,1,No,670547,Юг
+2012,16.94,800,Petrol,2,Nissan,Manual,White,Full,1,Yes,561512,Урал
+1998,22.09,1500,Petrol,2,Kia,Manual,Silver,Unknown,1,Yes,520475,Юг
+2016,23.24,2000,Diesel,4,Nissan,Manual,Silver,Partial,0,Yes,790525,Дальний Восток
+2006,12.31,2000,Diesel,3,Kia,Manual,Blue,Partial,1,Yes,479447,СПб
+2018,16.29,1200,Diesel,2,Kia,Manual,Red,Partial,1,Yes,656128,Москва
+2021,17.83,2500,Diesel,5,Tesla,Manual,Silver,Partial,0,No,711814,Москва
+2018,23.48,3000,Diesel,1,Chevrolet,Manual,Gray,Partial,0,Yes,1092385,СПб
+1999,14.04,2000,Petrol,1,Nissan,Automatic,Black,Full,2,No,439541,Урал
+2002,14.5,1800,Diesel,2,Honda,Manual,White,Partial,1,Yes,483546,Дальний Восток
+2010,18.63,800,Diesel,2,Chevrolet,Manual,Red,Full,1,Yes,286725,Дальний Восток
+2017,20.88,5000,Diesel,2,BMW,Manual,Silver,Partial,2,Yes,1082089,Юг
+1995,16.86,3000,Electric,1,Nissan,Automatic,Red,Partial,1,Yes,958663,Дальний Восток
+2004,8.46,800,Diesel,1,Honda,Automatic,Gray,Full,0,Yes,442474,Сибирь
+2021,19.99,5000,Diesel,4,Tesla,Manual,Gray,Full,0,Yes,1316045,Юг
+2000,26.4,800,Diesel,4,Volkswagen,Automatic,Gray,Full,1,Yes,413749,СПб
+2018,18.02,1000,Diesel,2,Ford,Manual,Black,Partial,0,Yes,767780,Москва
+2013,17.29,1000,Diesel,1,Hyundai,Automatic,Red,Partial,1,No,487903,Дальний Восток
+2003,21.51,4000,Diesel,4,Hyundai,Automatic,White,Partial,2,No,865538,Дальний Восток
+2016,22.64,5000,Diesel,1,Nissan,Manual,Silver,Unknown,0,Yes,1344023,Москва
+2000,11.16,1500,Electric,5,Kia,Automatic,Red,Partial,0,No,427400,Урал
+2013,14.18,1800,Petrol,3,BMW,Automatic,White,Unknown,0,No,545162,Сибирь
+2017,24.81,2500,Petrol,2,Kia,Manual,Blue,Unknown,0,No,795681,Урал
+2007,18.48,2000,Petrol,5,Nissan,Automatic,Gray,Full,0,Yes,473253,Урал
+2016,15.96,1800,Electric,1,Kia,Automatic,Black,Partial,2,Yes,1143465,Юг
+2012,12.3,1500,Petrol,5,Hyundai,Automatic,Blue,Partial,3,Yes,324937,Москва
+2017,16.99,3000,Petrol,4,Kia,Automatic,Black,Partial,0,Yes,736331,Сибирь
+2003,22.54,1800,Petrol,2,Volkswagen,Automatic,Gray,Partial,0,Yes,690700,Урал
+2009,22.16,1500,Electric,1,Toyota,Automatic,Blue,Full,1,No,1040864,Сибирь
+2018,20.05,5000,Diesel,3,Nissan,Manual,White,Partial,0,No,1073590,Дальний Восток
+2013,17.65,3000,Petrol,5,Volkswagen,Manual,Blue,Unknown,0,Yes,649032,Сибирь
+2013,24.57,1200,Petrol,5,Tesla,Manual,Red,Full,0,No,498958,Урал
+2007,26.15,5000,Petrol,3,Nissan,Manual,Gray,Full,0,Yes,1095055,Дальний Восток
+2018,21.94,800,Diesel,2,Tesla,Manual,Silver,Full,0,Yes,584754,Юг
+2010,15.73,2500,Petrol,2,Honda,Automatic,Red,Partial,0,Yes,603146,СПб
+1999,15.91,5000,Petrol,4,Volkswagen,Automatic,Gray,Full,0,Yes,893661,Дальний Восток
+2011,26.66,4000,Petrol,5,Toyota,Manual,Blue,Full,0,Yes,976514,Урал
+1997,11.26,5000,Petrol,2,Ford,Manual,Gray,Partial,0,Yes,883152,Юг
+2004,15.07,1000,Diesel,3,Tesla,Automatic,White,Full,0,Yes,256596,Урал
+2009,14.43,800,Diesel,1,Chevrolet,Automatic,Silver,Full,1,Yes,412590,СПб
+2020,20.35,5000,Diesel,1,Nissan,Manual,Black,Full,0,Yes,1299691,Юг
+2019,22.34,4000,Petrol,2,Kia,Automatic,Blue,Full,1,No,1011335,Дальний Восток
+1996,22.69,3000,Petrol,1,BMW,Manual,Silver,Partial,1,Yes,561518,Дальний Восток
+1998,25.38,1000,Diesel,5,Nissan,Automatic,Red,Unknown,0,Yes,350486,Юг
+2019,17.83,1800,Diesel,3,Nissan,Automatic,Black,Full,0,No,656274,Москва
+2017,10.05,4000,Diesel,5,Hyundai,Manual,Red,Full,1,No,895824,Дальний Восток
+2020,10.81,1800,Diesel,1,Honda,Manual,White,Full,1,Yes,703202,СПб
+2021,26.53,3000,Petrol,5,Toyota,Automatic,Black,Partial,1,Yes,988121,Дальний Восток
+2016,15.29,2500,Petrol,2,BMW,Manual,Gray,Full,0,Yes,905145,Юг
+2011,20.27,2000,Petrol,1,Tesla,Automatic,Red,Full,1,No,749141,СПб
+2020,5.0,2000,Petrol,1,Volkswagen,Manual,Blue,Unknown,1,Yes,804515,Урал
+2010,18.0,1800,Diesel,1,Hyundai,Manual,Gray,Partial,1,Yes,669684,Юг
+1999,10.87,800,Petrol,3,Nissan,Automatic,Black,Full,0,No,95000,Москва
+2001,21.33,800,Petrol,1,BMW,Automatic,White,Full,1,Yes,666690,Урал
+2010,10.9,800,Diesel,5,Nissan,Automatic,Gray,Unknown,0,Yes,225326,Дальний Восток
+2002,25.22,2000,Diesel,5,Chevrolet,Automatic,Red,Full,0,Yes,644791,Урал
+2022,32.47,1800,Electric,5,Toyota,Automatic,Red,Full,0,No,1040833,Дальний Восток
+2015,20.16,1800,Petrol,2,Chevrolet,Manual,Gray,Partial,0,No,767616,Москва
+2004,26.79,4000,Diesel,1,Hyundai,Automatic,Red,Full,0,No,1038250,Дальний Восток
+2009,7.41,3000,Petrol,1,BMW,Automatic,Silver,Unknown,1,Yes,904291,Москва
+1998,13.91,4000,Petrol,1,Chevrolet,Manual,Gray,Full,1,Yes,820582,Юг
+2006,14.64,1200,Diesel,3,Kia,Manual,Black,Full,1,No,421241,Урал
+2005,14.62,1000,Diesel,4,Tesla,Manual,Black,Partial,0,Yes,357832,Дальний Восток
+2021,16.69,3000,Diesel,2,Ford,Automatic,Black,Full,1,Yes,1088050,Сибирь
+2008,13.8,1500,Petrol,2,Chevrolet,Manual,Blue,Unknown,1,Yes,613672,Дальний Восток
+2015,26.03,2500,Diesel,2,Ford,Manual,Red,Full,0,Yes,958388,Юг
+2016,12.96,3000,Diesel,3,Toyota,Manual,Red,Full,0,Yes,862739,Москва
+2000,18.25,1200,Diesel,4,Honda,Automatic,Silver,Full,0,Yes,390680,СПб
+2007,18.43,1500,Electric,1,Volkswagen,Manual,Gray,Full,0,Yes,915425,Урал
+2004,13.11,1500,Diesel,1,Honda,Automatic,White,Partial,0,Yes,532281,Сибирь
+2000,20.6,2000,Petrol,5,Volkswagen,Automatic,Red,Full,0,Yes,304636,Юг
+2002,18.17,1500,Petrol,3,Ford,Manual,Blue,Full,2,Yes,316086,Москва
+2011,16.98,2500,Diesel,5,Tesla,Manual,Gray,Partial,1,No,519884,Дальний Восток
+2023,20.81,3000,Petrol,5,Ford,Automatic,Silver,Partial,1,Yes,763182,Сибирь
+2017,11.51,1500,Diesel,2,Tesla,Manual,Blue,Partial,0,Yes,590626,Сибирь
+2011,25.9,2000,Petrol,1,Ford,Manual,Black,Partial,0,Yes,842600,Сибирь
+2022,14.19,1200,Diesel,4,Kia,Manual,Blue,Unknown,0,Yes,464837,Юг
+2017,18.15,2000,Petrol,2,Tesla,Manual,Gray,Full,0,No,872926,Сибирь
+2020,20.59,1000,Electric,1,Honda,Automatic,Gray,Full,1,Yes,986496,Урал
+2002,18.05,3000,Diesel,1,Hyundai,Manual,Red,Partial,1,Yes,755126,Сибирь
+2010,22.55,1200,Petrol,1,Nissan,Automatic,Gray,Unknown,0,Yes,683236,Дальний Восток
+2007,24.1,1200,Diesel,1,BMW,Manual,White,Partial,0,Yes,521363,СПб
+2010,20.99,2500,Diesel,3,Nissan,Manual,Black,Full,0,Yes,601334,Москва
+1998,22.32,800,Diesel,5,Ford,Manual,Red,Partial,1,No,420073,Москва
+2019,23.62,2500,Electric,4,Honda,Automatic,Black,Partial,0,Yes,1031705,Дальний Восток
+2020,21.25,1000,Petrol,1,Kia,Manual,Black,Partial,0,Yes,784909,Юг
+1999,22.76,1500,Petrol,4,Nissan,Automatic,White,Partial,0,Yes,589191,Дальний Восток
+2022,17.77,1000,Petrol,1,Volkswagen,Manual,Gray,Unknown,1,Yes,825832,Урал
+2003,15.12,1000,Electric,4,Volkswagen,Manual,Silver,Full,0,No,572391,Дальний Восток
+2020,26.57,5000,Diesel,4,Hyundai,Manual,Blue,Partial,0,Yes,1412528,Урал
+2007,9.33,1500,Petrol,4,Hyundai,Manual,Gray,Partial,0,Yes,429718,Юг
+2006,14.9,4000,Petrol,5,Tesla,Automatic,Silver,Partial,1,Yes,719907,Сибирь
+2007,21.83,2500,Petrol,1,Ford,Automatic,Gray,Full,1,Yes,773260,СПб
+1998,26.2,1000,Petrol,5,Chevrolet,Manual,Silver,Full,1,Yes,273460,Дальний Восток
+2010,15.32,5000,Diesel,4,Tesla,Manual,Silver,Partial,1,Yes,1149896,Дальний Восток
+2004,26.04,1500,Diesel,3,Tesla,Automatic,Black,Full,0,Yes,588885,Сибирь
+2022,8.13,2500,Petrol,4,Honda,Automatic,Red,Full,0,No,642315,Дальний Восток
+1998,13.02,1200,Petrol,5,Hyundai,Manual,Blue,Partial,2,Yes,95000,Москва
+2019,17.51,1200,Petrol,4,Volkswagen,Manual,White,Unknown,0,Yes,508028,Урал
+2023,23.87,1500,Electric,2,Nissan,Manual,Black,Partial,0,Yes,1076198,Урал
+2012,12.52,1800,Diesel,5,Chevrolet,Manual,Red,Full,1,Yes,433070,Урал
+2015,21.65,4000,Petrol,2,Tesla,Manual,Silver,Full,0,No,887690,Юг
+1998,21.24,2500,Diesel,3,Volkswagen,Manual,White,Unknown,0,Yes,466361,Дальний Восток
+1997,11.63,4000,Diesel,1,Kia,Automatic,Black,Partial,1,Yes,865849,Сибирь
+2009,18.38,1200,Petrol,5,Tesla,Manual,White,Partial,0,No,404835,Дальний Восток
+2007,25.0,1200,Petrol,4,Kia,Manual,Gray,Full,2,Yes,601458,Юг
+2008,24.38,2500,Petrol,1,Hyundai,Manual,Gray,Full,0,No,795824,СПб
+1999,17.66,4000,Petrol,2,BMW,Manual,Gray,Full,0,Yes,800548,Урал
+2012,17.55,1500,Diesel,5,Ford,Automatic,Silver,Partial,0,Yes,427118,Дальний Восток
+2002,19.05,2500,Diesel,4,Honda,Manual,Black,Full,1,Yes,596934,Москва
+2004,17.59,5000,Petrol,1,Ford,Automatic,Silver,Full,0,Yes,1136014,СПб
+2013,15.18,800,Petrol,2,Honda,Manual,Red,Full,1,Yes,571297,Сибирь
+2002,16.2,5000,Petrol,5,Volkswagen,Automatic,Blue,Full,1,Yes,735128,Урал
+2005,27.08,1200,Diesel,5,Volkswagen,Manual,Red,Full,0,Yes,477460,Москва
+2019,20.11,1800,Diesel,2,Hyundai,Manual,Blue,Full,0,Yes,1050585,Москва
+2011,10.04,1200,Petrol,2,Toyota,Automatic,Silver,Partial,1,Yes,419558,Юг
+2022,11.31,1000,Diesel,2,Kia,Manual,White,Unknown,0,No,631676,Сибирь
+2018,18.51,3000,Diesel,2,Nissan,Manual,Gray,Partial,0,Yes,949683,Москва
+2018,23.18,3000,Diesel,3,Hyundai,Automatic,Blue,Full,0,Yes,928508,Москва
+2005,26.55,5000,Diesel,2,Kia,Automatic,Blue,Full,0,Yes,1101813,Дальний Восток
+2022,15.73,1800,Petrol,5,Chevrolet,Automatic,Red,Partial,1,No,661688,Юг
+2000,21.24,1000,Petrol,4,Volkswagen,Manual,Blue,Full,0,Yes,321627,Москва
+2006,24.01,1200,Diesel,2,Toyota,Automatic,Red,Partial,1,Yes,534554,Дальний Восток
+2012,16.39,2500,Petrol,4,Toyota,Manual,Blue,Partial,1,No,760519,СПб
+1996,19.53,1000,Diesel,2,Nissan,Automatic,Blue,Partial,0,Yes,319014,Дальний Восток
+2019,20.61,1200,Petrol,1,Chevrolet,Manual,Gray,Partial,0,Yes,945981,СПб
+2015,19.21,2000,Diesel,3,Hyundai,Manual,Black,Full,2,Yes,720964,Сибирь
+2005,17.55,1200,Electric,1,Hyundai,Manual,Blue,Partial,0,No,735399,Юг
+2022,5.0,2000,Diesel,5,Nissan,Manual,Gray,Full,0,Yes,662455,СПб
+2022,18.36,4000,Electric,5,Nissan,Manual,Red,Full,0,No,1265232,СПб
+2018,12.28,1500,Petrol,3,Volkswagen,Manual,Silver,Full,0,Yes,588947,Юг
+2002,24.03,800,Diesel,4,Chevrolet,Manual,Blue,Partial,1,No,283204,СПб
+2002,14.93,2000,Diesel,4,Volkswagen,Manual,Red,Full,0,Yes,410754,Сибирь
+2007,21.7,1200,Diesel,4,Honda,Manual,Blue,Partial,0,Yes,372904,Юг
+2001,11.71,5000,Diesel,3,Chevrolet,Automatic,Red,Partial,0,No,876915,Дальний Восток
+2022,16.42,1500,Diesel,4,Tesla,Manual,White,Unknown,0,No,583957,Юг
+2018,19.73,2000,Diesel,4,Nissan,Automatic,White,Full,0,No,516935,Юг
+2018,17.68,1000,Diesel,4,Tesla,Automatic,Gray,Partial,1,No,475376,Юг
+2000,22.05,3000,Petrol,4,Honda,Automatic,Black,Full,2,Yes,447483,Москва
+1995,11.58,800,Petrol,4,Nissan,Automatic,Red,Unknown,0,No,95000,Юг
+2001,14.75,1000,Petrol,3,Honda,Automatic,Gray,Full,2,No,423679,Юг
+2001,16.72,2500,Diesel,3,Kia,Manual,Black,Partial,1,Yes,464465,СПб
+2008,19.65,4000,Diesel,5,Hyundai,Manual,Blue,Full,1,No,812143,Сибирь
+2001,10.54,2500,Petrol,4,Kia,Manual,Black,Unknown,0,Yes,416183,СПб
+2017,18.91,1800,Petrol,5,Toyota,Manual,Silver,Full,2,Yes,545274,Дальний Восток
+2013,15.4,3000,Petrol,1,Hyundai,Manual,Red,Full,1,Yes,841032,Сибирь
+1996,19.24,4000,Petrol,4,Chevrolet,Manual,Silver,Full,0,Yes,579389,Дальний Восток
+2004,16.81,4000,Diesel,2,BMW,Manual,Red,Full,0,Yes,824368,СПб
+1996,29.15,1800,Petrol,5,BMW,Manual,Black,Full,2,Yes,620322,СПб
+2022,6.79,2500,Petrol,1,Tesla,Manual,Silver,Unknown,1,Yes,743735,Урал
+2021,25.12,1500,Petrol,3,Ford,Automatic,Black,Unknown,0,Yes,729776,Сибирь
+1997,20.94,2000,Diesel,2,Hyundai,Manual,Gray,Unknown,0,No,294722,Урал
+2011,13.86,800,Diesel,2,BMW,Manual,Gray,Full,0,Yes,449150,СПб
+2012,6.1,800,Diesel,3,Honda,Manual,White,Unknown,2,No,264024,Сибирь
+2013,20.93,1800,Diesel,3,Kia,Manual,White,Partial,0,Yes,653251,Урал
+2020,23.27,800,Petrol,1,Honda,Automatic,Black,Full,1,No,663226,Дальний Восток
+2013,16.55,1000,Petrol,1,Ford,Automatic,Silver,Partial,1,Yes,613198,Москва
+1998,23.68,1800,Petrol,3,Chevrolet,Manual,Gray,Full,1,Yes,593015,Юг
+2007,6.31,3000,Petrol,2,Honda,Manual,Silver,Partial,0,No,813594,Урал
+2010,16.16,1000,Diesel,5,Chevrolet,Manual,Gray,Full,0,Yes,302342,СПб
+2020,14.31,3000,Electric,3,Hyundai,Manual,White,Full,0,Yes,1220259,Урал
+2019,21.38,1200,Electric,3,Volkswagen,Manual,White,Full,1,Yes,989225,Дальний Восток
+2019,22.84,800,Diesel,1,Nissan,Automatic,Red,Unknown,1,Yes,728935,Сибирь
+2015,5.98,5000,Petrol,5,Hyundai,Manual,Silver,Full,1,Yes,954441,Сибирь
+2015,26.73,5000,Petrol,3,Hyundai,Automatic,Black,Partial,0,Yes,1247320,Юг
+2012,21.04,1500,Electric,1,Tesla,Manual,Gray,Unknown,0,Yes,1245753,Дальний Восток
+1997,19.83,5000,Electric,3,Tesla,Automatic,Blue,Partial,1,Yes,1280872,Юг
+2015,22.16,5000,Petrol,2,BMW,Automatic,Gray,Partial,1,Yes,1195719,Дальний Восток
+1995,12.85,1000,Petrol,3,Nissan,Manual,Red,Unknown,0,Yes,208230,Москва
+2007,24.04,3000,Diesel,5,BMW,Manual,Gray,Unknown,0,Yes,805399,Урал
+2016,21.24,1800,Petrol,5,Tesla,Manual,Black,Full,1,No,609244,Дальний Восток
+2002,13.02,2000,Diesel,2,Chevrolet,Automatic,Red,Partial,1,Yes,465131,Юг
+2001,26.61,5000,Electric,1,Chevrolet,Automatic,White,Full,0,Yes,1455220,СПб
+2001,11.05,1800,Petrol,3,Toyota,Automatic,Silver,Full,0,Yes,402275,Москва
+2008,16.4,1500,Electric,3,Nissan,Manual,Silver,Full,2,Yes,797176,Урал
+1995,12.42,5000,Diesel,1,Kia,Manual,White,Full,0,Yes,785760,Москва
+2017,16.94,4000,Petrol,1,Hyundai,Manual,Black,Full,0,Yes,1216163,Дальний Восток
+1998,24.57,2500,Diesel,3,Tesla,Automatic,Gray,Partial,1,No,647311,СПб
+2009,23.62,5000,Petrol,4,Honda,Automatic,Red,Full,1,Yes,996614,Москва
+2018,22.6,1200,Diesel,4,Nissan,Manual,Red,Unknown,0,Yes,753989,Москва
+2016,18.04,1800,Diesel,3,Toyota,Manual,Blue,Partial,1,No,833937,Дальний Восток
+1998,15.11,800,Diesel,5,Honda,Manual,Silver,Partial,1,Yes,283532,Москва
+2012,12.8,1000,Diesel,5,BMW,Manual,Gray,Full,1,Yes,371851,Дальний Восток
+2017,24.69,4000,Petrol,5,Honda,Manual,Red,Partial,1,Yes,894159,Юг
+2013,19.79,3000,Diesel,4,Kia,Manual,Red,Partial,0,Yes,729959,СПб
+2013,18.65,2500,Petrol,5,Tesla,Manual,Gray,Partial,0,Yes,559234,СПб
+2002,14.34,1500,Diesel,3,Volkswagen,Manual,Gray,Unknown,1,Yes,198253,Юг
+2015,13.82,1800,Diesel,5,Honda,Manual,Gray,Partial,0,No,503254,Дальний Восток
+2022,23.79,1200,Diesel,5,Kia,Manual,Black,Unknown,0,Yes,751675,Урал
+2023,14.7,3000,Diesel,3,Tesla,Automatic,Gray,Full,1,Yes,1036685,Дальний Восток
+2013,22.49,2000,Diesel,4,Nissan,Automatic,Black,Full,0,Yes,591739,Урал
+2022,14.1,4000,Petrol,4,Ford,Automatic,Blue,Unknown,1,Yes,912800,СПб
+2017,12.39,1000,Electric,2,Volkswagen,Manual,Gray,Full,0,Yes,743191,СПб
+2014,11.72,800,Diesel,4,Hyundai,Automatic,White,Partial,1,Yes,357647,Москва
+1998,23.53,5000,Petrol,3,Ford,Automatic,Gray,Partial,0,Yes,1033514,Сибирь
+2003,16.03,2500,Petrol,3,Ford,Manual,Red,Unknown,0,Yes,582358,Юг
+1997,13.27,5000,Petrol,3,Hyundai,Manual,Black,Partial,2,Yes,703121,Урал
+1998,12.96,1800,Diesel,5,Nissan,Manual,Silver,Full,0,Yes,95000,Москва
+2005,18.12,1800,Diesel,2,BMW,Automatic,Silver,Unknown,1,Yes,540481,Урал
+2016,5.0,2000,Petrol,5,Toyota,Manual,White,Full,0,Yes,372755,Урал
+2009,11.28,800,Petrol,1,Hyundai,Manual,Blue,Full,0,Yes,649443,Урал
+2019,21.27,1800,Electric,4,Nissan,Manual,White,Partial,0,Yes,1119023,Москва
+2007,12.42,3000,Diesel,2,Hyundai,Manual,Red,Unknown,1,Yes,539971,Урал
+2008,25.77,1200,Petrol,2,Nissan,Manual,White,Full,0,Yes,728294,Урал
+2017,13.56,1800,Petrol,4,Kia,Manual,Blue,Full,1,Yes,662334,СПб
+2013,18.76,1800,Electric,2,Honda,Manual,White,Full,0,Yes,933064,Сибирь
+2010,23.12,1000,Diesel,4,Hyundai,Automatic,Gray,Partial,0,No,576305,Москва
+2010,11.22,1800,Petrol,5,Ford,Manual,Blue,Full,0,No,541577,Москва
+2023,17.93,3000,Diesel,2,BMW,Manual,White,Partial,0,No,994999,Москва
+2013,33.07,1000,Petrol,4,Toyota,Automatic,Gray,Full,0,Yes,633753,Москва
+2012,17.45,4000,Diesel,4,Tesla,Automatic,Silver,Full,0,Yes,924753,Москва
+1997,19.74,5000,Electric,4,BMW,Manual,White,Full,0,Yes,1186052,Урал
+2011,17.58,1500,Diesel,5,Volkswagen,Manual,Blue,Partial,1,Yes,353263,Сибирь
+1996,13.12,3000,Petrol,4,BMW,Manual,Red,Unknown,1,Yes,462335,СПб
+2014,15.91,1200,Petrol,3,Ford,Automatic,Red,Unknown,0,Yes,587735,Сибирь
+2006,14.78,1200,Diesel,5,Ford,Automatic,Red,Full,2,Yes,341828,СПб
+2005,16.5,1000,Electric,5,Tesla,Manual,White,Partial,1,Yes,543202,Дальний Восток
+1997,17.52,1800,Diesel,2,Ford,Automatic,Blue,Unknown,1,No,358115,Сибирь
+2012,27.97,1800,Diesel,3,Nissan,Manual,White,Full,0,Yes,722504,Дальний Восток
+1997,19.34,3000,Electric,2,BMW,Automatic,White,Partial,0,Yes,1007715,Москва
+2011,19.96,3000,Petrol,1,BMW,Manual,Red,Full,0,Yes,854226,Дальний Восток
+2007,23.06,1800,Electric,5,Nissan,Automatic,Gray,Partial,0,Yes,640771,Сибирь
+2014,25.12,2500,Diesel,4,Nissan,Manual,Blue,Full,0,No,773597,Дальний Восток
+1997,5.97,1200,Diesel,3,BMW,Automatic,White,Full,0,Yes,350686,Юг
+2004,17.67,5000,Diesel,3,BMW,Manual,White,Full,1,No,1125946,Юг
+1995,30.14,2000,Petrol,1,Nissan,Automatic,Silver,Unknown,1,Yes,606454,Москва
+2001,26.86,1500,Petrol,1,Tesla,Manual,Gray,Full,0,Yes,715807,Урал
+2002,17.6,2000,Diesel,5,Ford,Manual,White,Full,0,Yes,409858,Москва
+2013,20.27,1800,Diesel,4,Volkswagen,Automatic,Gray,Partial,0,No,568253,Юг
+2009,10.27,5000,Petrol,1,Hyundai,Manual,Blue,Unknown,0,Yes,912178,Урал
+2021,12.4,1800,Petrol,2,Volkswagen,Automatic,White,Full,0,No,766922,Дальний Восток
+2014,17.39,800,Diesel,4,Tesla,Manual,Silver,Full,0,Yes,441285,Урал
+2007,26.08,1000,Petrol,2,Nissan,Automatic,Gray,Full,0,Yes,515810,Юг
+1996,14.42,3000,Diesel,5,Volkswagen,Automatic,White,Partial,0,No,396531,Сибирь
+2020,22.84,2500,Diesel,4,Volkswagen,Manual,Black,Full,0,Yes,776874,Сибирь
+2012,15.14,1000,Petrol,2,Hyundai,Automatic,Black,Full,0,Yes,387059,Сибирь
+2013,21.06,1200,Petrol,5,Toyota,Manual,Gray,Unknown,0,Yes,514103,Урал
+1997,12.22,1500,Diesel,1,Honda,Manual,Blue,Full,1,Yes,362597,Урал
+1997,9.4,2000,Petrol,1,Toyota,Manual,Red,Partial,1,Yes,363409,Сибирь
+1997,21.95,1000,Diesel,2,Hyundai,Automatic,Gray,Full,0,No,367176,Сибирь
+2015,14.42,4000,Diesel,3,Volkswagen,Automatic,Blue,Partial,0,Yes,877389,Урал
+2014,18.22,1500,Petrol,3,Kia,Manual,Red,Full,1,Yes,580746,Юг
+2007,7.31,800,Diesel,4,Nissan,Automatic,Blue,Full,1,No,282889,СПб
+1997,19.87,1500,Diesel,4,Kia,Automatic,White,Partial,0,Yes,447634,Москва
+1995,22.09,4000,Petrol,5,Kia,Automatic,Gray,Partial,2,No,727225,Урал
+2003,21.05,2000,Petrol,5,Ford,Automatic,Blue,Partial,1,Yes,472647,Юг
+2006,22.51,4000,Petrol,3,Ford,Manual,White,Unknown,1,No,845959,Москва
+2010,18.99,4000,Diesel,2,Chevrolet,Automatic,White,Full,1,No,930959,СПб
+2022,27.32,5000,Petrol,2,Volkswagen,Manual,Blue,Full,1,No,1420397,Москва
+1997,17.91,1500,Diesel,1,Hyundai,Manual,White,Partial,0,Yes,418132,Юг
+2014,16.21,4000,Diesel,5,Honda,Manual,White,Unknown,1,Yes,961033,Юг
+2018,13.51,2500,Petrol,4,Hyundai,Manual,Gray,Full,0,Yes,685819,Сибирь
+1998,22.26,1500,Diesel,5,Chevrolet,Manual,White,Unknown,1,Yes,358305,Москва
+1995,5.52,1500,Electric,2,Kia,Automatic,Silver,Partial,1,Yes,401622,Сибирь
+1998,15.98,1000,Petrol,4,Kia,Manual,Gray,Full,0,Yes,230324,Дальний Восток
+2021,24.11,1000,Petrol,4,BMW,Manual,Red,Full,1,Yes,607830,Урал
+2009,22.45,4000,Diesel,3,Tesla,Automatic,Silver,Unknown,3,Yes,900616,Урал
+2004,14.56,1200,Petrol,3,Chevrolet,Manual,Blue,Partial,0,Yes,422136,Москва
+2009,22.83,1500,Diesel,5,Honda,Manual,White,Partial,0,Yes,510775,Москва
+2008,12.37,1500,Petrol,2,Ford,Manual,White,Partial,1,No,456206,Сибирь
+2002,15.08,2500,Electric,3,Tesla,Manual,Silver,Unknown,0,Yes,877728,Сибирь
+2002,22.85,2000,Petrol,3,Toyota,Automatic,Red,Partial,1,No,493609,Москва
+2006,12.68,3000,Diesel,3,Hyundai,Automatic,White,Full,0,Yes,766176,СПб
+2006,14.08,1800,Petrol,3,Kia,Manual,Blue,Unknown,0,Yes,634061,Юг
+2022,12.8,1200,Petrol,4,Chevrolet,Manual,Blue,Full,0,No,600431,Москва
+2015,10.23,2500,Petrol,5,Chevrolet,Manual,Silver,Unknown,0,Yes,401138,Юг
+2001,21.05,1200,Petrol,5,Ford,Manual,Blue,Full,0,Yes,497648,Дальний Восток
+2008,14.95,1800,Diesel,1,Kia,Manual,Red,Unknown,0,Yes,652427,Сибирь
+2023,14.14,800,Electric,5,Honda,Manual,Silver,Unknown,0,No,699157,Юг
+2012,16.0,1500,Diesel,5,Honda,Automatic,Blue,Unknown,1,Yes,365176,Урал
+1998,15.34,5000,Petrol,4,Toyota,Automatic,Silver,Partial,1,Yes,854558,Урал
+1995,21.11,800,Diesel,4,Volkswagen,Manual,Silver,Partial,2,No,95000,СПб
+2011,9.32,2500,Petrol,2,Chevrolet,Manual,Black,Full,0,Yes,601587,Юг
+2001,20.67,1500,Petrol,4,Chevrolet,Automatic,Red,Full,0,Yes,480377,Москва
+2002,11.44,800,Petrol,3,Toyota,Manual,White,Partial,2,No,95000,СПб
+2010,17.08,4000,Electric,4,Hyundai,Manual,Blue,Full,0,Yes,1188319,СПб
+2021,23.62,800,Diesel,5,Honda,Manual,Red,Partial,0,Yes,697062,Москва
+1995,7.32,2000,Petrol,3,Chevrolet,Automatic,Black,Full,0,Yes,193717,СПб
+2017,18.36,1500,Diesel,1,Hyundai,Manual,Silver,Full,0,Yes,732858,Урал
+2007,22.8,2000,Petrol,2,Tesla,Manual,Blue,Unknown,1,Yes,735568,СПб
+2019,20.54,2000,Electric,3,Honda,Manual,Blue,Full,0,Yes,1062024,Урал
+2022,17.03,5000,Diesel,2,Nissan,Manual,Gray,Full,0,No,1195830,Дальний Восток
+2020,7.68,2500,Diesel,1,Chevrolet,Manual,Gray,Full,1,No,799833,Дальний Восток
+2001,24.47,4000,Petrol,5,BMW,Manual,Black,Partial,2,Yes,819351,Сибирь
+2021,20.67,800,Diesel,5,Ford,Manual,White,Partial,0,Yes,612872,Москва
+2015,16.0,800,Diesel,4,Volkswagen,Manual,Gray,Unknown,0,Yes,547104,Сибирь
+2000,16.78,2000,Petrol,5,Volkswagen,Manual,Blue,Unknown,0,Yes,248831,Юг
+2020,18.96,2500,Petrol,1,Toyota,Manual,Silver,Full,1,Yes,873080,СПб
+2003,15.7,4000,Diesel,1,BMW,Manual,White,Full,1,Yes,938241,СПб
+2002,20.24,5000,Petrol,1,Tesla,Automatic,Red,Full,1,Yes,1054522,Москва
+2007,14.12,2500,Diesel,2,Honda,Automatic,Red,Full,0,No,692464,Москва
+2008,17.69,2500,Petrol,5,Ford,Automatic,Blue,Unknown,1,Yes,682682,Сибирь
+2007,18.98,2000,Petrol,2,Ford,Automatic,Blue,Partial,0,Yes,692162,СПб
+2009,15.52,1500,Petrol,1,BMW,Manual,Black,Full,1,Yes,584789,Юг
+2010,10.52,1800,Petrol,4,BMW,Automatic,Black,Unknown,1,Yes,440102,Дальний Восток
+2010,25.32,2000,Diesel,4,BMW,Automatic,Black,Full,1,No,711743,Сибирь
+2018,11.47,1200,Petrol,5,Toyota,Automatic,Gray,Unknown,1,Yes,366614,Урал
+2003,13.02,1000,Petrol,1,Ford,Manual,Blue,Unknown,0,No,302056,Юг
+2003,18.03,4000,Petrol,4,Nissan,Manual,Silver,Partial,1,Yes,737017,СПб
+2017,15.74,800,Petrol,1,Tesla,Automatic,Red,Unknown,0,Yes,496565,СПб
+2016,24.5,5000,Diesel,5,Honda,Manual,White,Full,0,Yes,1201168,СПб
+2023,24.79,1000,Diesel,4,Hyundai,Automatic,Red,Unknown,1,Yes,753743,Москва
+1995,25.49,1500,Petrol,3,Honda,Manual,Black,Full,0,Yes,429301,Юг
+2014,20.54,1000,Petrol,3,Honda,Manual,Silver,Partial,0,No,566910,Дальний Восток
+2014,17.17,2500,Petrol,4,Volkswagen,Manual,Silver,Partial,0,No,658872,Дальний Восток
+2017,19.25,1500,Petrol,4,Kia,Automatic,White,Unknown,0,Yes,608431,Юг
+2009,16.23,5000,Diesel,1,Honda,Manual,Red,Full,1,No,828397,Урал
+2010,17.51,800,Petrol,3,Chevrolet,Manual,Black,Partial,0,Yes,297774,СПб
+2015,25.69,1800,Diesel,1,Toyota,Automatic,White,Full,0,Yes,749405,Юг
+2011,14.17,3000,Diesel,4,BMW,Manual,Black,Full,0,Yes,884638,Урал
+2019,15.58,2500,Electric,1,Nissan,Manual,Silver,Full,0,Yes,1128160,Дальний Восток
+2006,20.07,2500,Petrol,1,Volkswagen,Manual,Red,Full,0,Yes,769076,Дальний Восток
+2013,12.17,5000,Diesel,5,Chevrolet,Manual,Blue,Partial,0,Yes,1158010,Урал
+2000,21.61,4000,Petrol,3,Hyundai,Automatic,Red,Full,0,Yes,724270,Дальний Восток
+2010,16.99,2000,Petrol,3,Chevrolet,Automatic,Silver,Partial,1,Yes,600520,Юг
+2015,20.1,2000,Diesel,3,BMW,Manual,Silver,Full,0,Yes,579349,СПб
+2001,8.17,4000,Petrol,4,Chevrolet,Manual,White,Unknown,0,No,815826,Юг
+1997,10.62,800,Diesel,5,Nissan,Manual,Gray,Unknown,0,Yes,95000,Дальний Восток
+2013,21.07,1800,Electric,3,Volkswagen,Manual,Blue,Partial,0,Yes,998659,Юг
+1997,14.28,1800,Diesel,5,Hyundai,Manual,Red,Full,1,Yes,287963,Юг
+2009,14.06,1800,Electric,2,BMW,Automatic,Red,Partial,1,Yes,994811,Сибирь
+2023,23.68,800,Petrol,5,BMW,Automatic,Blue,Full,0,Yes,620495,СПб
+2006,11.49,2500,Electric,5,Chevrolet,Manual,Red,Full,0,Yes,798537,Юг
+1998,8.45,5000,Petrol,1,Volkswagen,Automatic,Gray,Partial,1,Yes,683734,Москва
+2012,16.07,1200,Diesel,1,Kia,Automatic,Black,Partial,0,Yes,459053,СПб
+1999,24.08,2000,Petrol,5,Honda,Manual,Blue,Partial,0,Yes,422993,Дальний Восток
+1998,10.83,5000,Petrol,3,Ford,Automatic,Black,Full,0,Yes,781403,СПб
+2002,10.4,1500,Petrol,3,Hyundai,Manual,Red,Unknown,2,Yes,194484,Москва
+1998,13.12,5000,Diesel,1,Ford,Manual,Black,Partial,0,Yes,941118,Москва
+2003,25.52,2500,Diesel,5,BMW,Automatic,Gray,Unknown,0,Yes,679517,Москва
+2006,15.43,5000,Petrol,4,Ford,Automatic,Red,Partial,0,No,1109860,Урал
+2018,20.25,2500,Diesel,4,Chevrolet,Manual,Blue,Partial,1,Yes,697305,Урал
+2003,6.31,3000,Diesel,4,Nissan,Automatic,Red,Partial,0,Yes,454554,Дальний Восток
+1999,15.28,1000,Petrol,5,Toyota,Automatic,Gray,Full,0,Yes,240204,Дальний Восток
+2015,11.95,4000,Electric,4,Kia,Manual,Red,Unknown,0,No,1341118,Юг
+2011,20.69,4000,Diesel,3,Chevrolet,Automatic,Silver,Full,1,Yes,889168,Урал
+2006,19.83,1500,Diesel,1,Chevrolet,Manual,Black,Unknown,0,No,509760,СПб
+2019,22.03,5000,Petrol,1,Nissan,Automatic,Red,Unknown,1,Yes,1305193,Сибирь
+2020,16.09,1800,Petrol,2,Volkswagen,Automatic,Gray,Full,0,No,685392,Дальний Восток
+2022,13.01,5000,Electric,2,Volkswagen,Automatic,Silver,Full,1,Yes,1592682,Москва
+2023,6.78,1500,Petrol,2,Kia,Manual,Red,Partial,1,Yes,868651,Юг
+2012,22.28,1800,Diesel,5,Toyota,Manual,Gray,Unknown,1,No,631235,Урал
+2020,22.07,5000,Petrol,2,Tesla,Manual,Blue,Partial,1,Yes,1212423,Дальний Восток
+2008,18.49,1000,Diesel,2,Volkswagen,Automatic,Blue,Full,2,Yes,504314,Дальний Восток
+2017,17.7,1000,Petrol,3,Toyota,Manual,Gray,Full,2,No,378309,СПб
+2008,18.17,2000,Diesel,2,Kia,Automatic,Silver,Partial,0,No,668430,Москва
+1996,11.65,2500,Diesel,4,Volkswagen,Manual,Silver,Full,0,Yes,231806,Сибирь
+2006,14.06,4000,Petrol,3,Volkswagen,Manual,Red,Full,0,Yes,677492,Дальний Восток
+2020,19.67,1800,Petrol,3,Honda,Automatic,Blue,Full,1,Yes,686964,Урал
+2003,20.51,2000,Diesel,1,Chevrolet,Manual,Black,Partial,0,Yes,685273,Москва
+2004,18.61,1200,Diesel,2,Kia,Automatic,Silver,Full,0,Yes,521545,Дальний Восток
+2012,16.35,1800,Diesel,4,BMW,Manual,White,Full,2,Yes,516995,Москва
+2013,9.17,1800,Petrol,1,Toyota,Automatic,White,Full,2,Yes,596904,Юг
+2006,21.59,1800,Diesel,4,Nissan,Automatic,Black,Full,0,Yes,636048,Москва
+2020,20.76,1800,Electric,1,Hyundai,Automatic,Red,Full,0,No,1062322,Дальний Восток
+1997,14.14,1000,Petrol,1,Honda,Automatic,Gray,Full,1,No,396692,Сибирь
+2015,23.36,4000,Petrol,2,Chevrolet,Automatic,Silver,Full,0,Yes,1189719,Юг
+2011,13.1,1800,Petrol,2,Ford,Manual,White,Full,0,Yes,707723,Дальний Восток
+2002,29.61,2000,Diesel,4,Ford,Automatic,Gray,Full,1,Yes,591085,Урал
+2017,19.14,1200,Electric,5,Volkswagen,Automatic,Red,Full,0,Yes,739385,Урал
+2003,15.51,5000,Diesel,3,Kia,Automatic,Silver,Full,1,Yes,854409,Москва
+1999,18.71,1800,Diesel,1,Toyota,Automatic,Gray,Full,1,Yes,510723,СПб
+2003,14.26,1500,Petrol,1,Honda,Automatic,Silver,Unknown,1,Yes,438873,Дальний Восток
+2009,28.27,1200,Petrol,2,Hyundai,Manual,White,Full,2,Yes,811185,СПб
+2016,22.02,800,Diesel,1,Kia,Manual,Gray,Unknown,0,Yes,679341,Урал
+2016,12.97,1500,Diesel,4,Volkswagen,Automatic,Gray,Full,1,No,718395,Дальний Восток
+2005,14.76,1000,Diesel,5,Ford,Automatic,White,Full,1,Yes,329454,Москва
+2022,23.46,1800,Electric,2,Honda,Manual,Black,Full,1,Yes,1217299,Сибирь
+1999,17.2,800,Petrol,3,Toyota,Automatic,Gray,Partial,1,Yes,237179,Юг
+2002,19.84,800,Diesel,4,Toyota,Automatic,Silver,Unknown,0,No,320802,Юг
+2016,18.73,800,Diesel,4,Nissan,Automatic,White,Partial,1,Yes,494045,СПб
+1997,17.28,3000,Diesel,4,Honda,Manual,Blue,Full,1,No,476586,Урал
+2001,7.63,1800,Diesel,2,Tesla,Automatic,Silver,Partial,1,No,350481,Юг
+1996,18.19,1500,Diesel,1,Hyundai,Manual,Black,Partial,0,Yes,336985,Дальний Восток
+2008,20.49,5000,Petrol,3,Hyundai,Manual,Red,Full,1,Yes,981801,Москва
+1995,14.85,4000,Diesel,2,Nissan,Automatic,White,Unknown,1,Yes,639286,Дальний Восток
+2006,14.35,1800,Diesel,5,Volkswagen,Automatic,Gray,Full,0,Yes,443774,Москва
+2005,18.32,800,Diesel,1,Tesla,Manual,Black,Full,0,Yes,256637,Дальний Восток
+2012,11.5,1000,Electric,3,Ford,Automatic,Gray,Partial,1,Yes,740939,Москва
+2022,19.68,4000,Petrol,4,Hyundai,Automatic,White,Full,0,Yes,1039216,СПб
+2020,15.34,1500,Diesel,5,BMW,Automatic,Black,Unknown,1,Yes,817946,Москва
+2007,24.47,4000,Diesel,2,Kia,Manual,Blue,Full,0,No,817175,СПб
+2013,18.83,5000,Diesel,3,BMW,Manual,Black,Full,0,Yes,984637,СПб
+2002,15.26,2000,Petrol,1,Nissan,Manual,Blue,Partial,1,Yes,557002,Урал
+2011,11.55,1500,Petrol,5,BMW,Manual,White,Partial,2,Yes,460643,Москва
+2004,21.94,1800,Petrol,1,Nissan,Manual,Gray,Full,0,Yes,615665,Дальний Восток
+2017,28.46,2500,Electric,1,Ford,Automatic,Black,Partial,1,Yes,1105544,Москва
+2020,20.96,1500,Petrol,4,Honda,Manual,Gray,Full,0,Yes,683566,Москва
+2002,17.51,1200,Diesel,1,Nissan,Manual,Gray,Full,1,Yes,401931,Сибирь
+2018,18.47,2000,Diesel,2,BMW,Automatic,White,Unknown,2,Yes,889925,Урал
+2012,17.25,800,Diesel,2,Toyota,Automatic,Blue,Partial,1,No,556859,Сибирь
+1998,6.33,1000,Diesel,5,Tesla,Manual,Red,Partial,0,Yes,95000,Москва
+2002,16.52,1200,Petrol,4,BMW,Manual,Red,Full,0,Yes,288372,Москва
+2009,32.42,800,Petrol,1,Honda,Manual,Red,Full,0,Yes,730985,Сибирь
+2010,12.96,2000,Petrol,2,Toyota,Manual,Black,Full,1,Yes,590066,Юг
+2000,17.45,1500,Electric,5,Ford,Automatic,Silver,Full,0,Yes,653224,Сибирь
+2022,20.78,1500,Petrol,5,Toyota,Automatic,Silver,Unknown,0,Yes,754010,Москва
+2017,13.11,800,Petrol,4,Ford,Manual,Gray,Partial,0,Yes,389627,СПб
+2012,15.39,800,Diesel,1,Nissan,Automatic,Blue,Full,0,Yes,656130,Дальний Восток
+2015,27.78,3000,Diesel,4,Tesla,Manual,Red,Unknown,0,Yes,750150,Юг
+2001,14.99,5000,Diesel,2,Tesla,Manual,Silver,Partial,1,No,829399,СПб
+2000,17.29,1800,Electric,3,Ford,Automatic,Blue,Full,1,Yes,850974,Урал
+2020,25.13,5000,Petrol,5,Toyota,Manual,White,Full,0,Yes,1153527,Сибирь
+2018,11.3,2500,Petrol,5,Hyundai,Automatic,Red,Partial,0,Yes,719551,Сибирь
+2006,19.09,3000,Petrol,4,Chevrolet,Manual,Red,Partial,1,Yes,732879,Москва
+1999,20.39,3000,Diesel,2,Nissan,Automatic,Gray,Unknown,1,Yes,682187,Сибирь
+2002,13.17,3000,Diesel,4,Ford,Manual,Black,Partial,1,Yes,648772,Урал
+2005,21.41,2000,Electric,1,Honda,Automatic,Silver,Full,0,Yes,798013,Юг
+2010,27.08,800,Diesel,5,Nissan,Manual,Black,Full,1,Yes,532944,Урал
+2018,10.35,4000,Petrol,1,Toyota,Automatic,Black,Full,0,No,1103901,Дальний Восток
+2011,14.36,2500,Diesel,3,Toyota,Manual,Gray,Partial,0,Yes,567765,Сибирь
+2005,22.23,2000,Electric,3,BMW,Manual,Silver,Unknown,1,Yes,921669,СПб
+2013,14.37,1200,Diesel,2,Nissan,Automatic,Silver,Full,0,Yes,681119,Дальний Восток
+2022,22.67,2500,Diesel,4,Nissan,Automatic,Gray,Full,0,No,941954,Дальний Восток
+2004,18.35,1200,Petrol,5,BMW,Manual,White,Unknown,0,Yes,306285,Сибирь
+2022,22.92,3000,Petrol,3,Kia,Automatic,Red,Partial,2,No,1008332,Дальний Восток
+2011,15.44,1800,Petrol,4,Toyota,Manual,Red,Full,1,Yes,454107,СПб
+2023,24.4,4000,Petrol,5,Toyota,Manual,Red,Partial,1,Yes,1085184,Дальний Восток
+2011,20.99,1800,Petrol,3,Volkswagen,Automatic,Gray,Unknown,0,Yes,659883,Урал
+1997,18.49,3000,Diesel,5,Hyundai,Automatic,Silver,Full,1,Yes,425237,Дальний Восток
+1999,17.63,1200,Diesel,4,Ford,Manual,Silver,Full,0,Yes,258520,СПб
+2007,21.5,2500,Electric,5,Tesla,Automatic,Blue,Unknown,1,No,844281,Москва
+2018,21.85,800,Diesel,1,Kia,Manual,Gray,Full,0,No,560106,Москва
+1998,20.76,800,Petrol,4,Chevrolet,Automatic,Silver,Unknown,0,Yes,306246,СПб
+2011,15.11,1800,Diesel,3,Tesla,Manual,Silver,Full,2,Yes,635395,СПб
+2020,15.72,1500,Petrol,2,Hyundai,Manual,White,Partial,2,No,877476,Сибирь
+2001,21.22,1000,Electric,5,Tesla,Automatic,Silver,Partial,1,No,533011,СПб
+1995,14.57,2500,Petrol,1,Chevrolet,Automatic,Red,Unknown,2,Yes,569183,Урал
+2015,13.45,1000,Diesel,1,Hyundai,Manual,White,Partial,0,Yes,607928,Дальний Восток
+2023,19.67,3000,Diesel,4,Toyota,Manual,Black,Partial,0,Yes,1094202,Дальний Восток
+2008,19.38,1500,Electric,3,Kia,Manual,Silver,Partial,0,Yes,806720,СПб
+2006,25.09,2000,Petrol,2,Toyota,Automatic,Silver,Full,0,Yes,834085,СПб
+2011,20.13,5000,Diesel,1,Nissan,Manual,Red,Full,0,Yes,1031764,Сибирь
+1995,20.12,2000,Diesel,5,Kia,Automatic,Black,Full,1,Yes,357846,Сибирь
+2014,22.33,5000,Petrol,4,Tesla,Manual,Blue,Full,0,Yes,1051910,Юг
+2007,21.88,1500,Diesel,3,Tesla,Automatic,Black,Full,2,Yes,565094,Дальний Восток
+2008,11.27,1800,Diesel,4,BMW,Manual,Black,Partial,1,Yes,502361,Урал
+2003,19.69,2500,Diesel,3,Honda,Manual,Red,Partial,1,No,629093,Дальний Восток
+2021,15.1,800,Electric,3,Volkswagen,Manual,White,Full,1,Yes,921705,Москва
+2013,15.43,2000,Petrol,5,BMW,Automatic,Red,Full,0,Yes,576556,СПб
+2012,18.44,1500,Diesel,4,Nissan,Manual,Silver,Full,1,Yes,635620,Дальний Восток
+2022,17.14,800,Diesel,4,BMW,Manual,White,Unknown,1,Yes,515443,Юг
+2017,21.02,4000,Diesel,2,Hyundai,Automatic,Silver,Partial,0,No,1048258,СПб
+1998,21.18,3000,Petrol,4,Volkswagen,Automatic,Gray,Unknown,0,Yes,522130,Юг
+2002,26.81,1500,Diesel,5,Nissan,Manual,Silver,Full,0,Yes,367810,Юг
+2011,19.63,1000,Petrol,2,Nissan,Manual,Blue,Full,1,Yes,476357,Дальний Восток
+1997,20.12,5000,Diesel,4,BMW,Automatic,Blue,Partial,0,Yes,818224,Урал
+1998,16.85,2000,Petrol,5,Tesla,Manual,Gray,Full,1,Yes,324509,Сибирь
+2020,13.3,1500,Petrol,3,Tesla,Automatic,Black,Full,1,No,688629,Сибирь
+2018,19.42,1200,Petrol,2,Chevrolet,Manual,Red,Full,0,Yes,573015,Дальний Восток
+2014,17.94,1000,Diesel,5,Hyundai,Automatic,White,Partial,0,Yes,414476,Урал
+2016,22.45,4000,Diesel,5,Ford,Manual,Gray,Full,1,No,931176,Урал
+1998,13.38,1200,Petrol,3,Honda,Automatic,Gray,Full,0,Yes,273864,Урал
+2022,15.93,800,Petrol,4,Chevrolet,Automatic,Gray,Full,0,Yes,410766,СПб
+2000,27.4,2000,Petrol,5,Hyundai,Automatic,Red,Unknown,0,Yes,302870,Юг
+2019,16.05,1800,Petrol,4,Nissan,Manual,Red,Partial,0,No,540542,Урал
+2010,24.98,1200,Diesel,1,Ford,Manual,Black,Full,1,Yes,523293,Дальний Восток
+1995,15.41,5000,Diesel,1,Nissan,Manual,Red,Unknown,0,Yes,976422,Сибирь
+2002,12.42,2500,Petrol,5,Kia,Manual,Gray,Full,1,Yes,435571,СПб
+2020,16.72,2500,Diesel,4,Nissan,Automatic,White,Full,2,No,680717,Юг
+1995,17.24,2000,Petrol,2,Toyota,Automatic,Red,Full,1,Yes,506679,Дальний Восток
+2017,22.73,1200,Petrol,1,Honda,Manual,Red,Unknown,2,Yes,702670,Юг
+1995,13.49,1000,Petrol,4,Toyota,Automatic,Gray,Full,0,Yes,384944,Сибирь
+2015,14.6,1500,Petrol,2,BMW,Automatic,Black,Unknown,2,Yes,646063,Сибирь
+2000,20.84,2000,Petrol,5,Toyota,Manual,Black,Full,0,Yes,386899,СПб
+2011,18.61,2000,Petrol,2,Nissan,Manual,Black,Full,0,Yes,525715,Сибирь
+2008,19.09,3000,Diesel,1,Tesla,Automatic,White,Full,0,No,920035,Юг
+2005,18.88,5000,Diesel,3,Hyundai,Manual,Black,Partial,1,No,965906,СПб
+2011,30.26,2500,Petrol,3,BMW,Manual,White,Unknown,0,Yes,791947,Урал
+2002,19.01,2500,Diesel,1,BMW,Manual,Black,Full,0,Yes,651703,Сибирь
+2000,9.42,800,Diesel,3,Chevrolet,Manual,Red,Partial,0,Yes,296335,СПб
+2015,14.71,3000,Diesel,4,Nissan,Manual,White,Full,1,Yes,647306,Дальний Восток
+1999,14.4,800,Petrol,3,Ford,Manual,Blue,Unknown,0,Yes,103983,СПб
+1999,12.39,5000,Petrol,4,Honda,Manual,White,Full,0,Yes,1057091,Сибирь
+2008,19.92,1800,Diesel,2,Honda,Manual,Blue,Full,1,Yes,626502,Москва
+2015,5.0,4000,Diesel,4,Kia,Manual,Black,Partial,0,Yes,837521,СПб
+2021,20.71,1500,Petrol,4,Kia,Manual,Black,Full,1,No,596730,Юг
+2013,19.45,4000,Petrol,2,BMW,Manual,White,Partial,0,Yes,1056438,Урал
+2023,14.07,5000,Diesel,2,BMW,Automatic,Silver,Full,0,Yes,1267950,Сибирь
+2013,19.14,800,Petrol,5,BMW,Manual,Silver,Full,1,Yes,330102,Сибирь
+2014,17.89,1800,Diesel,3,Hyundai,Manual,Blue,Partial,0,No,556944,Урал
+2018,20.75,2500,Diesel,5,Honda,Automatic,Silver,Full,2,Yes,670992,Дальний Восток
+2002,23.34,5000,Petrol,5,Tesla,Manual,Red,Unknown,1,Yes,892887,СПб
+2007,15.38,800,Petrol,4,Volkswagen,Automatic,Black,Full,0,Yes,449245,Дальний Восток
+1998,7.13,1500,Petrol,3,Chevrolet,Manual,White,Partial,1,Yes,271030,Дальний Восток
+2015,11.65,1500,Diesel,1,Honda,Automatic,Gray,Full,1,Yes,676000,Юг
+2009,26.66,1500,Diesel,3,Hyundai,Automatic,Black,Partial,0,No,597103,СПб
+2021,20.66,1800,Diesel,3,Ford,Automatic,White,Full,1,Yes,810344,СПб
+2010,11.34,3000,Diesel,4,Honda,Automatic,Black,Partial,1,Yes,613354,СПб
+2010,5.38,1500,Petrol,4,Hyundai,Manual,Black,Unknown,1,Yes,390580,СПб
+2015,11.07,1000,Petrol,3,Chevrolet,Manual,Blue,Unknown,2,Yes,565328,Москва
+2007,16.46,5000,Diesel,1,Nissan,Automatic,White,Full,0,Yes,1157854,Дальний Восток
+2000,28.68,4000,Diesel,1,Ford,Automatic,Red,Unknown,1,Yes,841891,СПб
+2004,21.64,1000,Diesel,1,Nissan,Automatic,Red,Unknown,1,No,472409,Юг
+2007,13.24,5000,Electric,3,Chevrolet,Automatic,Red,Full,0,Yes,1176705,Сибирь
+2017,15.52,4000,Diesel,1,BMW,Manual,White,Partial,1,Yes,1075658,Сибирь
+2011,25.95,1200,Electric,3,Ford,Automatic,Red,Unknown,0,Yes,910603,Дальний Восток
+2012,19.96,3000,Petrol,4,Volkswagen,Automatic,Black,Full,0,Yes,769536,Юг
+2014,18.12,4000,Diesel,3,Volkswagen,Manual,Blue,Unknown,0,Yes,1064178,СПб
+2023,22.51,1800,Diesel,4,Chevrolet,Manual,White,Full,0,Yes,778606,Юг
+1996,19.79,1000,Diesel,4,Volkswagen,Automatic,Silver,Unknown,0,No,214332,Москва
+1998,23.42,1000,Electric,4,BMW,Manual,White,Full,0,No,551227,Дальний Восток
+2018,25.44,1800,Petrol,2,BMW,Manual,Gray,Full,1,Yes,874059,СПб
+2012,23.3,3000,Petrol,5,Kia,Manual,Red,Partial,0,Yes,705477,Дальний Восток
+1997,18.86,800,Diesel,2,Hyundai,Automatic,Silver,Full,0,Yes,231365,Урал
+2023,24.57,4000,Petrol,3,Honda,Automatic,Silver,Full,0,No,1295957,Сибирь
+2014,17.48,800,Diesel,2,Honda,Manual,Black,Full,0,Yes,518721,Юг
+2003,17.7,1500,Diesel,4,Ford,Manual,Red,Full,0,Yes,355649,Москва
+2004,19.89,800,Petrol,3,Honda,Automatic,White,Full,2,Yes,356488,СПб
+2021,14.64,1800,Electric,4,Nissan,Automatic,Red,Full,0,No,866471,Сибирь
+2021,14.37,5000,Diesel,2,Kia,Automatic,Black,Full,0,No,1305844,Дальний Восток
+2010,19.17,5000,Petrol,5,Volkswagen,Automatic,Blue,Full,1,No,829575,Юг
+2023,19.12,1200,Electric,1,Nissan,Automatic,Blue,Full,0,Yes,1204552,Юг
+2023,15.89,2000,Petrol,4,BMW,Manual,Blue,Unknown,1,No,878445,Москва
+2013,22.84,2500,Petrol,2,Nissan,Manual,Black,Unknown,3,Yes,775114,Юг
+2021,18.75,1200,Petrol,5,Ford,Manual,Silver,Partial,1,Yes,682149,Сибирь
+2014,19.16,2000,Diesel,4,Toyota,Manual,Black,Full,0,Yes,774604,СПб
+2014,12.26,2000,Diesel,3,Toyota,Automatic,Red,Partial,0,Yes,593170,Сибирь
+1996,22.79,1500,Diesel,1,Volkswagen,Automatic,Red,Full,0,Yes,433084,Сибирь
+2014,26.48,800,Petrol,1,Nissan,Manual,Red,Unknown,0,Yes,626125,Сибирь
+1997,15.7,1800,Diesel,5,Hyundai,Manual,White,Full,1,Yes,517550,Урал
+2017,12.91,1500,Petrol,5,BMW,Automatic,Silver,Unknown,0,Yes,634286,СПб
+2007,14.21,1800,Petrol,1,Kia,Manual,Gray,Full,0,No,824750,Юг
+2011,15.22,2500,Diesel,3,Honda,Automatic,Black,Unknown,0,Yes,565142,СПб
+2008,9.94,1200,Petrol,4,Ford,Automatic,White,Full,0,Yes,414693,Юг
+2005,23.81,2000,Petrol,4,Honda,Automatic,White,Partial,1,No,576362,Дальний Восток
+2007,12.63,2000,Diesel,3,Toyota,Manual,Blue,Full,0,No,611580,Москва
+2007,19.21,5000,Electric,3,Tesla,Manual,Silver,Full,3,Yes,1319180,Сибирь
+2018,13.98,1000,Petrol,3,Tesla,Automatic,Gray,Unknown,0,Yes,467043,Дальний Восток
+2015,19.82,1200,Diesel,2,BMW,Automatic,Black,Unknown,0,Yes,685122,Сибирь
+2004,21.95,1000,Petrol,1,Chevrolet,Automatic,Blue,Full,0,Yes,601577,Юг
+2014,10.1,2500,Diesel,2,Hyundai,Manual,Silver,Full,0,Yes,606510,Урал
+2013,18.37,1000,Diesel,3,Chevrolet,Automatic,Black,Partial,0,No,477925,СПб
+1999,31.48,2500,Petrol,2,Honda,Automatic,Blue,Full,0,No,788739,Москва
+1998,16.63,1200,Electric,5,Volkswagen,Manual,Gray,Full,1,No,645592,СПб
+2020,20.78,1800,Petrol,3,Tesla,Manual,Red,Full,0,Yes,616514,Дальний Восток
+2004,18.6,1000,Petrol,3,Honda,Manual,White,Full,1,Yes,395559,Сибирь
+2012,25.58,5000,Petrol,1,Volkswagen,Manual,Blue,Partial,1,Yes,1257562,Дальний Восток
+2023,22.86,1200,Diesel,2,Chevrolet,Manual,Black,Unknown,0,Yes,728906,Урал
+2016,23.31,5000,Diesel,5,Nissan,Automatic,Silver,Unknown,0,No,955015,Сибирь
+2012,18.28,1000,Diesel,3,Toyota,Manual,Blue,Full,1,Yes,528976,Москва
+2011,10.17,3000,Petrol,2,Chevrolet,Manual,Red,Full,0,Yes,744630,Москва
+2015,18.47,1800,Diesel,4,Ford,Manual,Black,Full,1,Yes,625481,Урал
+2016,23.56,1500,Diesel,1,Toyota,Automatic,White,Full,0,No,839656,Юг
+2020,15.78,1200,Petrol,3,Honda,Manual,Blue,Full,2,Yes,776438,СПб
+2003,20.62,5000,Petrol,4,Honda,Automatic,Red,Partial,0,Yes,942167,Урал
+2009,14.3,1500,Electric,2,Ford,Manual,Gray,Partial,0,Yes,814186,Дальний Восток
+2009,6.85,3000,Petrol,5,Tesla,Manual,Gray,Full,0,Yes,485840,Москва
+2004,17.95,2000,Petrol,2,Volkswagen,Manual,Blue,Unknown,0,Yes,533688,Юг
+2022,13.98,2000,Petrol,2,Kia,Automatic,Silver,Partial,0,No,824341,Сибирь
+2021,22.29,1000,Petrol,1,Nissan,Manual,Blue,Unknown,0,Yes,844960,Урал
+2012,12.94,2500,Diesel,3,BMW,Manual,White,Full,1,Yes,488025,Москва
+2005,18.05,800,Diesel,3,BMW,Manual,Red,Full,0,Yes,352788,Урал
+2006,9.86,3000,Petrol,5,Ford,Automatic,White,Partial,1,Yes,620689,СПб
+1996,9.89,4000,Diesel,3,Hyundai,Manual,Gray,Unknown,0,Yes,540410,Юг
+2023,22.48,3000,Petrol,3,Tesla,Manual,Black,Full,0,Yes,938984,Урал
+2004,27.96,800,Electric,1,BMW,Manual,White,Unknown,2,Yes,776764,Урал
+1997,23.04,1200,Electric,5,Ford,Manual,Red,Full,0,Yes,585839,Юг
+2022,19.74,3000,Diesel,1,Ford,Manual,Gray,Partial,1,Yes,1056427,Юг
+2018,13.34,2000,Diesel,5,BMW,Automatic,Red,Full,0,Yes,524021,Москва
+2000,13.5,1000,Diesel,1,Ford,Automatic,Black,Partial,2,Yes,416590,Москва
+2001,12.75,4000,Petrol,4,Nissan,Manual,Silver,Unknown,0,Yes,675976,СПб
+2014,14.07,800,Diesel,4,Tesla,Manual,Red,Full,0,Yes,325650,Юг
+2012,21.95,3000,Petrol,3,Honda,Manual,Gray,Partial,0,No,855451,Дальний Восток
+2000,19.07,5000,Petrol,2,Honda,Manual,Red,Partial,0,No,1001647,Сибирь
+2004,17.58,5000,Petrol,5,Ford,Manual,Black,Full,0,Yes,890291,Юг
+1999,14.52,3000,Diesel,1,Honda,Manual,Gray,Partial,1,Yes,625830,СПб
+2008,15.6,3000,Petrol,5,Honda,Automatic,White,Partial,0,Yes,518622,Сибирь
+2001,17.66,5000,Diesel,3,Hyundai,Automatic,Red,Full,4,Yes,907332,Сибирь
+2020,20.9,3000,Petrol,1,BMW,Automatic,Black,Full,0,Yes,930759,Урал
+2016,13.37,4000,Petrol,2,Honda,Automatic,Silver,Partial,0,Yes,953132,Юг
+2008,12.29,5000,Diesel,4,Kia,Manual,Black,Partial,0,No,1064917,Юг
+2023,20.32,2500,Petrol,2,BMW,Manual,Black,Full,0,Yes,863454,Москва
+2021,11.39,2000,Petrol,4,Chevrolet,Manual,Red,Unknown,0,Yes,621089,Юг
+1999,22.03,2000,Diesel,4,Toyota,Manual,Silver,Full,0,Yes,572319,Урал
+2021,21.06,1800,Diesel,3,Tesla,Automatic,Black,Unknown,1,Yes,635779,Москва
+2016,9.39,5000,Diesel,4,Tesla,Manual,Red,Partial,1,Yes,947325,Москва
+2023,19.45,2000,Petrol,4,Kia,Manual,Black,Partial,0,Yes,780890,Сибирь
+2011,15.38,1800,Petrol,2,Tesla,Automatic,Gray,Full,0,Yes,590119,СПб
+2004,17.96,2000,Diesel,4,Kia,Automatic,White,Full,0,Yes,691553,Дальний Восток
+2007,20.64,2500,Petrol,4,BMW,Automatic,Blue,Full,0,No,616471,Сибирь
+2017,14.4,1500,Electric,2,Ford,Automatic,Black,Unknown,0,No,993343,СПб
+2017,23.76,4000,Petrol,5,Toyota,Automatic,Gray,Partial,0,Yes,912117,Москва
+2009,23.99,2500,Petrol,5,BMW,Manual,Black,Partial,0,Yes,717060,Дальний Восток
+2012,14.67,4000,Diesel,5,Toyota,Manual,Black,Full,1,No,603726,Дальний Восток
+2011,13.77,5000,Petrol,2,Volkswagen,Automatic,Blue,Full,1,Yes,933350,Сибирь
+2000,18.76,2000,Diesel,2,Volkswagen,Manual,Gray,Unknown,0,Yes,326726,Москва
+2019,8.9,800,Petrol,2,Ford,Automatic,White,Unknown,0,Yes,444747,Москва
+2016,25.42,1200,Diesel,3,Nissan,Manual,Blue,Partial,0,Yes,664686,Сибирь
+2007,19.98,1800,Petrol,5,Volkswagen,Manual,Black,Partial,0,Yes,308040,СПб
+1996,26.34,1500,Diesel,3,Tesla,Manual,Gray,Unknown,0,Yes,443317,Юг
+2010,24.79,1500,Petrol,3,Honda,Automatic,White,Full,0,Yes,669886,Урал
+2014,5.62,1200,Petrol,2,Volkswagen,Automatic,Red,Full,1,No,552370,Москва
+2004,18.28,1500,Diesel,1,Nissan,Manual,Black,Full,0,No,541990,Москва
+2015,26.55,1200,Petrol,5,Hyundai,Manual,Silver,Partial,0,Yes,558360,Сибирь
+2018,16.46,800,Diesel,1,Tesla,Automatic,Silver,Full,0,Yes,634040,Сибирь
+2003,13.09,5000,Diesel,5,Honda,Manual,Silver,Partial,0,Yes,767629,Москва
+2000,13.24,1000,Petrol,5,Volkswagen,Manual,Silver,Partial,1,Yes,277531,Москва
+1996,22.82,4000,Diesel,5,Toyota,Automatic,Red,Full,0,Yes,504679,СПб
+2022,19.85,3000,Electric,4,Chevrolet,Manual,Red,Full,2,Yes,1162173,СПб
+2008,19.91,800,Petrol,2,Kia,Manual,Black,Full,0,Yes,415717,Москва
+1996,9.56,1800,Diesel,5,Kia,Automatic,Blue,Unknown,1,Yes,263477,Сибирь
+2010,20.07,1200,Diesel,5,Tesla,Automatic,Red,Partial,0,Yes,512112,Юг
+2011,12.02,4000,Diesel,5,Chevrolet,Manual,Red,Full,0,Yes,762864,Урал
+2013,22.0,2000,Petrol,3,Chevrolet,Manual,Blue,Full,0,Yes,727723,Москва
+2007,16.1,1500,Petrol,2,Ford,Manual,Gray,Full,0,No,577608,Урал
+1995,20.45,5000,Diesel,5,Nissan,Automatic,Blue,Full,0,No,623440,Москва
+1995,10.61,1800,Diesel,3,Tesla,Automatic,Gray,Unknown,0,No,201794,Сибирь
+1996,20.37,2500,Petrol,3,Hyundai,Manual,Gray,Unknown,0,Yes,679579,СПб
+2014,21.27,1800,Diesel,1,BMW,Manual,White,Partial,1,Yes,902852,Дальний Восток
+2003,14.59,2000,Diesel,3,Honda,Manual,Black,Partial,1,Yes,606859,Дальний Восток
+2007,15.02,800,Diesel,5,Tesla,Automatic,Red,Full,1,Yes,392092,Москва
+2012,17.14,2500,Petrol,5,Kia,Manual,Silver,Partial,0,Yes,555284,Сибирь
+1997,11.22,1500,Petrol,4,Volkswagen,Manual,White,Full,0,Yes,331893,Урал
+1997,15.63,1500,Diesel,4,Honda,Manual,Red,Full,0,Yes,309486,Сибирь
+1999,9.93,2500,Diesel,1,Hyundai,Manual,White,Partial,0,Yes,650687,Сибирь
+2014,17.14,1000,Petrol,4,Chevrolet,Automatic,Blue,Partial,0,Yes,451018,Юг
+1996,14.15,2000,Petrol,5,Tesla,Manual,Red,Full,0,No,322577,Москва
+2009,21.97,1000,Petrol,3,Tesla,Automatic,Red,Full,1,Yes,574894,СПб
+2009,24.86,3000,Diesel,4,Hyundai,Automatic,Blue,Partial,0,Yes,774010,Урал
+2011,28.27,2000,Petrol,1,Nissan,Manual,Blue,Full,0,Yes,765798,Москва
+1997,19.6,800,Petrol,1,Kia,Automatic,Black,Partial,0,Yes,354066,Юг
+2001,9.14,5000,Electric,5,Tesla,Automatic,White,Full,0,Yes,895394,Сибирь
+2013,23.65,1000,Diesel,3,Volkswagen,Automatic,Black,Unknown,0,Yes,775419,Урал
+2021,21.26,1000,Petrol,4,Tesla,Manual,Black,Partial,0,Yes,742191,СПб
+2002,21.1,3000,Diesel,1,Toyota,Automatic,Gray,Full,2,Yes,794755,Юг
+2020,32.46,800,Petrol,3,Volkswagen,Manual,Black,Unknown,0,Yes,465092,Москва
+2006,20.18,3000,Diesel,1,Tesla,Manual,Black,Partial,1,Yes,878437,Сибирь
+1995,22.2,1000,Electric,2,Chevrolet,Manual,Gray,Full,1,Yes,634027,СПб
+2003,24.02,2000,Diesel,3,Kia,Automatic,Blue,Unknown,0,Yes,600965,Сибирь
+2007,7.98,1200,Petrol,3,Ford,Automatic,Silver,Partial,0,Yes,324055,Москва
+2017,16.97,2500,Diesel,1,Volkswagen,Manual,Silver,Full,1,Yes,902929,Дальний Восток
+2007,27.74,800,Petrol,2,Chevrolet,Automatic,Silver,Partial,0,Yes,660160,СПб
+2005,20.59,1800,Petrol,3,Ford,Automatic,Blue,Full,0,Yes,633656,Москва
+1996,23.99,4000,Electric,1,Chevrolet,Automatic,White,Full,1,Yes,1199759,Сибирь
+2020,24.14,1500,Diesel,3,Kia,Manual,Black,Partial,1,Yes,865179,Москва
+2014,13.97,2000,Petrol,5,Kia,Manual,White,Unknown,0,Yes,421092,Москва
+2002,15.76,2500,Diesel,3,Hyundai,Manual,White,Partial,0,Yes,377088,Урал
+2010,20.62,1200,Petrol,3,Volkswagen,Manual,Silver,Partial,0,Yes,590425,Москва
+2007,22.51,4000,Petrol,5,Honda,Manual,Silver,Partial,0,Yes,861858,Сибирь
+2022,17.82,2500,Diesel,3,BMW,Automatic,Red,Partial,1,Yes,761717,Дальний Восток
+1998,22.98,2000,Petrol,1,Ford,Automatic,Black,Full,0,Yes,846813,Дальний Восток
+2007,18.04,1200,Diesel,2,Ford,Manual,Red,Full,1,Yes,579976,Сибирь
+2023,9.65,5000,Diesel,3,Tesla,Manual,Red,Full,1,Yes,956197,СПб
+2009,19.2,3000,Electric,5,Toyota,Manual,Black,Full,0,No,1040868,Дальний Восток
+2015,14.43,2000,Petrol,3,Toyota,Manual,Blue,Partial,0,Yes,596250,Москва
+2015,7.68,4000,Diesel,1,Hyundai,Automatic,White,Full,1,Yes,998230,Урал
+2001,5.53,2500,Diesel,4,Ford,Manual,Silver,Full,0,No,338977,Москва
+2005,23.8,1000,Diesel,1,Volkswagen,Manual,White,Full,0,Yes,579952,Урал
+1995,21.45,3000,Petrol,4,Toyota,Automatic,Blue,Full,0,Yes,621351,СПб
+2017,16.84,1800,Petrol,3,BMW,Manual,Black,Unknown,0,No,706273,Урал
+2003,20.6,3000,Diesel,3,Ford,Manual,Red,Full,1,Yes,828848,Юг
+1997,7.54,1800,Petrol,2,Volkswagen,Manual,Silver,Partial,1,Yes,297018,Дальний Восток
+2022,21.2,2000,Petrol,4,Kia,Automatic,Red,Full,2,Yes,631497,СПб
+2010,14.42,2000,Petrol,5,Tesla,Manual,Silver,Unknown,1,Yes,490293,Юг
+2016,21.35,2000,Petrol,2,Hyundai,Automatic,Blue,Full,1,Yes,872575,Сибирь
+2003,26.23,2500,Electric,4,Toyota,Automatic,Silver,Full,0,Yes,1049096,Урал
+2014,17.91,5000,Diesel,4,Nissan,Automatic,White,Partial,0,No,1061006,Дальний Восток
+2017,12.84,1200,Diesel,2,Toyota,Automatic,Black,Partial,1,Yes,568272,Сибирь
+1999,29.04,1800,Petrol,1,BMW,Manual,Silver,Full,0,No,725062,Дальний Восток
+2017,12.82,1000,Diesel,2,Ford,Automatic,Silver,Partial,0,No,548949,СПб
+1997,21.25,1000,Petrol,3,Chevrolet,Manual,Red,Unknown,0,No,357432,Юг
+2019,13.85,1800,Diesel,5,Hyundai,Automatic,Silver,Partial,2,Yes,394229,Москва
+1995,14.97,3000,Petrol,2,Honda,Automatic,Black,Partial,0,No,649340,Юг
+2022,18.79,2500,Petrol,4,Tesla,Manual,Gray,Partial,1,Yes,839372,Сибирь
+1996,27.17,2500,Petrol,4,Kia,Manual,Blue,Full,1,Yes,428429,СПб
+2008,21.23,1000,Diesel,2,Nissan,Automatic,Red,Unknown,1,No,492417,Дальний Восток
+2008,24.95,4000,Electric,2,Hyundai,Automatic,White,Full,1,Yes,1222666,Урал
+2003,12.94,800,Diesel,2,Tesla,Manual,Silver,Partial,3,Yes,449340,Урал
+2021,19.82,800,Diesel,3,BMW,Manual,Black,Partial,2,No,589199,Юг
+2005,29.08,1500,Diesel,3,Honda,Manual,White,Full,0,Yes,639568,Юг
+2022,19.93,1200,Diesel,1,Volkswagen,Manual,Blue,Full,0,Yes,703622,Юг
+1996,10.07,1200,Petrol,4,Hyundai,Automatic,Red,Unknown,0,No,95215,Урал
+2007,18.72,800,Electric,5,BMW,Automatic,Silver,Partial,0,No,544679,Урал
+2014,13.09,1200,Petrol,5,Chevrolet,Manual,Blue,Partial,0,Yes,422418,Сибирь
+2015,13.27,1800,Petrol,5,Toyota,Manual,Gray,Unknown,1,Yes,478676,Юг
+2018,11.63,4000,Diesel,5,Kia,Automatic,Red,Full,0,Yes,1020926,Москва
+2010,18.63,1200,Diesel,1,Volkswagen,Manual,White,Full,0,Yes,546458,Дальний Восток
+2015,17.17,2500,Petrol,4,Chevrolet,Manual,Red,Full,0,Yes,699007,Москва
+2008,20.49,1500,Petrol,5,Kia,Automatic,Gray,Full,0,Yes,297177,Юг
+2021,19.8,2000,Petrol,1,Nissan,Manual,Black,Full,1,No,936757,Урал
+2012,15.87,3000,Petrol,5,Hyundai,Automatic,Red,Unknown,0,Yes,746436,Урал
+2019,16.44,3000,Diesel,2,Ford,Manual,Silver,Full,1,Yes,997956,СПб
+2018,12.31,2500,Petrol,5,Nissan,Automatic,Blue,Full,1,Yes,654597,Москва
+2018,20.66,1000,Petrol,2,Chevrolet,Manual,Blue,Partial,0,Yes,794870,СПб
+2020,9.7,1800,Petrol,4,BMW,Manual,Blue,Full,0,Yes,537862,Сибирь
+2011,19.31,4000,Electric,2,Tesla,Manual,Gray,Unknown,0,Yes,1309537,Дальний Восток
+1998,19.96,1000,Petrol,2,Hyundai,Manual,Blue,Partial,0,Yes,338796,Дальний Восток
+2000,15.02,1000,Petrol,4,Chevrolet,Manual,Silver,Partial,1,No,362887,СПб
+2003,22.12,4000,Petrol,3,Volkswagen,Manual,Silver,Full,0,Yes,914512,Юг
+2018,5.21,5000,Petrol,2,Nissan,Manual,Gray,Partial,0,Yes,1066480,Дальний Восток
+1998,14.68,2500,Diesel,1,Hyundai,Manual,White,Full,0,Yes,646806,Дальний Восток
+2014,14.35,2000,Petrol,1,Chevrolet,Manual,White,Full,0,Yes,629574,Дальний Восток
+1997,19.76,1200,Diesel,1,Tesla,Manual,Red,Full,3,Yes,416716,Урал
+2000,11.73,4000,Petrol,5,Volkswagen,Manual,Red,Partial,0,No,411071,СПб
+1999,14.51,5000,Diesel,3,BMW,Manual,Black,Full,2,No,894263,СПб
+2010,20.85,2000,Petrol,1,Chevrolet,Automatic,Red,Full,2,Yes,835475,Юг
+2017,20.99,3000,Diesel,1,Kia,Automatic,Gray,Partial,1,Yes,935041,СПб
+2006,15.02,5000,Petrol,2,BMW,Automatic,White,Full,0,Yes,1007142,СПб
+2011,12.12,1800,Diesel,4,Volkswagen,Manual,Silver,Full,2,Yes,407446,Юг
+2007,16.2,2500,Diesel,4,Tesla,Automatic,Silver,Full,1,No,703351,Москва
+2018,16.03,1500,Diesel,1,BMW,Manual,Gray,Full,2,Yes,594974,Москва
+2004,27.73,2000,Petrol,4,Nissan,Manual,Silver,Full,0,Yes,763151,Урал
+2003,21.95,3000,Diesel,2,Tesla,Automatic,Gray,Partial,0,Yes,879170,СПб
+2001,18.41,3000,Diesel,2,Kia,Manual,Gray,Partial,0,Yes,654614,Москва
+1995,18.85,2000,Diesel,3,Nissan,Manual,Black,Partial,0,Yes,589362,Юг
+2008,17.82,1000,Petrol,3,Volkswagen,Manual,Silver,Full,1,Yes,544953,Дальний Восток
+1996,15.15,3000,Diesel,2,Honda,Manual,Blue,Unknown,0,Yes,493717,Юг
+2021,21.86,1800,Electric,4,Chevrolet,Automatic,Blue,Unknown,0,Yes,978850,Москва
+2001,16.81,2000,Petrol,2,Hyundai,Manual,Red,Partial,1,Yes,601698,Урал
+2014,22.58,1800,Diesel,2,Nissan,Manual,Black,Full,0,No,752086,Юг
+2018,16.66,1000,Petrol,5,Ford,Manual,Blue,Full,1,No,496697,Сибирь
+2014,15.24,3000,Petrol,3,Volkswagen,Automatic,Black,Unknown,0,Yes,963514,Дальний Восток
+2017,25.17,1200,Petrol,3,Chevrolet,Manual,White,Partial,1,No,701310,Дальний Восток
+2009,18.12,800,Petrol,5,Nissan,Automatic,Silver,Full,0,Yes,563292,Москва
+2013,13.59,2500,Electric,3,Ford,Automatic,Gray,Full,1,No,1035134,Урал
+2015,13.99,800,Electric,5,Kia,Manual,Silver,Unknown,1,Yes,517309,Урал
+2021,15.72,1200,Diesel,1,Nissan,Manual,Silver,Partial,2,No,659547,Юг
+1997,21.46,3000,Petrol,3,Chevrolet,Manual,Blue,Unknown,1,Yes,682759,Москва
+2017,19.76,1000,Diesel,2,Chevrolet,Automatic,Blue,Unknown,0,Yes,488077,Москва
+1998,24.62,1000,Diesel,3,Honda,Automatic,Red,Unknown,1,Yes,364844,Москва
+2018,27.17,1500,Petrol,4,Nissan,Automatic,Silver,Unknown,0,Yes,573557,Дальний Восток
+2001,16.86,2500,Diesel,5,Tesla,Automatic,Gray,Partial,0,Yes,438702,СПб
+1998,17.61,5000,Diesel,1,BMW,Manual,Gray,Full,0,Yes,1028315,Москва
+2012,23.72,4000,Petrol,1,Tesla,Manual,Gray,Full,0,Yes,1100299,Сибирь
+1995,16.56,4000,Electric,4,Nissan,Automatic,White,Full,1,Yes,1021363,СПб
+2010,21.06,1800,Petrol,4,Ford,Automatic,Black,Unknown,0,Yes,564024,Дальний Восток
+1997,14.13,1500,Diesel,3,Kia,Automatic,Black,Partial,1,Yes,484490,Юг
+2000,12.34,1200,Petrol,4,Tesla,Automatic,Red,Partial,0,Yes,327027,СПб
+2014,11.61,1200,Diesel,5,BMW,Automatic,Red,Full,1,Yes,438757,Урал
+2009,17.91,800,Petrol,4,Nissan,Manual,Gray,Unknown,1,Yes,419334,Юг
+2004,10.36,2000,Petrol,3,Chevrolet,Manual,Silver,Unknown,0,Yes,327662,СПб
+2005,11.05,4000,Diesel,3,BMW,Automatic,Gray,Partial,0,Yes,858925,СПб
+2020,16.11,3000,Petrol,1,BMW,Automatic,Silver,Full,0,No,1021946,Дальний Восток
+2016,20.3,1000,Petrol,2,Honda,Manual,Blue,Full,1,No,697238,Сибирь
+2016,17.02,800,Petrol,1,Kia,Manual,Silver,Full,0,Yes,653427,Урал
+2009,17.37,1200,Diesel,1,Chevrolet,Automatic,Gray,Unknown,1,Yes,597844,Юг
+2004,17.84,2500,Diesel,4,Tesla,Manual,White,Unknown,0,Yes,637002,Дальний Восток
+2015,20.28,1800,Diesel,3,Tesla,Manual,Red,Full,1,No,599821,Урал
+2002,19.67,1500,Petrol,2,Toyota,Manual,Red,Partial,1,Yes,517242,СПб
+2022,16.09,2500,Electric,2,Hyundai,Manual,Gray,Full,0,Yes,1038252,Дальний Восток
+2008,23.72,1800,Petrol,2,Hyundai,Automatic,White,Full,0,Yes,780502,Урал
+2023,14.62,5000,Petrol,3,Volkswagen,Manual,Silver,Unknown,0,Yes,1014383,Юг
+2015,12.37,1200,Petrol,1,Volkswagen,Manual,Black,Partial,0,Yes,516816,Сибирь
+1998,14.38,2000,Petrol,2,Tesla,Automatic,Red,Unknown,1,Yes,396778,Москва
+1998,17.59,1800,Petrol,3,Volkswagen,Manual,Silver,Full,0,No,528781,Сибирь
+2011,23.61,2500,Petrol,3,Hyundai,Manual,Silver,Full,0,Yes,741022,Юг
+2016,23.84,3000,Petrol,5,Chevrolet,Manual,Silver,Unknown,0,Yes,880241,Юг
+1999,19.23,2000,Petrol,1,Volkswagen,Automatic,Black,Full,0,Yes,701747,Урал
+2017,9.82,3000,Petrol,3,Honda,Manual,White,Full,1,Yes,608727,Юг
+2012,16.58,2000,Petrol,1,Chevrolet,Automatic,Black,Partial,1,Yes,721799,Урал
+2008,18.02,1800,Petrol,1,Volkswagen,Manual,Silver,Full,2,Yes,836274,СПб
+2007,12.54,3000,Petrol,5,Volkswagen,Manual,Silver,Full,1,No,627950,СПб
+2016,16.45,1000,Diesel,3,Honda,Manual,Silver,Partial,0,No,565239,Сибирь
+2018,26.77,5000,Diesel,4,Ford,Automatic,Black,Unknown,1,Yes,1259508,Москва
+2014,19.6,1000,Petrol,2,Ford,Manual,Blue,Full,0,No,610401,Дальний Восток
+2007,12.05,4000,Diesel,3,Honda,Manual,White,Partial,0,Yes,823544,Дальний Восток
+1998,18.05,1000,Petrol,3,Ford,Automatic,Gray,Full,2,Yes,369144,СПб
+2020,24.5,2500,Petrol,3,Toyota,Manual,Silver,Full,0,Yes,1017685,СПб
+2016,28.01,4000,Petrol,3,Chevrolet,Automatic,Gray,Partial,2,Yes,1127683,СПб
+2011,20.22,2000,Diesel,3,Tesla,Manual,Red,Full,2,Yes,611512,Юг
+2018,18.96,1800,Petrol,2,Chevrolet,Manual,Silver,Partial,0,Yes,776100,Дальний Восток
+2007,16.68,5000,Diesel,4,Kia,Automatic,White,Full,1,Yes,887779,Сибирь
+2014,12.41,3000,Petrol,4,Nissan,Manual,Black,Unknown,1,No,835907,Москва
+2016,29.41,1200,Petrol,4,Hyundai,Manual,White,Full,1,Yes,473890,Сибирь
+2005,13.36,1500,Diesel,2,Chevrolet,Automatic,Silver,Full,1,Yes,421765,СПб
+2017,20.4,2000,Petrol,2,Tesla,Automatic,Black,Full,0,Yes,741662,Сибирь
+2021,11.84,3000,Petrol,4,Chevrolet,Automatic,Red,Full,0,No,764705,Юг
+2001,30.54,1800,Petrol,3,Chevrolet,Automatic,White,Partial,1,Yes,711196,Юг
+2005,22.28,1000,Petrol,2,Kia,Manual,Blue,Partial,3,Yes,431723,Урал
+2022,14.33,4000,Petrol,5,BMW,Manual,White,Full,0,Yes,1072698,Юг
+2012,18.22,2000,Petrol,2,Tesla,Automatic,Red,Unknown,1,Yes,521032,Москва
+1996,20.67,2000,Petrol,1,Toyota,Manual,Silver,Full,1,Yes,574479,Москва
+2017,19.3,800,Diesel,5,Ford,Automatic,Gray,Unknown,0,Yes,476605,Сибирь
+2019,9.62,5000,Diesel,1,Kia,Manual,White,Partial,1,No,976517,Сибирь
+2015,16.22,4000,Diesel,2,Honda,Manual,Blue,Partial,0,Yes,923416,Дальний Восток
+2000,5.61,1500,Electric,3,Nissan,Automatic,Blue,Unknown,1,No,534967,Сибирь
+2016,12.41,1500,Petrol,3,Volkswagen,Automatic,Black,Partial,2,Yes,415693,Москва
+2005,19.74,3000,Petrol,1,Nissan,Automatic,Black,Full,1,Yes,976897,Дальний Восток
+1999,29.06,2500,Petrol,2,Toyota,Manual,White,Partial,0,Yes,745947,Москва
+1995,22.82,1000,Petrol,3,Kia,Manual,Silver,Full,1,Yes,324054,Юг
+2015,27.84,1800,Petrol,3,Honda,Manual,Red,Full,0,Yes,760504,Юг
+1998,17.69,1200,Diesel,3,Chevrolet,Manual,Blue,Unknown,1,Yes,338951,СПб
+1999,22.33,1500,Diesel,1,Kia,Manual,Blue,Full,0,Yes,432387,Москва
+2007,25.11,1500,Petrol,4,Nissan,Manual,Silver,Unknown,0,Yes,414821,Юг
+2022,5.0,2500,Petrol,3,Chevrolet,Manual,Red,Full,1,No,476284,Москва
+2007,13.25,1200,Petrol,5,Kia,Manual,Blue,Full,1,Yes,331898,Москва
+2006,16.98,1800,Diesel,2,Chevrolet,Manual,Gray,Partial,1,No,727695,Сибирь
+2000,27.16,1500,Petrol,1,Nissan,Automatic,Gray,Partial,0,Yes,709634,Дальний Восток
+2013,21.25,1800,Petrol,2,BMW,Automatic,Red,Unknown,0,No,956665,Дальний Восток
+1997,19.78,1800,Petrol,4,Ford,Automatic,Blue,Full,2,Yes,319736,Юг
+2010,14.78,3000,Electric,3,Nissan,Manual,Silver,Full,1,Yes,1103020,Дальний Восток
+2011,23.99,1800,Diesel,3,Kia,Automatic,Silver,Unknown,1,Yes,714971,Дальний Восток
+2017,15.75,2000,Petrol,1,Ford,Manual,Black,Full,0,Yes,697855,Дальний Восток
+2006,10.44,5000,Petrol,2,Ford,Manual,White,Unknown,0,Yes,887158,Дальний Восток
+2019,24.06,800,Petrol,4,Hyundai,Manual,Silver,Full,0,Yes,540946,СПб
+2000,21.68,1800,Diesel,5,Honda,Manual,Blue,Partial,0,No,315634,Сибирь
+2013,12.18,4000,Petrol,1,Tesla,Manual,Red,Partial,1,Yes,830957,Сибирь
+1996,21.33,4000,Diesel,3,Toyota,Manual,Silver,Full,0,Yes,795238,Урал
+2010,13.37,2500,Electric,2,Tesla,Manual,Black,Unknown,1,Yes,964890,Дальний Восток
+1999,15.26,2000,Petrol,5,BMW,Manual,Silver,Unknown,0,Yes,452506,Сибирь
+1995,21.2,1000,Petrol,5,Nissan,Manual,Silver,Unknown,0,Yes,154239,Урал
+2015,15.06,4000,Electric,2,Chevrolet,Manual,Blue,Full,0,Yes,1374944,Сибирь
+2010,13.79,3000,Diesel,4,Hyundai,Automatic,Red,Partial,0,Yes,512430,Урал
+2019,22.07,1500,Electric,4,Hyundai,Manual,Silver,Full,0,Yes,898185,Урал
+2018,25.87,800,Petrol,4,Ford,Manual,Blue,Partial,1,Yes,587755,Сибирь
+2004,17.64,800,Diesel,1,Hyundai,Manual,White,Full,0,Yes,451022,Москва
+2009,22.25,1200,Petrol,3,Chevrolet,Automatic,Silver,Full,1,Yes,669758,Сибирь
+1996,19.23,1500,Petrol,5,BMW,Manual,Gray,Full,0,Yes,231206,Москва
+2019,21.79,2000,Diesel,1,Nissan,Manual,White,Full,1,Yes,935907,Сибирь
+2023,20.8,1800,Diesel,1,Nissan,Manual,Red,Full,0,Yes,781750,Юг
+1999,12.56,1000,Petrol,3,Nissan,Automatic,Gray,Full,0,Yes,129785,Москва
+2002,11.84,2500,Petrol,4,Ford,Manual,White,Unknown,1,Yes,433203,Дальний Восток
+2022,12.1,1800,Petrol,5,Nissan,Manual,Blue,Full,0,No,753313,Урал
+2009,17.69,1000,Petrol,5,Ford,Manual,Silver,Full,0,Yes,456043,СПб
+2014,20.55,5000,Petrol,1,Nissan,Manual,Black,Unknown,0,Yes,1270278,Москва
+2013,29.09,5000,Electric,3,BMW,Manual,Red,Full,1,Yes,1592142,СПб
+2001,19.51,1500,Diesel,3,Chevrolet,Automatic,White,Full,0,No,408110,Юг
+1996,8.71,2000,Petrol,3,Hyundai,Automatic,White,Unknown,0,Yes,223628,Сибирь
+2013,19.49,3000,Petrol,5,Hyundai,Manual,Silver,Full,1,Yes,628402,СПб
+2021,22.29,1500,Diesel,2,Tesla,Manual,Black,Unknown,0,No,729503,Москва
+2014,15.35,800,Diesel,5,Tesla,Manual,Black,Unknown,2,Yes,369247,Москва
+2014,20.83,5000,Diesel,1,Kia,Manual,Blue,Full,0,Yes,1282249,Урал
+2000,16.59,800,Diesel,3,Nissan,Manual,Blue,Partial,0,No,95000,Дальний Восток
+2003,23.3,5000,Petrol,4,Volkswagen,Manual,Silver,Partial,0,Yes,921719,Урал
+1998,16.29,1800,Petrol,5,Honda,Manual,Blue,Full,0,No,377980,Сибирь
+2001,20.47,1000,Electric,4,Toyota,Manual,Gray,Partial,1,Yes,414746,Москва
+2000,10.4,1800,Diesel,3,Hyundai,Automatic,Gray,Unknown,0,Yes,254482,Юг
+1998,20.84,2000,Diesel,2,Nissan,Manual,Black,Full,0,Yes,687100,Москва
+2009,23.75,1500,Petrol,1,Hyundai,Manual,Black,Full,0,Yes,856730,Дальний Восток
+2021,22.19,1800,Diesel,1,Honda,Manual,Silver,Partial,0,Yes,1047563,СПб
+1998,11.61,1800,Petrol,2,Tesla,Automatic,Gray,Full,1,Yes,403210,Юг
+1998,25.47,800,Petrol,3,Kia,Automatic,Black,Full,0,Yes,303589,Дальний Восток
+2017,21.84,3000,Diesel,4,Hyundai,Manual,Gray,Partial,1,Yes,929714,Юг
+1999,13.17,1500,Diesel,2,Chevrolet,Manual,Blue,Partial,0,No,449700,Дальний Восток
+2010,19.27,5000,Diesel,5,Toyota,Manual,Black,Unknown,3,No,1007695,Урал
+2023,18.77,4000,Petrol,1,Volkswagen,Automatic,Blue,Full,0,Yes,1126342,Москва
+2011,9.97,5000,Electric,2,Toyota,Automatic,Silver,Full,0,Yes,1349973,Урал
+2010,9.85,2000,Diesel,1,Chevrolet,Automatic,Gray,Partial,0,Yes,582039,Москва
+2004,26.8,4000,Diesel,2,Toyota,Manual,Gray,Partial,0,Yes,837849,Москва
+2002,18.1,2500,Diesel,4,Volkswagen,Manual,Black,Full,1,Yes,511812,Урал
+2005,16.96,1800,Diesel,5,Chevrolet,Manual,Gray,Full,0,Yes,342851,Сибирь
+2020,18.5,2000,Electric,5,BMW,Automatic,White,Partial,1,Yes,1013293,Урал
+1998,22.92,1200,Electric,2,BMW,Manual,Gray,Unknown,1,Yes,740800,Сибирь
+2017,16.16,1800,Petrol,4,Toyota,Automatic,Silver,Full,1,Yes,521266,Сибирь
+2002,24.32,4000,Diesel,5,Chevrolet,Manual,Red,Unknown,0,Yes,709111,Юг
+2006,15.63,1200,Petrol,3,Nissan,Automatic,White,Partial,0,Yes,424638,Урал
+2015,18.2,4000,Petrol,5,Hyundai,Automatic,Red,Full,1,Yes,837586,Урал
+2012,17.94,800,Petrol,5,Volkswagen,Manual,White,Full,0,Yes,293101,Сибирь
+2004,20.31,1800,Diesel,3,Chevrolet,Automatic,Black,Full,0,Yes,519664,Дальний Восток
+1996,23.75,1200,Petrol,1,Nissan,Manual,Black,Full,1,Yes,362735,Москва
+2023,12.92,1800,Petrol,2,Volkswagen,Manual,Red,Partial,0,Yes,818025,Москва
+2000,18.03,2500,Petrol,5,Ford,Manual,Blue,Unknown,0,Yes,186032,Урал
+2023,18.99,3000,Petrol,1,Ford,Manual,Black,Full,0,Yes,970954,Юг
+1998,15.02,1000,Petrol,4,Chevrolet,Manual,Black,Full,0,Yes,95000,Урал
+2003,15.63,3000,Diesel,1,Honda,Automatic,Gray,Full,1,No,707050,Урал
+2010,18.75,1000,Petrol,2,Volkswagen,Automatic,Gray,Full,0,Yes,601625,Сибирь
+2016,16.84,3000,Petrol,5,Hyundai,Manual,Black,Partial,0,No,703464,Москва
+2009,20.19,1000,Petrol,3,Tesla,Automatic,Silver,Full,1,No,536345,Юг
+2018,26.93,1000,Petrol,2,Tesla,Manual,Silver,Partial,0,Yes,786184,Сибирь
+2011,23.61,2500,Petrol,2,BMW,Automatic,Blue,Partial,0,Yes,566929,СПб
+2023,18.3,1000,Petrol,2,BMW,Automatic,Black,Unknown,0,Yes,692594,Сибирь
+2015,25.84,1200,Diesel,3,Kia,Manual,Black,Partial,1,Yes,708278,Юг
+1996,15.68,800,Diesel,1,Kia,Automatic,White,Full,0,No,384605,Москва
+2009,15.94,1200,Diesel,5,BMW,Manual,Gray,Full,1,Yes,304686,Дальний Восток
+2002,26.0,3000,Petrol,4,Ford,Manual,White,Full,0,Yes,623462,Москва
+2014,11.11,4000,Diesel,4,Kia,Automatic,Black,Partial,0,No,882930,Юг
+1995,14.42,1200,Petrol,3,Honda,Automatic,Blue,Partial,0,No,202453,Сибирь
+2017,26.26,1200,Petrol,2,Tesla,Manual,White,Partial,1,Yes,785635,Урал
+1997,17.89,3000,Petrol,3,Hyundai,Manual,Gray,Full,1,Yes,578023,СПб
+1998,22.43,2000,Petrol,4,BMW,Automatic,Red,Full,1,Yes,442780,Сибирь
+1995,12.96,5000,Electric,3,Volkswagen,Manual,Black,Partial,0,No,1147268,Сибирь
+2012,14.98,4000,Diesel,3,Honda,Manual,Red,Full,0,No,781157,Сибирь
+2005,9.95,5000,Diesel,4,Tesla,Manual,Silver,Full,1,Yes,794571,Урал
+2010,13.19,1500,Petrol,1,Chevrolet,Manual,White,Partial,1,No,641550,Урал
+2004,15.35,800,Electric,1,Hyundai,Automatic,Black,Partial,1,Yes,646541,Москва
+2004,19.18,1000,Petrol,4,Volkswagen,Manual,Gray,Full,0,Yes,345450,Москва
+1999,18.48,2000,Petrol,4,Tesla,Manual,Gray,Partial,0,Yes,440107,СПб
+1998,9.78,2500,Diesel,4,Chevrolet,Manual,White,Full,0,Yes,274953,Дальний Восток
+2004,10.11,1200,Diesel,3,Chevrolet,Manual,Blue,Unknown,0,Yes,375621,Москва
+2002,22.69,800,Diesel,5,Nissan,Automatic,Black,Full,1,Yes,306864,Юг
+2017,20.08,1000,Diesel,1,Tesla,Automatic,White,Unknown,0,Yes,672614,Дальний Восток
+2002,23.22,1200,Diesel,1,Honda,Manual,Gray,Full,0,Yes,558608,Сибирь
+2021,13.27,1000,Diesel,1,Tesla,Automatic,Blue,Full,1,No,559963,Юг
+2023,21.5,3000,Petrol,1,Honda,Automatic,Blue,Full,1,Yes,1243430,Дальний Восток
+1997,24.7,2000,Electric,2,Hyundai,Manual,White,Full,0,Yes,846001,Сибирь
+2018,9.92,1500,Diesel,4,Tesla,Manual,Silver,Full,1,Yes,537804,Урал
+2017,16.24,3000,Petrol,2,Nissan,Manual,Gray,Partial,0,Yes,889380,Сибирь
+2016,6.04,1000,Petrol,1,Kia,Manual,Silver,Full,0,Yes,492544,Урал
+2007,26.6,2000,Petrol,4,Ford,Manual,Gray,Unknown,0,Yes,484186,Дальний Восток
+2000,23.29,3000,Petrol,2,Hyundai,Automatic,Silver,Partial,0,Yes,859305,СПб
+2005,20.35,800,Petrol,5,Ford,Manual,Black,Full,0,No,443742,СПб
+2009,9.75,1200,Electric,5,Kia,Manual,White,Unknown,2,Yes,747540,Москва
+2022,15.25,1000,Petrol,2,Kia,Manual,Silver,Partial,3,Yes,585747,Урал
+2001,18.17,1800,Diesel,4,Nissan,Manual,Black,Full,0,Yes,390334,Москва
+2011,22.24,2000,Diesel,4,Ford,Manual,Silver,Full,1,Yes,635408,Сибирь
+2021,27.83,1500,Diesel,4,Volkswagen,Automatic,Gray,Full,0,Yes,779963,СПб
+2001,21.16,1500,Diesel,2,Kia,Automatic,Silver,Full,1,No,507631,Юг
+1996,22.1,1500,Diesel,2,Hyundai,Manual,White,Full,0,Yes,495191,Дальний Восток
+2016,19.08,4000,Petrol,1,Volkswagen,Manual,Black,Unknown,1,Yes,1103361,Юг
+2010,11.32,5000,Diesel,4,Toyota,Manual,Gray,Partial,1,No,1029062,Юг
+2021,16.22,2000,Petrol,4,Hyundai,Automatic,Gray,Unknown,1,Yes,695651,Урал
+2008,15.1,2500,Petrol,5,Nissan,Manual,Silver,Full,0,Yes,521136,Урал
+2005,14.24,3000,Petrol,5,Tesla,Automatic,White,Full,0,Yes,467407,Юг
+2004,30.37,2000,Petrol,1,Volkswagen,Manual,Gray,Partial,1,Yes,699590,Москва
+1997,5.54,1500,Diesel,2,Chevrolet,Automatic,Black,Partial,1,Yes,116261,Дальний Восток
+1998,19.64,2500,Diesel,5,Hyundai,Manual,Blue,Unknown,0,Yes,315734,СПб
+1998,11.47,5000,Electric,5,Kia,Automatic,Silver,Full,3,Yes,1139904,Сибирь
+1995,25.97,2500,Diesel,5,Honda,Manual,Red,Partial,0,Yes,515814,СПб
+1996,19.0,800,Petrol,2,Hyundai,Manual,White,Unknown,0,Yes,279693,Сибирь
+2018,20.06,4000,Diesel,1,Kia,Automatic,Red,Partial,0,No,1279285,Сибирь
+2007,14.5,1500,Diesel,4,Chevrolet,Automatic,Blue,Partial,0,Yes,420568,Юг
+1997,21.05,5000,Diesel,1,Hyundai,Manual,Black,Partial,0,Yes,786108,СПб
+2021,20.1,1800,Petrol,5,Tesla,Manual,Blue,Unknown,2,Yes,520433,СПб
+2015,9.5,3000,Petrol,5,BMW,Manual,Blue,Full,0,Yes,586902,СПб
+2018,19.33,1200,Diesel,5,Volkswagen,Automatic,Blue,Partial,1,Yes,585192,Сибирь
+2003,17.98,5000,Electric,4,Volkswagen,Manual,White,Full,1,Yes,1091112,Дальний Восток
+2002,14.94,4000,Petrol,1,Honda,Manual,Red,Partial,0,No,735969,Дальний Восток
+2020,25.29,4000,Petrol,3,Nissan,Manual,Blue,Partial,0,Yes,1250783,СПб
+2021,15.65,1500,Diesel,2,Hyundai,Automatic,Silver,Unknown,0,Yes,803534,Юг
+2019,18.43,1800,Diesel,5,Kia,Manual,Red,Full,0,Yes,737155,Урал
+1999,24.51,1500,Petrol,2,Hyundai,Automatic,Black,Full,1,Yes,416528,Урал
+2004,19.92,5000,Diesel,5,Chevrolet,Automatic,Blue,Unknown,0,Yes,859765,Сибирь
+2011,21.04,2500,Petrol,2,Volkswagen,Manual,Red,Full,0,Yes,849570,СПб
+2006,24.71,1000,Petrol,4,Honda,Automatic,White,Full,2,Yes,574659,Урал
+2021,17.14,1200,Diesel,1,BMW,Automatic,Gray,Unknown,1,No,827409,Юг
+2018,5.61,1500,Petrol,5,Kia,Manual,Silver,Full,1,Yes,355314,Дальний Восток
+1998,23.84,2000,Petrol,1,Kia,Manual,Red,Full,0,Yes,439107,Дальний Восток
+2008,24.67,2000,Petrol,1,BMW,Automatic,Gray,Partial,0,Yes,771204,Юг
+2012,28.0,4000,Diesel,2,Toyota,Manual,Gray,Full,0,No,1209517,Дальний Восток
+1997,14.32,1800,Diesel,1,Ford,Automatic,Blue,Partial,1,Yes,360712,Урал
+2008,19.61,1800,Petrol,2,Nissan,Manual,Gray,Full,0,Yes,622597,Урал
+2007,29.03,4000,Diesel,2,Nissan,Manual,Silver,Unknown,0,Yes,1133002,Юг
+2008,20.64,5000,Diesel,5,Kia,Manual,White,Unknown,0,Yes,810393,Юг
+1997,15.54,800,Petrol,1,Chevrolet,Automatic,Gray,Full,1,Yes,399475,Москва
+1997,18.97,1200,Petrol,3,Ford,Automatic,White,Partial,0,Yes,325835,Сибирь
+2020,18.47,5000,Petrol,4,Hyundai,Automatic,White,Unknown,0,Yes,1068626,Юг
+2009,8.81,1800,Petrol,5,Ford,Manual,Gray,Partial,0,Yes,437273,Москва
+1995,17.69,3000,Diesel,2,Volkswagen,Automatic,White,Full,0,Yes,699142,СПб
+2014,20.5,5000,Diesel,5,Ford,Automatic,White,Unknown,1,Yes,1113409,Сибирь
+2020,18.61,2000,Electric,1,Chevrolet,Automatic,Black,Partial,0,No,1077306,Урал
+2017,15.81,1800,Petrol,2,Honda,Manual,Silver,Full,1,Yes,602344,Дальний Восток
+2019,16.78,1800,Petrol,4,BMW,Automatic,Red,Partial,0,Yes,757899,Сибирь
+1997,8.5,5000,Petrol,3,Ford,Automatic,Silver,Full,0,Yes,849769,СПб
+2017,15.98,2000,Petrol,1,Hyundai,Automatic,Gray,Partial,1,Yes,655282,Москва
+1999,15.2,2000,Petrol,4,Ford,Manual,Gray,Partial,0,Yes,455391,Дальний Восток
+1995,20.61,4000,Petrol,3,BMW,Manual,Red,Partial,1,Yes,725437,Дальний Восток
+2019,20.47,5000,Diesel,5,Chevrolet,Manual,Black,Full,2,Yes,1071358,Дальний Восток
+2003,15.78,1200,Diesel,5,Tesla,Manual,Red,Partial,2,Yes,333329,Юг
+2016,14.63,1200,Diesel,1,Kia,Automatic,Red,Full,0,Yes,610536,Москва
+2007,22.42,2500,Petrol,5,Nissan,Manual,Red,Full,1,Yes,670945,Москва
+2015,23.13,1000,Diesel,2,Toyota,Automatic,White,Partial,1,Yes,802099,Урал
+2021,11.81,800,Petrol,3,Chevrolet,Automatic,Blue,Unknown,0,Yes,668807,Урал
+2007,8.5,800,Petrol,5,Volkswagen,Automatic,Gray,Unknown,1,Yes,167405,Юг
+2018,11.76,1200,Petrol,4,Ford,Manual,Gray,Unknown,0,Yes,452346,Сибирь
+1999,20.69,1800,Diesel,1,Ford,Automatic,Red,Unknown,0,Yes,604303,Урал
+1995,9.06,2500,Diesel,1,Tesla,Manual,Blue,Unknown,0,Yes,368149,Юг
+2017,22.51,1200,Petrol,4,BMW,Automatic,Blue,Full,0,Yes,434292,Сибирь
+2022,16.86,1800,Diesel,5,Ford,Automatic,Red,Unknown,0,No,511106,Москва
+2018,14.69,4000,Petrol,1,Volkswagen,Manual,Blue,Unknown,3,No,1138869,Юг
+2011,23.75,1500,Electric,4,Kia,Manual,Red,Full,0,No,897992,Москва
+2010,20.96,2500,Petrol,3,Honda,Manual,Silver,Partial,0,No,601488,СПб
+2002,33.44,5000,Electric,1,Volkswagen,Manual,Silver,Full,1,Yes,1604212,Москва
+2005,20.61,2000,Diesel,4,Toyota,Automatic,Gray,Full,0,No,639024,Урал
+2017,12.63,3000,Diesel,1,Toyota,Automatic,Black,Full,0,Yes,848953,Дальний Восток
+1999,5.0,3000,Electric,2,Honda,Automatic,Red,Full,0,Yes,889029,Юг
+2023,14.03,5000,Petrol,4,Volkswagen,Manual,Gray,Full,1,Yes,1197860,Сибирь
+2007,14.5,5000,Diesel,4,Tesla,Automatic,Silver,Full,0,Yes,985051,Москва
+2019,23.96,2500,Petrol,4,Kia,Manual,White,Partial,0,No,881300,Урал
+2009,23.0,1500,Diesel,1,Volkswagen,Manual,Black,Full,1,Yes,779865,Дальний Восток
+2023,21.15,5000,Diesel,4,BMW,Automatic,Blue,Full,2,Yes,1174491,СПб
+2005,18.41,3000,Petrol,5,Volkswagen,Manual,Red,Full,0,Yes,600689,Юг
+2020,17.37,1200,Petrol,3,Toyota,Automatic,Silver,Full,0,Yes,742203,Дальний Восток
+1998,31.86,1500,Diesel,1,Chevrolet,Manual,Black,Full,0,Yes,702087,Москва
+1998,16.02,1200,Petrol,1,Honda,Automatic,Red,Full,1,Yes,443964,Урал
+2005,14.59,800,Petrol,4,Tesla,Automatic,Silver,Unknown,0,No,260877,Сибирь
+2018,12.59,2000,Petrol,2,Ford,Manual,Silver,Full,0,Yes,627639,СПб
+2003,12.96,2000,Diesel,2,Tesla,Manual,Blue,Full,0,Yes,408066,Дальний Восток
+2018,15.39,1000,Petrol,4,Volkswagen,Automatic,Gray,Full,1,Yes,556131,Сибирь
+2002,15.55,2000,Petrol,2,Chevrolet,Manual,Silver,Unknown,0,Yes,472435,Москва
+2009,21.52,1800,Petrol,4,Tesla,Automatic,Red,Unknown,0,Yes,588888,Урал
+2014,26.69,800,Electric,5,Chevrolet,Manual,Black,Full,2,Yes,954461,Юг
+1999,20.34,3000,Diesel,2,Volkswagen,Manual,Silver,Full,0,No,683504,Москва
+2014,16.57,800,Petrol,4,Toyota,Automatic,Gray,Partial,1,Yes,392809,Дальний Восток
+2008,20.07,800,Diesel,4,BMW,Manual,Black,Unknown,2,Yes,422076,Урал
+1999,13.49,800,Diesel,1,Kia,Automatic,Red,Full,0,Yes,260381,Юг
+2010,14.74,1800,Diesel,1,Volkswagen,Automatic,White,Full,2,Yes,771220,Сибирь
+1999,21.18,1000,Petrol,5,Honda,Manual,Gray,Partial,0,Yes,329443,Юг
+2004,6.82,1500,Petrol,3,Hyundai,Manual,White,Full,0,No,349363,Урал
+2003,17.45,800,Petrol,1,Toyota,Automatic,Blue,Partial,0,No,438867,Урал
+2022,16.48,1800,Diesel,3,Kia,Manual,Gray,Unknown,1,Yes,884928,СПб
+2020,24.61,2500,Petrol,3,Hyundai,Manual,Black,Full,1,Yes,967733,Сибирь
+2020,10.6,2500,Diesel,3,Hyundai,Automatic,Gray,Partial,1,Yes,773686,СПб
+2002,18.51,1500,Petrol,1,Chevrolet,Manual,Gray,Unknown,0,No,749317,СПб
+2018,16.26,4000,Petrol,2,Chevrolet,Manual,Silver,Partial,0,No,1153671,Сибирь
+1995,13.66,1500,Diesel,4,Kia,Manual,Silver,Partial,0,Yes,120730,Сибирь
+2000,21.25,1200,Petrol,4,Tesla,Automatic,White,Full,0,Yes,481150,СПб
+2009,18.92,1000,Petrol,1,Kia,Manual,Blue,Full,2,Yes,492731,СПб
+2013,19.46,4000,Petrol,4,Chevrolet,Manual,Silver,Unknown,1,No,908501,Сибирь
+2000,11.54,1500,Petrol,2,Nissan,Manual,Red,Full,0,Yes,340690,Москва
+2012,19.99,2500,Petrol,2,Honda,Manual,Black,Full,0,Yes,799361,Сибирь
+2002,23.91,1200,Diesel,4,BMW,Automatic,Gray,Partial,1,No,417492,Урал
+2012,16.21,800,Petrol,4,Kia,Manual,Gray,Full,2,No,352081,СПб
+1996,18.46,1500,Diesel,3,Ford,Manual,Black,Unknown,0,Yes,432409,Москва
+2002,24.45,4000,Petrol,2,Tesla,Manual,Gray,Unknown,0,Yes,969478,Урал
+2013,22.17,1800,Petrol,3,Toyota,Automatic,Silver,Partial,0,Yes,536492,Юг
+2010,12.82,1000,Petrol,4,Toyota,Automatic,Blue,Full,0,Yes,390243,Юг
+2003,15.4,3000,Petrol,2,Toyota,Manual,Gray,Full,0,Yes,713098,СПб
+2021,17.28,1800,Diesel,1,Tesla,Automatic,Silver,Full,0,Yes,697615,СПб
+1999,30.3,2500,Diesel,2,BMW,Manual,Blue,Full,1,Yes,614178,Сибирь
+2021,21.6,2500,Diesel,3,Kia,Automatic,Blue,Partial,0,Yes,906699,Дальний Восток
+2020,21.03,4000,Petrol,3,Hyundai,Manual,Red,Partial,1,No,1107214,Дальний Восток
+2021,9.88,1500,Diesel,1,Tesla,Manual,Silver,Full,2,No,728042,Урал
+2012,24.84,1500,Diesel,1,BMW,Manual,Blue,Unknown,0,Yes,848549,Дальний Восток
+1998,34.38,2500,Diesel,2,BMW,Manual,Red,Partial,2,Yes,624008,Юг
+2018,16.52,1200,Petrol,4,Chevrolet,Automatic,Red,Unknown,0,Yes,489765,Дальний Восток
+2009,8.79,5000,Petrol,2,Volkswagen,Manual,Black,Full,0,No,1191882,Дальний Восток
+2003,13.77,800,Diesel,5,BMW,Manual,Blue,Full,0,Yes,343228,Юг
+2001,14.52,1000,Petrol,2,Kia,Automatic,White,Unknown,0,No,531158,Урал
+1998,15.63,2500,Diesel,1,Chevrolet,Automatic,Silver,Partial,0,Yes,669530,СПб
+2015,18.99,4000,Diesel,4,Tesla,Automatic,White,Partial,0,Yes,1062657,Юг
+1996,17.25,1800,Diesel,5,Nissan,Automatic,Blue,Partial,1,Yes,296785,Дальний Восток
+1995,9.88,1200,Diesel,5,Tesla,Manual,Black,Partial,1,No,95000,Дальний Восток
+2021,20.31,2000,Petrol,3,Honda,Automatic,Red,Unknown,1,Yes,742640,СПб
+2007,19.13,3000,Electric,1,Ford,Automatic,Black,Unknown,0,Yes,1217410,Урал
+2018,26.37,1500,Diesel,2,Honda,Automatic,White,Unknown,0,Yes,773288,Юг
+2010,23.65,800,Petrol,3,Kia,Manual,Blue,Unknown,0,Yes,588081,Урал
+2017,13.38,800,Diesel,2,Chevrolet,Manual,Gray,Full,2,Yes,579291,СПб
+2005,14.81,1500,Diesel,4,Nissan,Manual,Gray,Partial,0,Yes,710485,Москва
+1995,19.04,2500,Diesel,2,Nissan,Automatic,Black,Full,1,Yes,664696,Урал
+2020,18.75,800,Petrol,3,Tesla,Manual,Black,Full,2,No,721396,Москва
+2000,17.61,5000,Petrol,2,Volkswagen,Manual,Silver,Partial,0,Yes,794874,Урал
+2007,20.67,4000,Petrol,5,Chevrolet,Manual,Black,Full,2,Yes,770518,Сибирь
+2016,17.07,3000,Petrol,3,Chevrolet,Manual,Gray,Full,0,Yes,838539,Дальний Восток
+2003,19.74,1800,Electric,4,Ford,Manual,Black,Unknown,0,Yes,686228,СПб
+2022,12.6,2500,Petrol,3,Ford,Manual,White,Unknown,0,Yes,822131,Урал
+2009,29.36,5000,Electric,4,Ford,Manual,Gray,Full,0,No,1402684,Сибирь
+2022,13.48,1200,Diesel,4,Honda,Manual,Gray,Full,1,No,631018,Москва
+2018,9.48,1200,Petrol,2,Tesla,Manual,Blue,Full,1,Yes,496543,Урал
+2003,16.83,2000,Petrol,3,Nissan,Automatic,Blue,Partial,1,Yes,429060,Сибирь
+2014,19.33,3000,Petrol,1,Chevrolet,Automatic,Red,Full,0,Yes,752957,Дальний Восток
+2003,19.11,4000,Petrol,1,Tesla,Manual,White,Full,0,Yes,908407,Дальний Восток
+2014,21.95,3000,Petrol,3,Ford,Automatic,Silver,Full,1,Yes,775257,Урал
+2013,24.2,3000,Electric,2,Chevrolet,Manual,Blue,Partial,0,No,1384726,Дальний Восток
+2013,23.63,1500,Diesel,1,Hyundai,Manual,Gray,Partial,0,Yes,807330,Дальний Восток
+2000,15.54,2000,Diesel,3,Toyota,Manual,Silver,Full,0,Yes,434476,Юг
+2010,19.69,1000,Petrol,3,Volkswagen,Automatic,White,Partial,0,Yes,552471,Москва
+2017,14.08,2500,Diesel,2,Nissan,Manual,White,Full,0,Yes,688363,Москва
+1998,30.2,1500,Diesel,1,Nissan,Automatic,Black,Full,0,Yes,578735,Дальний Восток
+2021,14.16,800,Diesel,5,Kia,Automatic,Blue,Full,1,Yes,655621,Москва
+2021,8.37,1200,Electric,1,Nissan,Manual,Red,Full,1,Yes,916465,Урал
+2012,18.7,800,Diesel,1,Kia,Automatic,Gray,Full,1,Yes,455956,Москва
+2011,18.07,800,Petrol,5,Honda,Manual,White,Partial,2,Yes,339193,Юг
+2020,16.57,4000,Petrol,2,Tesla,Automatic,Gray,Full,1,Yes,972304,Москва
+2004,22.17,5000,Petrol,4,Hyundai,Manual,Black,Partial,0,Yes,1008136,Юг
+2007,22.32,1200,Petrol,3,Hyundai,Automatic,Black,Full,0,Yes,492459,СПб
+2002,17.63,800,Petrol,5,Tesla,Automatic,Blue,Unknown,1,Yes,95000,Москва
+2011,20.56,3000,Diesel,3,Nissan,Manual,Red,Partial,1,No,942885,Юг
+2008,11.96,1000,Diesel,3,BMW,Manual,Black,Partial,0,Yes,188813,Урал
+2006,12.75,1800,Diesel,4,Hyundai,Manual,Red,Full,0,Yes,539916,Юг
+2016,17.52,1200,Petrol,1,Hyundai,Automatic,White,Full,0,Yes,531191,Дальний Восток
+1999,31.01,1000,Petrol,3,Kia,Manual,Black,Partial,0,Yes,441076,Москва
+2006,14.73,2500,Petrol,1,Volkswagen,Manual,Gray,Unknown,1,Yes,693829,Урал
+2008,13.27,5000,Petrol,4,Kia,Manual,White,Full,1,Yes,773243,Урал
+2001,15.21,3000,Petrol,5,Tesla,Manual,Gray,Full,0,Yes,509910,Сибирь
+2004,18.74,2000,Petrol,1,Toyota,Automatic,Red,Unknown,1,Yes,760694,Юг
+2010,22.94,1200,Diesel,1,Kia,Automatic,White,Partial,0,No,529309,Урал
+2011,14.55,4000,Petrol,5,Nissan,Manual,Red,Full,1,Yes,753296,Дальний Восток
+1996,9.84,4000,Diesel,1,Honda,Manual,Gray,Partial,0,Yes,770547,СПб
+2007,15.63,1000,Petrol,4,Nissan,Manual,Silver,Full,0,Yes,378946,Сибирь
+2006,14.88,2000,Petrol,5,Kia,Automatic,Blue,Full,0,Yes,464815,Сибирь
+2019,20.54,4000,Diesel,4,Volkswagen,Manual,Red,Unknown,0,No,864221,Урал
+2005,18.1,5000,Electric,3,Nissan,Manual,Black,Partial,0,Yes,1220170,Сибирь
+2020,17.96,2500,Petrol,5,Volkswagen,Automatic,Gray,Full,0,No,817105,Москва
+2012,14.4,5000,Diesel,1,Volkswagen,Automatic,Gray,Full,0,No,1120988,СПб
+2004,17.34,1200,Petrol,1,BMW,Manual,Silver,Full,2,No,704401,СПб
+2016,19.31,4000,Diesel,4,Tesla,Manual,Gray,Full,2,Yes,1108008,Сибирь
+2021,22.51,800,Petrol,2,Kia,Manual,Blue,Full,0,Yes,667390,СПб
+2023,17.82,2000,Petrol,3,Volkswagen,Manual,Silver,Full,0,Yes,825603,Москва
+2023,9.38,1000,Diesel,1,Nissan,Manual,Blue,Full,0,Yes,754466,Урал
+2016,20.79,2500,Petrol,1,Hyundai,Automatic,Red,Full,0,Yes,754599,Москва
+1995,21.86,5000,Electric,3,Nissan,Manual,Blue,Partial,1,Yes,1000913,Дальний Восток
+2021,17.2,5000,Petrol,1,Volkswagen,Manual,Red,Partial,0,Yes,1143305,Сибирь
+2005,16.06,1000,Diesel,1,Toyota,Automatic,Black,Full,1,Yes,592821,Урал
+2006,13.21,5000,Petrol,5,Toyota,Manual,Gray,Unknown,1,Yes,771133,Урал
+2016,17.04,800,Petrol,2,Hyundai,Manual,Black,Partial,0,Yes,595303,Сибирь
+2012,25.67,1200,Petrol,2,Kia,Manual,Gray,Unknown,0,Yes,932226,СПб
+2021,20.18,1200,Petrol,1,Nissan,Manual,White,Partial,0,No,590713,СПб
+2017,16.76,1000,Petrol,3,Nissan,Manual,Red,Full,0,Yes,665064,Урал
+2020,11.29,2500,Petrol,5,Tesla,Manual,Silver,Full,1,Yes,672411,СПб
+2006,20.98,1500,Diesel,5,Volkswagen,Manual,Black,Full,0,Yes,465734,Урал
+2001,18.11,1000,Petrol,4,Honda,Manual,Red,Partial,0,Yes,357818,Дальний Восток
+2011,11.83,1500,Diesel,4,BMW,Manual,Silver,Partial,1,Yes,513753,Сибирь
+2001,13.07,2000,Petrol,4,Ford,Automatic,Red,Unknown,0,Yes,445100,Дальний Восток
+2014,12.49,3000,Diesel,3,Toyota,Manual,Blue,Partial,0,Yes,809794,СПб
+1997,8.14,4000,Petrol,3,Kia,Manual,Blue,Partial,0,Yes,500165,Сибирь
+2006,21.62,1200,Petrol,3,Tesla,Automatic,Black,Full,1,Yes,357591,Дальний Восток
+2003,13.75,1000,Petrol,4,Ford,Automatic,Black,Full,1,No,298749,Сибирь
+2010,13.37,4000,Petrol,2,Honda,Automatic,Blue,Partial,1,Yes,935948,Урал
+1998,13.33,2000,Petrol,2,Volkswagen,Automatic,Red,Full,1,Yes,392509,Сибирь
+2022,15.92,5000,Diesel,3,Hyundai,Manual,Blue,Full,0,Yes,1245320,Москва
+2000,16.66,800,Diesel,5,Honda,Automatic,Red,Unknown,1,No,322323,Дальний Восток
+2000,19.57,2500,Diesel,5,Chevrolet,Automatic,Blue,Partial,0,No,399560,Сибирь
+2013,12.98,1000,Petrol,4,Kia,Automatic,Blue,Partial,2,No,558518,Юг
+2009,25.57,1000,Diesel,4,Hyundai,Manual,Gray,Partial,0,Yes,549244,СПб
+2002,21.51,2000,Petrol,1,BMW,Manual,White,Full,0,Yes,690744,Москва
+2006,18.91,1800,Petrol,2,Hyundai,Manual,Blue,Partial,2,Yes,614102,Юг
+2017,21.39,4000,Petrol,5,Tesla,Automatic,Gray,Unknown,1,Yes,910407,СПб
+2009,12.58,1200,Petrol,2,Ford,Manual,Silver,Full,0,Yes,411879,Сибирь
+1995,27.91,1500,Petrol,2,Kia,Manual,White,Full,3,Yes,528849,Сибирь
+2004,20.34,1500,Diesel,2,Nissan,Manual,Silver,Partial,0,Yes,564661,Юг
+2004,20.26,2500,Petrol,2,Volkswagen,Automatic,Gray,Unknown,1,Yes,617688,Дальний Восток
+2010,13.28,4000,Petrol,4,Volkswagen,Manual,Red,Partial,0,Yes,961074,Сибирь
+2000,10.39,2500,Diesel,1,Nissan,Manual,Gray,Full,0,Yes,401064,Москва
+2006,19.68,2000,Petrol,3,Toyota,Automatic,Silver,Unknown,0,Yes,844105,Дальний Восток
+1996,22.74,3000,Petrol,1,Honda,Automatic,Red,Full,1,Yes,671029,Юг
+2018,17.31,5000,Diesel,5,Tesla,Automatic,Blue,Partial,0,Yes,1056478,Москва
+2006,15.63,5000,Petrol,2,Honda,Manual,Red,Unknown,0,Yes,910240,Сибирь
+2011,15.05,5000,Petrol,5,Honda,Automatic,Gray,Full,0,Yes,1041827,Москва
+2012,18.38,1800,Petrol,2,Kia,Manual,Red,Full,0,Yes,608147,Урал
+2007,16.1,1200,Petrol,4,Honda,Manual,Red,Partial,0,Yes,458344,Москва
+2018,26.49,3000,Electric,3,Kia,Manual,Black,Full,0,Yes,1191713,Урал
+2003,16.05,3000,Petrol,5,Honda,Automatic,White,Full,0,Yes,469398,Дальний Восток
+2007,19.99,800,Petrol,1,Hyundai,Manual,White,Full,0,No,441111,Юг
+2021,27.99,1000,Diesel,2,Ford,Automatic,Black,Full,0,Yes,771410,Москва
+1995,24.38,4000,Diesel,3,Tesla,Automatic,Black,Full,0,Yes,718692,Сибирь
+2016,25.35,1800,Diesel,3,Chevrolet,Manual,Black,Partial,0,No,752071,Юг
+2019,16.3,4000,Petrol,3,Hyundai,Manual,Silver,Partial,2,Yes,1046459,Москва
+2018,14.29,3000,Petrol,3,Nissan,Automatic,Black,Full,0,Yes,753195,Дальний Восток
+2004,16.35,4000,Petrol,5,Tesla,Automatic,Gray,Unknown,0,No,742583,Юг
+2005,18.5,4000,Electric,4,Nissan,Automatic,Red,Full,0,Yes,984848,СПб
+2011,25.33,5000,Petrol,3,Volkswagen,Manual,Black,Partial,1,Yes,1073619,СПб
+1996,21.68,1000,Diesel,3,Volkswagen,Manual,Gray,Unknown,1,Yes,355120,Дальний Восток
+2000,25.43,5000,Diesel,2,Tesla,Automatic,Black,Full,1,Yes,1006504,СПб
+2014,15.63,2500,Petrol,1,Kia,Automatic,Red,Partial,1,No,808721,Урал
+2016,22.35,1200,Petrol,4,Volkswagen,Automatic,Black,Full,0,Yes,610845,Сибирь
+2011,10.28,1200,Petrol,5,BMW,Automatic,Red,Full,0,Yes,353206,Урал
+2007,12.57,1800,Petrol,3,Toyota,Manual,White,Partial,0,Yes,538035,Москва
+2023,19.08,1000,Diesel,1,Hyundai,Manual,Blue,Full,1,Yes,709255,Москва
+2001,22.13,800,Electric,1,Chevrolet,Manual,Red,Unknown,1,Yes,767621,СПб
+2021,19.55,2000,Petrol,1,Kia,Automatic,White,Full,1,Yes,1052053,СПб
+2007,29.4,1200,Diesel,3,Honda,Automatic,Black,Full,0,Yes,516272,Москва
+2000,22.89,1000,Diesel,5,Honda,Automatic,Red,Partial,1,Yes,261011,Москва
+1997,17.74,1200,Diesel,3,Volkswagen,Automatic,Blue,Full,0,Yes,297522,Сибирь
+2023,26.64,2000,Petrol,5,BMW,Manual,Blue,Full,0,Yes,658115,Сибирь
+1996,17.62,2500,Diesel,2,Honda,Manual,Black,Full,1,Yes,420623,Сибирь
+2006,23.59,1200,Petrol,3,Ford,Manual,Gray,Full,0,Yes,435568,СПб
+2017,22.94,1200,Petrol,5,Nissan,Manual,Blue,Partial,1,No,534639,Дальний Восток
+2011,13.49,2000,Petrol,1,Chevrolet,Manual,Red,Partial,1,Yes,693942,Сибирь
+2003,17.14,5000,Diesel,1,Ford,Automatic,White,Unknown,0,Yes,973543,СПб
+2000,22.06,2500,Diesel,5,Tesla,Manual,Red,Partial,0,Yes,376729,Урал
+2005,14.77,3000,Petrol,4,Chevrolet,Automatic,Silver,Full,1,Yes,771504,СПб
+2020,17.48,1000,Diesel,1,Volkswagen,Automatic,Silver,Unknown,0,Yes,597868,Сибирь
+2014,17.65,1800,Diesel,3,Tesla,Manual,Black,Full,1,Yes,642676,Москва
+1997,21.1,1500,Petrol,5,BMW,Manual,Blue,Full,1,No,264837,Москва
+2005,21.77,2000,Diesel,1,Toyota,Manual,Silver,Full,1,No,712059,Сибирь
+1996,16.0,5000,Petrol,5,Toyota,Automatic,Blue,Unknown,0,No,806413,Сибирь
+2014,14.57,1500,Petrol,3,Nissan,Manual,Blue,Full,1,Yes,531107,СПб
+1999,16.63,2500,Petrol,3,Honda,Manual,Gray,Unknown,1,Yes,414025,СПб
+1996,16.17,1800,Electric,5,Hyundai,Automatic,Black,Full,0,Yes,518302,Сибирь
+1996,18.83,1800,Petrol,4,Toyota,Automatic,Silver,Full,0,Yes,210244,Дальний Восток
+2019,11.75,2000,Petrol,4,Toyota,Automatic,Black,Unknown,1,Yes,709810,Сибирь
+2014,20.46,1500,Diesel,5,Toyota,Automatic,Blue,Partial,0,No,596776,Москва
+1998,22.89,800,Diesel,3,Tesla,Automatic,Gray,Partial,1,Yes,404190,Москва
+2017,20.45,3000,Diesel,1,BMW,Automatic,Silver,Full,0,Yes,883793,Дальний Восток
+2017,14.03,2500,Diesel,2,Ford,Manual,Gray,Unknown,2,Yes,615282,Дальний Восток
+2021,19.45,2000,Petrol,2,Toyota,Automatic,Silver,Partial,1,Yes,964791,Юг
+2005,23.8,1200,Petrol,4,BMW,Manual,Blue,Full,0,No,412333,Урал
+2002,14.39,1800,Diesel,3,Nissan,Manual,Silver,Full,0,Yes,452740,Москва
+2017,16.16,1800,Petrol,5,Nissan,Manual,Blue,Partial,1,Yes,572728,Урал
+2015,19.25,2000,Petrol,3,Nissan,Automatic,Gray,Full,0,Yes,617850,Дальний Восток
+2021,11.85,5000,Petrol,3,Toyota,Manual,Silver,Partial,0,Yes,1339880,Урал
+2001,24.07,3000,Diesel,1,Kia,Manual,Gray,Full,1,Yes,759649,Юг
+2012,18.1,1800,Petrol,4,Chevrolet,Manual,Blue,Full,0,Yes,620068,Сибирь
+2002,18.09,2000,Electric,4,BMW,Manual,Black,Full,0,Yes,710076,Сибирь
+2013,20.41,5000,Electric,2,Honda,Manual,Gray,Unknown,0,Yes,1629774,Юг
+2018,17.04,4000,Petrol,1,Tesla,Manual,Red,Unknown,0,Yes,893479,Урал
+2019,20.71,3000,Diesel,5,Ford,Automatic,Silver,Full,0,Yes,906765,Москва
+2000,32.0,3000,Petrol,3,Toyota,Manual,Gray,Full,2,Yes,677015,СПб
+2013,18.41,800,Diesel,2,Ford,Manual,Blue,Full,0,No,659385,Москва
+2016,17.89,4000,Petrol,5,BMW,Manual,Red,Partial,0,Yes,871364,Юг
+2009,15.27,3000,Petrol,1,Honda,Automatic,Silver,Partial,0,Yes,880229,Урал
+2015,16.73,4000,Electric,2,Hyundai,Manual,White,Partial,2,Yes,1382543,Юг
+2015,12.76,5000,Diesel,4,Honda,Manual,Silver,Full,0,Yes,952814,Москва
+2016,17.09,800,Diesel,2,Nissan,Automatic,Red,Full,1,Yes,532028,Юг
+2007,22.5,1800,Petrol,3,Tesla,Automatic,Silver,Full,1,Yes,419682,Сибирь
+2004,5.0,1800,Petrol,2,Tesla,Automatic,White,Partial,0,Yes,488080,Дальний Восток
+1996,19.15,1500,Petrol,2,Volkswagen,Manual,White,Full,0,No,353695,Сибирь
+2018,28.76,1000,Petrol,4,Kia,Manual,Silver,Full,1,No,659260,Москва
+2020,22.0,3000,Diesel,5,Honda,Manual,Blue,Partial,0,Yes,868093,Юг
+2009,20.4,1800,Petrol,5,Hyundai,Manual,Blue,Partial,0,No,688936,Урал
+2008,12.85,1200,Electric,1,Kia,Manual,Blue,Partial,0,Yes,823060,Сибирь
+2008,13.24,1200,Petrol,3,Volkswagen,Manual,Silver,Full,2,No,603979,Юг
+2000,17.37,4000,Petrol,4,Ford,Manual,Black,Full,0,Yes,767049,Юг
+2019,10.78,2000,Diesel,5,Honda,Automatic,Gray,Unknown,0,Yes,448837,Юг
+2017,14.87,2000,Electric,4,BMW,Manual,Blue,Unknown,0,Yes,829340,Москва
+2007,13.52,3000,Diesel,4,Volkswagen,Automatic,White,Unknown,0,Yes,685927,СПб
+2003,23.33,3000,Diesel,3,Toyota,Automatic,White,Full,1,Yes,801695,СПб
+2000,14.88,1800,Petrol,4,Ford,Automatic,Black,Full,0,Yes,344222,Сибирь
+2014,13.36,2000,Petrol,5,Tesla,Automatic,White,Full,0,Yes,577487,СПб
+2023,19.07,800,Petrol,5,Honda,Manual,White,Partial,1,Yes,706499,Сибирь
+2020,7.92,4000,Petrol,3,Volkswagen,Automatic,Red,Full,0,Yes,943722,Урал
+1996,16.62,1200,Petrol,3,Ford,Automatic,Silver,Partial,1,Yes,338451,СПб
+1995,20.73,1800,Petrol,3,BMW,Manual,Black,Partial,0,No,431411,Урал
+2019,23.83,4000,Diesel,5,Ford,Automatic,Blue,Full,0,Yes,1082409,Дальний Восток
+2011,18.24,1000,Petrol,1,Ford,Manual,Red,Unknown,0,Yes,670883,Урал
+2013,26.84,2000,Diesel,4,Ford,Manual,Black,Full,0,Yes,634572,Сибирь
+1998,21.41,1000,Petrol,5,Honda,Automatic,Blue,Partial,0,No,305823,Москва
+1998,17.87,1800,Petrol,5,Kia,Manual,Silver,Full,0,Yes,297264,СПб
+2017,15.88,5000,Diesel,1,Kia,Automatic,Gray,Full,0,Yes,1232333,СПб
+2009,12.87,1500,Diesel,1,Nissan,Manual,Silver,Unknown,0,Yes,484125,Юг
+2016,19.96,800,Petrol,3,Volkswagen,Automatic,Red,Full,0,Yes,399110,Урал
+2014,15.27,800,Diesel,4,BMW,Automatic,Black,Full,1,Yes,510850,Москва
+2011,13.23,5000,Diesel,4,Volkswagen,Automatic,Blue,Full,0,Yes,1049063,Москва
+1998,9.38,5000,Diesel,3,Ford,Automatic,Gray,Partial,0,Yes,672180,Урал
+2020,18.57,2500,Petrol,5,Hyundai,Manual,Blue,Partial,0,No,722954,Дальний Восток
+2006,17.05,1800,Electric,5,Kia,Manual,White,Full,1,Yes,567795,Урал
+2020,15.84,1500,Diesel,3,Ford,Automatic,White,Unknown,0,Yes,496760,СПб
+2003,16.3,3000,Diesel,5,Chevrolet,Automatic,Blue,Full,1,No,534296,Москва
+2019,23.31,1800,Diesel,1,Honda,Automatic,White,Partial,0,No,798823,Дальний Восток
+2021,18.43,2500,Diesel,2,Kia,Manual,Red,Full,0,No,864861,Москва
+2016,15.81,5000,Petrol,4,Ford,Automatic,Silver,Partial,1,Yes,962511,Дальний Восток
+2020,20.74,5000,Diesel,5,Tesla,Automatic,Gray,Unknown,1,No,1064339,Сибирь
+2001,10.92,2500,Petrol,1,Volkswagen,Manual,Silver,Full,0,No,579063,Дальний Восток
+2003,24.52,1200,Petrol,1,Hyundai,Manual,Silver,Full,0,No,608469,Москва
+2021,22.69,1500,Diesel,2,BMW,Manual,Black,Full,2,Yes,702372,Москва
+2015,17.07,1500,Diesel,4,Tesla,Manual,Black,Full,2,Yes,477495,Москва
+2000,22.09,1000,Diesel,5,Ford,Manual,Red,Full,0,Yes,297179,СПб
+2016,15.83,5000,Diesel,3,Ford,Automatic,Blue,Partial,0,Yes,1157893,Сибирь
+2014,15.89,4000,Petrol,1,Tesla,Manual,Gray,Full,1,Yes,1055297,Юг
+1996,18.24,1500,Diesel,5,Nissan,Automatic,Silver,Partial,1,Yes,383021,Москва
+2013,19.27,2500,Petrol,3,Ford,Manual,Black,Partial,0,Yes,801879,Юг
+2015,14.55,1000,Diesel,2,Hyundai,Manual,Silver,Full,0,Yes,585516,СПб
+2000,14.66,1200,Petrol,3,Honda,Automatic,Blue,Partial,0,Yes,445655,Юг
+2001,18.96,1200,Petrol,1,Honda,Manual,Silver,Partial,1,Yes,556286,Дальний Восток
+2006,12.67,800,Petrol,1,Hyundai,Automatic,Red,Partial,0,No,428248,Москва
+2010,25.56,800,Diesel,4,Kia,Automatic,Blue,Partial,1,Yes,611742,Сибирь
+2020,20.86,2000,Diesel,3,Hyundai,Manual,Silver,Full,0,Yes,776602,Сибирь
+2002,21.93,1500,Petrol,1,Ford,Automatic,White,Partial,1,Yes,536126,СПб
+2000,16.55,1000,Petrol,5,Hyundai,Automatic,Gray,Full,1,Yes,168329,Сибирь
+2007,8.13,5000,Diesel,3,BMW,Automatic,Blue,Full,1,Yes,861571,СПб
+2012,26.69,3000,Petrol,5,Chevrolet,Manual,Silver,Partial,0,Yes,981703,Дальний Восток
+2012,19.22,2500,Petrol,4,Toyota,Automatic,Silver,Full,0,Yes,738859,Москва
+2006,18.67,3000,Petrol,3,Nissan,Automatic,Blue,Full,0,Yes,634832,Дальний Восток
+2014,5.0,1800,Diesel,1,Nissan,Automatic,Blue,Unknown,0,Yes,554520,СПб
+2000,17.54,1500,Diesel,5,Tesla,Manual,Black,Full,0,Yes,276298,СПб
+1996,15.47,2000,Diesel,3,Ford,Automatic,Gray,Full,1,Yes,491105,Дальний Восток
+2008,15.45,1800,Diesel,1,Honda,Automatic,Silver,Unknown,0,Yes,608100,Москва
+2011,21.97,1000,Petrol,3,Nissan,Automatic,Gray,Full,0,Yes,659063,Дальний Восток
+2014,23.39,4000,Petrol,4,Toyota,Manual,Red,Unknown,0,Yes,960149,Юг
+2023,11.75,800,Diesel,2,Toyota,Manual,Red,Partial,1,Yes,575908,Юг
+2006,17.86,1800,Diesel,4,BMW,Manual,White,Full,1,Yes,546615,Сибирь
+2003,10.94,2000,Petrol,1,Volkswagen,Manual,Blue,Full,1,Yes,464416,Москва
+1996,13.36,1200,Petrol,2,BMW,Automatic,Silver,Unknown,0,Yes,331657,Дальний Восток
+2014,17.84,1000,Petrol,3,Ford,Manual,Black,Full,1,No,694581,СПб
+2007,16.69,1000,Petrol,3,Ford,Automatic,Silver,Full,1,Yes,420282,Урал
+1999,12.72,800,Diesel,2,BMW,Manual,Silver,Unknown,1,Yes,138340,Урал
+2005,8.96,4000,Electric,5,Volkswagen,Automatic,Red,Full,1,Yes,1107535,СПб
+2016,14.07,1000,Petrol,1,Volkswagen,Manual,Gray,Full,3,Yes,520029,СПб
+1998,15.29,5000,Petrol,3,Tesla,Manual,Black,Full,1,No,767938,СПб
+2003,10.1,5000,Petrol,3,Honda,Automatic,Blue,Full,0,Yes,828950,Дальний Восток
+2019,19.48,5000,Diesel,3,Chevrolet,Automatic,Red,Full,0,Yes,1225651,Сибирь
+2010,27.22,2500,Petrol,2,Hyundai,Manual,Silver,Partial,0,Yes,724561,Сибирь
+1996,17.07,2000,Petrol,4,Chevrolet,Manual,Black,Partial,0,Yes,408410,Юг
+2000,15.9,1200,Petrol,2,Chevrolet,Manual,Blue,Full,2,Yes,285257,СПб
+2001,13.3,1800,Diesel,1,Chevrolet,Manual,Black,Full,0,Yes,464697,СПб
+1996,22.05,5000,Petrol,1,Toyota,Automatic,Gray,Full,0,Yes,1018661,Урал
+1997,12.13,2500,Diesel,5,Toyota,Manual,Black,Full,1,No,523558,Юг
+2018,15.32,2000,Petrol,2,Chevrolet,Automatic,Blue,Unknown,0,Yes,678810,СПб
+2003,16.5,1200,Diesel,4,Hyundai,Manual,Gray,Partial,0,Yes,311424,Урал
+2009,11.57,1000,Petrol,3,Nissan,Manual,White,Partial,0,Yes,476046,Урал
+2005,9.85,5000,Petrol,5,Kia,Manual,White,Unknown,1,Yes,654700,Урал
+2023,19.5,1000,Diesel,2,Tesla,Manual,Red,Unknown,0,Yes,660446,СПб
+2018,16.53,1200,Diesel,2,Volkswagen,Automatic,Gray,Partial,3,No,573063,СПб
+2004,18.29,5000,Diesel,1,Volkswagen,Automatic,Black,Unknown,0,Yes,1113118,Сибирь
+2001,20.77,1000,Petrol,3,Ford,Automatic,Gray,Full,0,No,398248,Москва
+2008,16.78,2500,Diesel,3,Chevrolet,Manual,Red,Full,0,Yes,539685,Юг
+2014,22.68,1200,Petrol,2,Volkswagen,Manual,White,Unknown,0,Yes,652284,Юг
+2007,18.15,4000,Petrol,1,BMW,Manual,Silver,Full,1,Yes,1107728,Урал
+2004,9.35,3000,Petrol,1,Hyundai,Automatic,Blue,Full,0,Yes,744082,Юг
+2019,13.77,1800,Diesel,5,Chevrolet,Automatic,Gray,Unknown,0,No,579134,СПб
+2019,20.27,1000,Petrol,5,Kia,Automatic,Black,Full,1,No,535351,Юг
+2004,15.72,2000,Diesel,2,BMW,Automatic,Gray,Unknown,0,Yes,674802,Москва
+1997,11.17,4000,Diesel,1,Hyundai,Manual,Black,Full,2,Yes,752014,Урал
+2005,13.99,3000,Petrol,4,Kia,Manual,Black,Partial,0,Yes,535242,Москва
+2005,27.28,1000,Petrol,5,Kia,Manual,Black,Unknown,0,Yes,490782,СПб
+2019,22.24,1000,Electric,3,Toyota,Manual,Gray,Full,1,Yes,830468,Урал
+2011,22.51,1500,Diesel,5,Nissan,Automatic,Blue,Full,0,Yes,369050,Юг
+2001,7.34,1200,Petrol,5,Chevrolet,Manual,Black,Full,1,Yes,206971,Урал
+2015,17.79,4000,Diesel,4,Toyota,Automatic,Red,Full,1,Yes,1059286,Сибирь
+2011,17.7,3000,Petrol,4,BMW,Manual,Red,Full,1,Yes,495530,Юг
+2017,19.0,3000,Diesel,4,Hyundai,Manual,Red,Full,1,Yes,859564,Сибирь
+1998,18.8,1200,Diesel,5,Volkswagen,Manual,Gray,Partial,0,Yes,304769,Дальний Восток
+2022,24.39,4000,Petrol,3,Toyota,Automatic,Silver,Full,0,Yes,1065801,Урал
+2017,13.39,1500,Petrol,5,Hyundai,Manual,Silver,Unknown,0,Yes,528261,Юг
+2007,25.29,800,Petrol,3,Hyundai,Automatic,Gray,Partial,2,Yes,688340,Сибирь
+2023,8.2,1800,Petrol,5,Hyundai,Automatic,Silver,Full,1,Yes,578104,Москва
+2018,17.6,1800,Electric,1,BMW,Automatic,Gray,Unknown,1,Yes,1269695,Дальний Восток
+2016,12.09,2000,Petrol,5,Tesla,Automatic,Red,Partial,0,Yes,632925,Москва
+2000,17.86,2000,Diesel,3,BMW,Manual,White,Partial,1,Yes,565035,Дальний Восток
+2000,8.98,2500,Diesel,4,Hyundai,Automatic,Black,Partial,0,Yes,424213,Юг
+2005,18.31,1800,Diesel,1,Tesla,Automatic,Black,Full,0,Yes,555854,СПб
+2007,23.84,1000,Petrol,4,BMW,Manual,White,Partial,1,Yes,503333,Юг
+2022,23.93,1800,Diesel,2,BMW,Automatic,Gray,Full,0,Yes,728870,Юг
+1999,15.35,1800,Petrol,5,Nissan,Manual,Silver,Unknown,2,Yes,307231,Юг
+2005,21.87,1000,Diesel,1,Hyundai,Manual,Black,Partial,0,Yes,410631,Дальний Восток
+1997,22.17,4000,Petrol,2,Kia,Manual,Gray,Unknown,0,Yes,767792,Сибирь
+2002,7.42,1500,Petrol,2,Chevrolet,Automatic,Silver,Partial,0,No,214202,Сибирь
+2012,22.06,2000,Petrol,5,Kia,Manual,Black,Partial,0,Yes,584494,СПб
+2017,14.28,1000,Petrol,3,Tesla,Manual,Blue,Unknown,0,Yes,566995,Урал
+1995,15.03,1000,Diesel,5,Chevrolet,Manual,White,Full,1,Yes,95000,Юг
+2020,11.32,2500,Diesel,1,Honda,Manual,Black,Full,1,Yes,861917,Москва
+2014,17.0,1500,Diesel,2,Ford,Manual,White,Full,0,Yes,606894,Урал
+1997,14.7,4000,Diesel,3,Toyota,Automatic,Blue,Full,1,Yes,566396,Москва
+2008,15.78,1500,Petrol,1,Ford,Automatic,Silver,Unknown,1,Yes,670562,Сибирь
+2006,20.46,1000,Diesel,1,Volkswagen,Automatic,White,Partial,0,Yes,644112,СПб
+2000,17.8,2500,Petrol,5,Volkswagen,Manual,Red,Full,0,Yes,469650,Дальний Восток
+2016,18.02,4000,Diesel,1,Toyota,Manual,Black,Full,0,Yes,1108562,Юг
+2007,28.47,1200,Diesel,2,Honda,Automatic,Blue,Full,1,Yes,636188,Юг
+1999,15.34,5000,Diesel,4,Volkswagen,Manual,Black,Full,0,Yes,862528,Юг
+2006,24.3,1000,Petrol,1,Chevrolet,Manual,Gray,Unknown,0,Yes,412428,Сибирь
+1998,28.21,2500,Petrol,3,Kia,Manual,White,Partial,0,Yes,766853,Москва
+2021,14.25,2000,Electric,4,Hyundai,Manual,Silver,Unknown,2,Yes,1022947,СПб
+1996,13.33,1800,Petrol,4,Toyota,Manual,Red,Full,0,No,321683,Дальний Восток
+2008,17.35,1500,Diesel,2,Tesla,Manual,Silver,Full,0,Yes,654887,СПб
+2006,10.09,1500,Petrol,4,Nissan,Manual,Gray,Full,1,Yes,282308,Дальний Восток
+2005,20.44,1200,Diesel,4,Tesla,Manual,White,Full,0,No,393650,Дальний Восток
+1998,16.98,1000,Diesel,4,Ford,Automatic,Black,Unknown,1,Yes,233109,Сибирь
+1998,18.14,5000,Diesel,5,Hyundai,Manual,Black,Full,0,Yes,868768,Дальний Восток
+2015,10.85,1200,Diesel,3,Nissan,Manual,Silver,Full,0,No,478136,Дальний Восток
+1999,17.13,2500,Petrol,3,Tesla,Automatic,Black,Full,1,Yes,530499,Юг
+2018,18.12,4000,Petrol,1,Ford,Manual,Red,Full,0,Yes,1142726,Урал
+2003,27.84,800,Petrol,1,Volkswagen,Manual,White,Full,1,Yes,461851,Урал
+2018,16.93,5000,Diesel,5,Kia,Automatic,Black,Full,1,Yes,902877,Дальний Восток
+2019,18.96,2500,Diesel,5,Kia,Manual,White,Unknown,0,No,742423,СПб
+2007,14.57,5000,Electric,1,Ford,Automatic,White,Partial,0,Yes,1473381,Урал
+2022,16.25,1200,Petrol,3,Ford,Automatic,Red,Full,0,Yes,615268,Сибирь
+2018,14.18,1800,Petrol,2,Kia,Manual,Blue,Unknown,0,Yes,935466,Дальний Восток
+2016,18.74,1200,Diesel,5,Hyundai,Manual,Black,Unknown,1,Yes,564404,Москва
+2016,24.51,1000,Diesel,1,Toyota,Manual,Red,Partial,3,Yes,609456,Москва
+2009,11.35,5000,Petrol,3,Toyota,Automatic,Blue,Full,0,Yes,943590,Дальний Восток
+2001,15.01,1500,Diesel,4,Kia,Manual,Black,Partial,1,Yes,209428,Сибирь
+2009,19.34,800,Petrol,1,Ford,Automatic,White,Full,1,Yes,539857,Москва
+2011,20.95,1200,Petrol,5,Hyundai,Manual,Black,Partial,0,No,575848,Дальний Восток
+2016,18.48,1000,Diesel,2,Tesla,Automatic,Black,Full,1,Yes,531155,Москва
+2001,13.8,1800,Electric,3,Ford,Manual,Silver,Unknown,3,No,761404,Дальний Восток
+2014,16.95,1200,Diesel,1,Hyundai,Manual,Red,Unknown,0,Yes,609449,Москва
+2023,10.54,4000,Diesel,1,Volkswagen,Automatic,Black,Unknown,1,Yes,1028920,Сибирь
+2005,9.73,1000,Electric,4,Nissan,Automatic,Silver,Unknown,0,Yes,504402,Сибирь
+1997,21.17,1800,Diesel,4,BMW,Manual,Red,Full,2,No,508072,Сибирь
+2016,15.72,1000,Petrol,2,Kia,Manual,Blue,Partial,0,Yes,650562,Сибирь
+2020,9.41,1800,Petrol,4,Volkswagen,Automatic,Blue,Full,0,Yes,681071,Урал
+2011,19.83,1000,Diesel,5,Honda,Automatic,Gray,Unknown,0,Yes,420074,Дальний Восток
+2004,16.4,1800,Petrol,2,Toyota,Automatic,Red,Full,2,No,530880,Дальний Восток
+1995,9.96,4000,Petrol,2,Chevrolet,Manual,Blue,Full,1,Yes,519738,Юг
+2011,16.07,5000,Petrol,4,Kia,Manual,Red,Full,0,No,1015507,Юг
+1999,22.58,800,Electric,3,Hyundai,Manual,Blue,Partial,2,No,670598,Сибирь
+2011,20.73,1000,Petrol,3,Tesla,Manual,Gray,Partial,0,Yes,680348,Сибирь
+1995,20.3,1500,Diesel,3,Tesla,Manual,Black,Unknown,1,Yes,458253,Дальний Восток
+2006,23.32,5000,Petrol,4,Toyota,Manual,Black,Full,2,Yes,1190119,Дальний Восток
+1999,21.91,3000,Diesel,5,Honda,Automatic,Silver,Partial,0,Yes,455118,Сибирь
+1999,11.89,1500,Diesel,2,Kia,Manual,Red,Full,0,Yes,319428,Москва
+2007,21.35,5000,Petrol,1,Tesla,Manual,Gray,Full,1,Yes,1166287,Дальний Восток
+2016,12.64,3000,Diesel,1,BMW,Automatic,White,Full,1,No,929615,Сибирь
+2001,20.0,800,Diesel,2,Ford,Manual,Silver,Full,0,Yes,343950,СПб
+1996,15.94,1500,Electric,4,Hyundai,Manual,White,Full,0,Yes,659756,Москва
+2018,18.34,2000,Diesel,1,Volkswagen,Manual,Black,Unknown,1,No,960547,СПб
+2009,18.88,1500,Diesel,5,Tesla,Automatic,Gray,Partial,1,Yes,268404,Сибирь
+2000,9.97,1500,Diesel,4,Tesla,Manual,Silver,Full,1,Yes,207802,Урал
+2020,14.68,3000,Diesel,4,Toyota,Manual,Gray,Unknown,0,No,732390,Урал
+2007,18.28,5000,Petrol,1,Hyundai,Automatic,Blue,Partial,2,Yes,1261909,Москва
+2005,15.74,2000,Electric,4,Kia,Automatic,Silver,Unknown,0,Yes,711329,СПб
+2010,11.58,1800,Diesel,3,Nissan,Automatic,Blue,Full,0,No,549623,Сибирь
+2008,29.56,5000,Petrol,1,Ford,Automatic,White,Partial,1,No,1314008,Сибирь
+2009,23.87,1200,Diesel,1,Nissan,Manual,White,Partial,0,Yes,566898,Сибирь
+2004,27.13,3000,Diesel,2,Hyundai,Automatic,Silver,Partial,1,No,773859,Москва
+2006,27.87,1000,Electric,2,BMW,Automatic,Black,Full,1,Yes,905581,СПб
+2004,21.91,2500,Petrol,1,Honda,Automatic,Gray,Full,1,Yes,695025,СПб
+2020,19.88,4000,Electric,5,Hyundai,Automatic,Gray,Full,0,Yes,1281452,СПб
+2017,23.53,1200,Petrol,5,BMW,Automatic,Blue,Unknown,0,Yes,606068,Урал
+1996,8.24,1500,Diesel,3,Ford,Manual,White,Full,1,No,360823,Дальний Восток
+2009,14.25,1500,Diesel,2,BMW,Manual,Gray,Full,0,Yes,591273,Москва
+1997,17.78,1200,Electric,2,Tesla,Manual,Gray,Full,1,Yes,682647,Урал
+2006,28.0,2000,Petrol,3,Kia,Manual,Red,Partial,0,Yes,571781,Москва
+2014,19.03,3000,Petrol,5,Hyundai,Manual,Black,Full,1,Yes,757364,Москва
+2006,18.78,2000,Petrol,5,Kia,Automatic,Black,Full,1,No,332486,СПб
+2011,25.34,1500,Diesel,4,BMW,Manual,Silver,Partial,0,No,622072,Сибирь
+2000,24.13,1000,Petrol,2,BMW,Manual,Gray,Partial,1,Yes,553919,Дальний Восток
+2003,15.2,2500,Petrol,3,Volkswagen,Automatic,Black,Unknown,1,Yes,442383,Урал
+1998,22.19,800,Petrol,2,Honda,Automatic,Silver,Partial,0,Yes,473839,Москва
+2008,18.97,1800,Petrol,1,Kia,Manual,Silver,Unknown,1,Yes,568015,Юг
+2013,22.46,800,Petrol,1,BMW,Manual,White,Unknown,0,Yes,562269,Урал
+2009,17.49,1500,Diesel,3,Volkswagen,Automatic,Red,Unknown,0,Yes,602973,Москва
+2008,19.59,3000,Petrol,3,Tesla,Manual,Blue,Full,2,No,646470,Сибирь
+2011,19.17,5000,Diesel,5,Tesla,Automatic,Gray,Unknown,0,Yes,926192,СПб
+2017,17.75,4000,Petrol,2,Volkswagen,Automatic,Gray,Full,0,Yes,1037469,Москва
+2010,6.91,1500,Diesel,1,Chevrolet,Manual,Red,Full,1,No,503307,Сибирь
+2008,14.19,3000,Diesel,5,Volkswagen,Automatic,Gray,Unknown,0,Yes,729041,Урал
+2001,16.49,3000,Petrol,5,BMW,Automatic,White,Full,0,No,507739,Москва
+1998,18.03,1500,Diesel,4,Toyota,Manual,Gray,Partial,0,No,322425,СПб
+2000,16.1,1800,Diesel,1,BMW,Automatic,Gray,Unknown,0,No,548135,Сибирь
+2021,18.67,2500,Diesel,5,Toyota,Manual,Silver,Full,1,Yes,874000,Сибирь
+2019,17.64,2500,Diesel,4,Kia,Manual,Silver,Partial,0,Yes,780541,Юг
+2015,13.72,5000,Electric,4,Nissan,Manual,Silver,Unknown,1,No,1198089,Урал
+2016,19.8,1500,Diesel,4,Hyundai,Manual,Black,Full,0,Yes,484046,Москва
+1996,22.72,800,Diesel,2,Honda,Manual,Black,Full,0,Yes,410864,СПб
+1999,14.14,800,Petrol,1,BMW,Automatic,White,Partial,0,Yes,377508,Сибирь
+2009,16.63,1500,Electric,4,BMW,Automatic,Red,Partial,1,Yes,582343,Сибирь
+2022,18.68,1800,Petrol,3,Kia,Automatic,Red,Full,1,No,711261,Юг
+2003,24.54,4000,Petrol,2,Hyundai,Automatic,Gray,Full,1,Yes,1188938,Юг
+2022,17.24,5000,Diesel,1,Hyundai,Automatic,White,Partial,1,Yes,1311403,Урал
+2011,13.13,2500,Electric,3,Ford,Manual,Gray,Unknown,0,Yes,1089270,Москва
+2000,28.84,5000,Diesel,1,Honda,Manual,Blue,Full,3,Yes,997689,Юг
+2007,14.44,2000,Petrol,3,Ford,Automatic,Gray,Full,2,Yes,641973,СПб
+2016,13.74,5000,Diesel,4,Ford,Manual,Silver,Full,0,Yes,1032928,СПб
+2011,14.92,4000,Petrol,3,Hyundai,Automatic,Black,Partial,0,No,904766,Сибирь
+2018,28.26,1200,Diesel,4,Nissan,Manual,Red,Full,0,Yes,718820,Дальний Восток
+2012,22.91,1800,Diesel,2,Toyota,Manual,Blue,Unknown,1,Yes,573983,Москва
+2009,14.66,1200,Electric,1,Tesla,Automatic,Gray,Unknown,0,Yes,770473,Урал
+2016,9.37,5000,Diesel,2,Ford,Automatic,Blue,Partial,0,Yes,1041277,Москва
+2022,20.93,1800,Petrol,4,BMW,Manual,Red,Unknown,0,Yes,779344,Урал
+2002,12.08,1800,Diesel,3,Hyundai,Automatic,Blue,Full,0,Yes,326586,Урал
+2003,22.81,1800,Diesel,1,Toyota,Manual,White,Full,0,Yes,649228,СПб
+1999,16.43,1200,Petrol,3,Toyota,Automatic,Silver,Full,0,Yes,242316,Урал
+2023,15.3,2000,Diesel,3,Tesla,Automatic,Gray,Full,1,Yes,860693,Урал
+1999,21.99,800,Diesel,4,Toyota,Manual,Black,Full,0,Yes,273191,Юг
+2010,17.38,800,Petrol,1,Toyota,Automatic,Red,Full,0,Yes,465619,Дальний Восток
+2014,13.49,1800,Petrol,4,Honda,Manual,Red,Full,0,Yes,475058,СПб
+2021,24.43,1500,Diesel,4,Hyundai,Manual,Silver,Full,0,Yes,863275,Юг
+2000,14.09,800,Diesel,4,Toyota,Automatic,Silver,Full,1,Yes,139440,Урал
+1996,14.12,1200,Diesel,1,Nissan,Manual,Silver,Partial,1,No,498615,Дальний Восток
+1998,30.19,1800,Petrol,5,BMW,Manual,White,Full,0,Yes,646366,Юг
+1997,16.82,3000,Diesel,5,Volkswagen,Manual,Blue,Partial,1,Yes,467905,СПб
+1996,15.58,1800,Diesel,3,Honda,Manual,Blue,Full,0,Yes,244335,СПб
+2012,6.53,1200,Petrol,3,Tesla,Automatic,Gray,Full,1,No,461826,СПб
+2019,21.2,1500,Petrol,3,Ford,Automatic,Red,Full,0,Yes,657141,Дальний Восток
+2016,17.95,1200,Diesel,5,Honda,Automatic,Black,Unknown,1,Yes,616253,Сибирь
+1998,19.94,1200,Diesel,5,BMW,Manual,Black,Full,0,Yes,351824,Урал
+2019,9.19,3000,Petrol,4,Nissan,Manual,Silver,Full,1,Yes,848641,Москва
+2005,16.33,5000,Diesel,4,Kia,Manual,Blue,Partial,0,Yes,913820,Москва
+2022,24.94,1500,Petrol,3,Tesla,Automatic,Gray,Partial,3,Yes,762478,Урал
+2000,19.55,1000,Petrol,3,Ford,Manual,Gray,Full,0,Yes,435960,СПб
+2008,20.81,1500,Petrol,1,BMW,Manual,White,Partial,1,Yes,810924,СПб
+2014,15.94,1200,Diesel,1,Toyota,Automatic,White,Full,0,No,639051,Сибирь
+2006,21.6,800,Petrol,1,Volkswagen,Automatic,Silver,Full,2,No,491367,Сибирь
+1996,14.05,1500,Petrol,3,Toyota,Automatic,Blue,Unknown,0,No,228526,Москва
+1996,19.16,4000,Petrol,3,Volkswagen,Manual,Red,Partial,1,Yes,819141,СПб
+2003,12.1,1500,Electric,3,Kia,Manual,Blue,Full,0,No,762102,Москва
+2015,13.56,2000,Diesel,1,Volkswagen,Manual,Gray,Partial,0,No,719874,Юг
+2009,23.26,1500,Petrol,2,Tesla,Manual,White,Partial,0,Yes,726695,Москва
+1995,23.07,2000,Diesel,4,Kia,Automatic,Silver,Partial,0,Yes,479918,Москва
+2022,8.48,3000,Diesel,1,Toyota,Automatic,Black,Full,2,No,1049511,Сибирь
+2002,13.95,5000,Diesel,3,BMW,Automatic,Black,Full,0,Yes,774072,Урал
+2002,14.39,1000,Diesel,5,Kia,Manual,Blue,Full,0,Yes,123960,Дальний Восток
+2017,18.54,4000,Electric,5,Volkswagen,Manual,Gray,Partial,0,Yes,1004483,Дальний Восток
+2003,11.64,5000,Diesel,5,Toyota,Automatic,White,Full,1,Yes,743264,Урал
+1996,19.88,1200,Electric,4,Kia,Automatic,Blue,Partial,0,Yes,546811,Дальний Восток
+2001,18.21,800,Diesel,1,Honda,Manual,Black,Partial,0,Yes,641962,Дальний Восток
+2005,11.76,2000,Petrol,1,BMW,Manual,Red,Full,0,Yes,511498,Урал
+2004,12.17,1000,Petrol,4,Chevrolet,Manual,Gray,Partial,0,Yes,319934,Юг
+2000,17.47,800,Diesel,1,Hyundai,Automatic,Silver,Full,1,Yes,362472,Юг
+1998,16.85,1200,Diesel,5,Volkswagen,Automatic,Silver,Full,0,Yes,339330,Москва
+2007,18.37,5000,Petrol,2,Chevrolet,Manual,Black,Partial,0,Yes,1062705,Москва
+2011,16.24,800,Diesel,1,Chevrolet,Manual,Blue,Unknown,2,No,818589,Урал
+1999,18.71,4000,Diesel,4,Honda,Manual,Silver,Full,1,Yes,748487,Дальний Восток
+2003,16.23,1200,Petrol,5,Hyundai,Manual,Red,Unknown,0,Yes,330597,Сибирь
+2019,15.58,2500,Diesel,1,BMW,Automatic,Silver,Partial,0,Yes,919723,Дальний Восток
+2012,25.91,1800,Petrol,1,Volkswagen,Manual,Blue,Partial,0,No,719618,СПб
+2005,15.95,2500,Petrol,3,Kia,Manual,Black,Full,1,Yes,526670,Юг
+2008,12.31,1500,Petrol,5,Ford,Manual,Blue,Partial,1,Yes,410389,Урал
+2016,19.0,4000,Diesel,2,BMW,Manual,Red,Full,0,Yes,1190042,СПб
+2023,14.25,1500,Petrol,3,Hyundai,Manual,Gray,Full,0,Yes,784208,Сибирь
+2006,16.37,1800,Petrol,4,Kia,Manual,Black,Partial,0,Yes,651846,Урал
+1995,10.41,5000,Diesel,5,Chevrolet,Manual,White,Full,1,No,536484,СПб
+2023,15.73,800,Diesel,2,Tesla,Manual,Black,Full,0,No,669692,Урал
+1997,16.45,1500,Diesel,3,Hyundai,Automatic,Black,Full,0,Yes,405774,Сибирь
+1995,30.37,2500,Diesel,2,Kia,Manual,Red,Full,0,Yes,715970,Дальний Восток
+2015,14.62,5000,Petrol,3,Hyundai,Manual,Gray,Partial,0,Yes,1142149,Москва
+2002,19.11,3000,Petrol,2,Toyota,Manual,Silver,Partial,0,Yes,961671,Юг
+2023,7.86,1800,Petrol,5,Honda,Manual,Blue,Partial,0,Yes,635418,Урал
+1995,27.44,1800,Diesel,2,Nissan,Manual,Red,Full,0,Yes,424052,Сибирь
+2009,19.34,1000,Petrol,3,Volkswagen,Manual,Silver,Partial,0,Yes,666496,СПб
+2021,23.54,5000,Diesel,5,Ford,Manual,Blue,Unknown,0,Yes,1164362,СПб
+2000,16.48,3000,Petrol,1,Tesla,Automatic,Black,Partial,1,Yes,512588,Юг
+2014,14.08,1500,Petrol,1,Tesla,Manual,Gray,Full,1,No,564705,Урал
+2008,11.25,1000,Diesel,3,Chevrolet,Automatic,White,Full,0,Yes,374996,Сибирь
+2005,12.95,4000,Petrol,5,BMW,Automatic,Blue,Full,0,Yes,704291,Юг
+2011,18.25,4000,Petrol,2,Tesla,Manual,Silver,Partial,1,Yes,1191404,Дальний Восток
+2015,14.71,1000,Petrol,2,Volkswagen,Automatic,Blue,Unknown,0,Yes,423818,СПб
+2016,19.81,1500,Diesel,4,Ford,Manual,Silver,Partial,0,Yes,679748,Дальний Восток
+2015,18.01,2000,Petrol,2,Nissan,Manual,Blue,Partial,0,Yes,626807,Урал
+2014,22.6,2000,Diesel,5,Hyundai,Manual,White,Unknown,0,No,757356,Москва
+2009,12.37,2500,Petrol,4,Tesla,Manual,Blue,Full,1,Yes,569604,Дальний Восток
+1997,18.99,4000,Electric,1,Hyundai,Manual,Silver,Partial,0,Yes,1067542,Сибирь
+2019,16.32,1800,Diesel,3,Chevrolet,Manual,Black,Unknown,0,Yes,743337,Сибирь
+2016,25.66,4000,Petrol,5,Honda,Automatic,Black,Partial,0,No,982049,Юг
+2014,18.65,1200,Diesel,1,BMW,Automatic,Blue,Partial,0,Yes,726701,Дальний Восток
+2010,22.34,1000,Petrol,3,Nissan,Manual,Blue,Full,0,Yes,556196,Сибирь
+2009,25.72,2500,Petrol,2,Toyota,Automatic,Red,Full,0,No,837381,СПб
+2012,18.65,5000,Diesel,4,Tesla,Manual,Blue,Full,0,Yes,859596,Юг
+2020,14.86,2000,Diesel,1,Volkswagen,Automatic,Gray,Full,1,Yes,1068555,Дальний Восток
+2022,21.91,4000,Electric,4,Hyundai,Manual,Black,Full,0,No,1282351,Дальний Восток
+2023,11.8,1000,Petrol,2,Honda,Manual,Blue,Partial,0,No,608378,Урал
+2017,14.63,2500,Diesel,4,Hyundai,Automatic,White,Partial,1,Yes,491652,Урал
+2017,15.47,1500,Petrol,4,BMW,Manual,Blue,Full,0,Yes,558777,Москва
+2007,13.49,1800,Petrol,4,Toyota,Manual,Blue,Partial,0,Yes,663442,Урал
+2006,27.82,1200,Diesel,1,BMW,Manual,Blue,Partial,0,Yes,597628,Дальний Восток
+2011,16.58,800,Petrol,1,Honda,Automatic,Silver,Unknown,0,No,600691,Юг
+2016,13.84,5000,Diesel,3,Hyundai,Manual,White,Full,2,No,1008609,Урал
+1997,10.67,4000,Petrol,5,Volkswagen,Manual,White,Partial,1,Yes,439673,СПб
+2013,28.18,2500,Petrol,3,Toyota,Manual,Blue,Partial,0,Yes,930900,Урал
+2015,18.35,1200,Diesel,4,Hyundai,Manual,White,Partial,0,Yes,576926,Урал
+2015,11.8,2500,Diesel,3,Honda,Automatic,Black,Partial,0,No,648160,Дальний Восток
+2023,16.33,1200,Petrol,1,Honda,Manual,Black,Full,0,Yes,864454,СПб
+2014,21.69,4000,Diesel,4,Honda,Manual,Silver,Partial,0,Yes,1133992,Сибирь
+2017,16.52,4000,Electric,5,Toyota,Manual,Black,Full,1,Yes,1153240,Дальний Восток
+2000,17.96,1200,Petrol,4,Volkswagen,Automatic,Silver,Full,0,Yes,381515,Сибирь
+2019,21.43,5000,Petrol,5,Nissan,Manual,Black,Unknown,0,Yes,1143577,Дальний Восток
+2003,12.98,4000,Diesel,2,Ford,Manual,Gray,Full,0,Yes,760053,Урал
+2008,15.57,3000,Petrol,3,Honda,Automatic,Black,Full,0,No,906637,Москва
+2020,13.8,1000,Diesel,5,Hyundai,Manual,Red,Full,1,Yes,470566,Юг
+2017,15.37,5000,Diesel,5,Chevrolet,Manual,Gray,Full,0,Yes,963006,СПб
+1999,17.71,1800,Diesel,1,Ford,Automatic,Silver,Full,2,No,717560,Москва
+1996,23.91,2000,Diesel,5,Volkswagen,Manual,Black,Full,0,Yes,294655,Дальний Восток
+2001,5.53,3000,Petrol,1,Nissan,Manual,Black,Full,0,Yes,547235,Урал
+2013,21.48,1000,Diesel,4,BMW,Automatic,Gray,Full,0,Yes,486624,Урал
+2014,18.85,1000,Petrol,1,Nissan,Manual,Red,Full,1,Yes,733134,Сибирь
+1997,12.53,2500,Diesel,5,Honda,Automatic,Gray,Partial,1,No,489780,Юг
+2002,18.14,4000,Petrol,4,Volkswagen,Automatic,Gray,Unknown,0,Yes,694253,Сибирь
+2020,10.69,1200,Petrol,3,BMW,Manual,Gray,Full,0,Yes,556948,Москва
+2001,24.53,800,Petrol,2,Tesla,Automatic,Red,Full,0,Yes,382589,СПб
+2006,13.39,1000,Petrol,2,Ford,Manual,Blue,Partial,1,No,470615,Дальний Восток
+2004,16.91,800,Diesel,5,Tesla,Manual,Black,Full,0,No,346947,Сибирь
+2001,24.7,1500,Petrol,5,Nissan,Automatic,Black,Full,1,Yes,414929,Урал
+2009,15.17,800,Diesel,1,Volkswagen,Automatic,Blue,Full,0,Yes,454370,Сибирь
+2011,25.22,5000,Diesel,5,Volkswagen,Manual,Blue,Full,0,Yes,1077413,Москва
+2017,20.51,1800,Diesel,4,Honda,Automatic,Silver,Full,1,Yes,783585,Урал
+2021,22.39,800,Diesel,4,Nissan,Manual,Silver,Full,0,Yes,460309,СПб
+2021,20.96,5000,Petrol,4,Nissan,Manual,Gray,Partial,0,No,1065462,СПб
+1995,14.34,4000,Petrol,4,Chevrolet,Manual,Blue,Partial,0,Yes,520595,Москва
+2004,19.32,5000,Petrol,3,Ford,Manual,Blue,Partial,0,No,783016,Урал
+1996,5.0,2500,Petrol,3,BMW,Manual,Blue,Partial,0,Yes,345652,Юг
+2014,21.91,4000,Petrol,2,Nissan,Automatic,Gray,Full,1,Yes,887190,Дальний Восток
+2007,22.91,1200,Petrol,4,Honda,Manual,Silver,Full,0,Yes,471561,Москва
+2002,13.62,1500,Diesel,1,Honda,Manual,Gray,Full,1,Yes,389355,Сибирь
+2011,21.41,2500,Electric,1,Volkswagen,Manual,Gray,Partial,0,Yes,1070009,СПб
+2020,11.74,1200,Diesel,1,Honda,Manual,Silver,Full,1,Yes,769877,Юг
+2015,21.77,5000,Diesel,2,Hyundai,Manual,Gray,Full,0,Yes,1303971,Сибирь
+2011,20.62,1000,Petrol,4,Tesla,Automatic,Gray,Full,1,No,380537,Дальний Восток
+1995,17.49,1800,Petrol,1,BMW,Manual,Silver,Full,0,Yes,345939,Москва
+2015,14.9,5000,Petrol,3,BMW,Automatic,Silver,Full,2,Yes,1091895,Дальний Восток
+2010,13.94,2000,Petrol,2,Nissan,Manual,Gray,Full,1,Yes,594844,Дальний Восток
+2006,20.52,800,Petrol,5,Hyundai,Automatic,Silver,Partial,1,Yes,255233,Урал
+2005,18.4,4000,Petrol,2,Honda,Automatic,Gray,Unknown,1,Yes,906835,Урал
+2014,12.76,1800,Petrol,1,Tesla,Manual,Gray,Full,0,Yes,803492,Юг
+2007,27.06,3000,Diesel,1,Chevrolet,Automatic,Gray,Full,1,No,902524,Сибирь
+2001,23.9,3000,Petrol,1,Ford,Automatic,Gray,Unknown,0,Yes,973124,Москва
+1998,19.88,5000,Electric,5,Honda,Manual,Silver,Full,0,Yes,966054,Юг
+2020,14.65,2500,Petrol,2,BMW,Manual,Black,Full,2,No,917812,Юг
+2013,10.5,2000,Diesel,3,Kia,Automatic,White,Unknown,0,Yes,520619,Юг
+2021,20.11,5000,Electric,4,Honda,Manual,Black,Partial,0,No,1427054,Сибирь
+2006,22.42,5000,Petrol,4,Tesla,Automatic,Black,Full,2,Yes,985451,Сибирь
+2018,12.72,1000,Diesel,4,Honda,Automatic,White,Full,1,Yes,537164,Юг
+2013,29.9,4000,Diesel,3,Toyota,Manual,Silver,Unknown,2,Yes,1003040,Урал
+1997,17.37,1500,Diesel,2,Ford,Automatic,Red,Full,1,Yes,345361,Юг
+2022,20.24,2500,Petrol,1,Kia,Manual,Blue,Partial,0,No,837490,Урал
+1997,17.87,2500,Diesel,3,Nissan,Manual,Silver,Partial,0,Yes,456386,Москва
+2019,18.85,800,Diesel,2,Volkswagen,Automatic,Gray,Full,1,No,636063,СПб
+2006,25.29,2500,Petrol,5,Ford,Automatic,White,Unknown,0,Yes,618614,Сибирь
+2000,12.47,1200,Diesel,3,Hyundai,Automatic,Gray,Unknown,0,No,392946,СПб
+2000,22.95,2500,Petrol,1,Nissan,Manual,White,Partial,0,Yes,703290,СПб
+2012,17.3,1200,Petrol,2,Hyundai,Manual,Black,Partial,1,Yes,615172,Дальний Восток
+2014,14.28,1200,Petrol,3,Tesla,Manual,Blue,Full,0,No,576096,Москва
+2009,19.74,3000,Diesel,5,Nissan,Automatic,Black,Full,0,Yes,687619,Урал
+2018,27.1,3000,Petrol,3,Kia,Automatic,White,Full,1,Yes,998545,Урал
+2008,11.67,1800,Diesel,1,Toyota,Manual,Gray,Unknown,0,Yes,459939,Юг
+2020,20.57,3000,Petrol,1,Chevrolet,Manual,Red,Partial,0,Yes,1183592,Сибирь
+1998,28.79,5000,Diesel,3,Volkswagen,Manual,Blue,Partial,0,Yes,1025845,СПб
+2012,13.63,1800,Diesel,2,Volkswagen,Automatic,Blue,Full,2,Yes,886834,Урал
+2018,22.32,2000,Petrol,1,Honda,Manual,Blue,Full,1,Yes,662660,Урал
+2011,12.88,800,Diesel,1,Honda,Manual,Silver,Unknown,0,Yes,529129,Сибирь
+2005,16.72,3000,Diesel,2,Kia,Manual,Gray,Partial,0,Yes,652123,Сибирь
+2017,8.89,800,Diesel,4,Tesla,Manual,Gray,Partial,0,No,353180,Урал
+2009,14.21,4000,Petrol,5,Nissan,Automatic,Silver,Full,0,Yes,658605,Юг
+1995,12.12,2000,Petrol,5,Hyundai,Automatic,White,Partial,0,No,197273,Юг
+2023,11.97,1800,Electric,3,Toyota,Manual,Red,Partial,0,Yes,1158445,Юг
+2015,14.56,2000,Petrol,5,Chevrolet,Automatic,Gray,Partial,0,Yes,615258,Дальний Восток
+2006,20.33,1800,Diesel,4,Kia,Manual,Gray,Partial,2,Yes,536791,Сибирь
+2010,22.31,5000,Diesel,4,Tesla,Automatic,Blue,Partial,1,Yes,1060979,Сибирь
+2020,18.99,3000,Diesel,1,Nissan,Automatic,Silver,Full,0,Yes,1067452,Москва
+2023,17.11,1500,Petrol,5,Chevrolet,Manual,Gray,Unknown,0,Yes,644042,Дальний Восток
+1996,23.19,4000,Electric,4,Tesla,Automatic,Black,Partial,0,Yes,896914,Москва
+2014,26.9,3000,Petrol,5,Nissan,Automatic,Gray,Unknown,0,No,855799,Урал
+1998,17.87,5000,Diesel,5,Nissan,Automatic,Blue,Partial,0,Yes,684202,Юг
+2017,14.55,1800,Diesel,4,BMW,Manual,Red,Full,0,Yes,722488,СПб
+2001,17.91,4000,Petrol,2,Chevrolet,Manual,Black,Partial,1,Yes,883604,Урал
+2019,16.07,1800,Diesel,5,Chevrolet,Manual,Red,Full,0,Yes,781469,СПб
+2023,18.21,1200,Electric,5,BMW,Manual,White,Full,0,Yes,763317,Урал
+1998,8.23,3000,Diesel,3,Hyundai,Automatic,Silver,Partial,1,No,476734,Москва
+2014,18.67,5000,Petrol,4,Ford,Automatic,White,Partial,0,No,1091001,Москва
+2006,23.18,2000,Petrol,5,BMW,Automatic,Black,Full,1,Yes,673609,СПб
+2021,30.43,2500,Petrol,3,Tesla,Manual,Red,Full,0,No,1011467,Урал
+2018,21.0,800,Diesel,4,Tesla,Manual,Gray,Unknown,2,Yes,493923,СПб
+2009,18.01,1800,Diesel,3,Nissan,Automatic,Black,Unknown,2,Yes,637437,Дальний Восток
+2003,31.62,1200,Diesel,2,BMW,Automatic,White,Full,0,Yes,557587,Москва
+2014,19.53,3000,Petrol,2,Toyota,Manual,Black,Full,1,No,919078,Москва
+2014,18.22,1000,Diesel,1,Honda,Manual,Gray,Unknown,0,Yes,685762,Дальний Восток
+2000,10.46,800,Diesel,5,Honda,Automatic,Blue,Full,0,No,136855,Москва
+2004,16.12,2000,Petrol,2,Nissan,Automatic,Gray,Partial,0,No,614758,СПб
+2023,26.26,1800,Diesel,5,Nissan,Manual,Gray,Full,1,Yes,733540,Урал
+2014,19.3,1200,Electric,2,Honda,Manual,Red,Full,0,Yes,910558,СПб
+2016,17.45,2500,Electric,4,BMW,Manual,Red,Full,0,Yes,1011033,Урал
+2017,16.77,1200,Electric,1,Hyundai,Manual,Blue,Partial,0,Yes,970738,СПб
+2018,23.99,2500,Petrol,3,Chevrolet,Automatic,Red,Full,0,Yes,752161,Сибирь
+1999,18.67,4000,Diesel,5,Tesla,Manual,Gray,Full,2,Yes,582666,Москва
+2006,20.13,1500,Diesel,1,Kia,Automatic,Blue,Full,0,Yes,566847,Дальний Восток
+2019,24.57,4000,Electric,4,Ford,Manual,White,Full,0,Yes,1307623,Урал
+1996,19.64,4000,Electric,1,Chevrolet,Automatic,Red,Full,0,No,1020908,Юг
+1998,24.96,800,Diesel,2,Kia,Manual,White,Full,1,Yes,432504,Юг
+2000,14.99,2500,Petrol,3,Chevrolet,Automatic,Blue,Full,0,Yes,578059,Сибирь
+2014,18.71,2500,Petrol,1,Nissan,Manual,Red,Partial,3,Yes,885101,Урал
+2020,21.6,2000,Petrol,1,Tesla,Manual,Gray,Full,0,No,982824,Москва
+1998,17.35,1800,Petrol,1,Honda,Automatic,Black,Unknown,0,No,603523,Юг
+2005,20.45,3000,Diesel,2,Chevrolet,Automatic,Red,Partial,1,Yes,768914,СПб
+2013,13.95,5000,Diesel,1,Volkswagen,Manual,Blue,Partial,0,Yes,1191932,Юг
+2001,15.14,5000,Diesel,5,Hyundai,Automatic,White,Unknown,0,Yes,627084,Юг
+1998,18.05,1500,Petrol,4,Hyundai,Automatic,Red,Partial,0,No,249486,Урал
+2005,25.72,1000,Diesel,2,Kia,Manual,White,Unknown,2,Yes,685197,Дальний Восток
+2007,9.23,2500,Diesel,2,Ford,Manual,Blue,Full,2,No,570603,Урал
+2010,16.5,3000,Electric,4,BMW,Automatic,Silver,Full,0,Yes,1064770,Урал
+2003,16.27,1200,Petrol,5,Honda,Manual,Black,Full,0,Yes,264137,СПб
+2013,17.21,800,Petrol,1,Honda,Manual,White,Full,0,Yes,645415,Москва
+2004,10.59,4000,Diesel,1,Chevrolet,Manual,Black,Full,3,Yes,918099,Дальний Восток
+2011,21.76,1800,Petrol,5,Nissan,Automatic,Gray,Partial,0,Yes,528891,Москва
+2003,28.98,3000,Diesel,2,Chevrolet,Manual,Gray,Full,0,No,745798,Дальний Восток
+1998,18.1,800,Petrol,4,Hyundai,Automatic,Gray,Full,0,Yes,185495,Дальний Восток
+2011,22.92,3000,Diesel,2,Tesla,Manual,White,Full,0,No,1020738,Дальний Восток
+2023,8.31,1000,Petrol,2,Volkswagen,Automatic,Red,Full,0,No,576102,Сибирь
+2022,12.65,800,Petrol,5,Toyota,Manual,Black,Partial,1,Yes,544905,Сибирь
+2009,15.21,2000,Diesel,5,Nissan,Manual,Gray,Full,1,No,449265,СПб
+1996,16.37,2000,Electric,4,Chevrolet,Automatic,Red,Partial,1,Yes,601240,СПб
+2023,22.38,4000,Electric,5,Tesla,Manual,Blue,Full,0,No,1358436,Юг
+2001,18.17,1500,Petrol,4,Toyota,Automatic,Blue,Full,0,Yes,350985,Сибирь
+2004,14.68,1200,Petrol,5,Kia,Automatic,Black,Partial,0,Yes,344299,Дальний Восток
+2009,21.92,1500,Diesel,2,Hyundai,Manual,Black,Partial,0,Yes,567521,СПб
+2015,16.57,800,Petrol,1,Chevrolet,Automatic,Black,Partial,1,Yes,585918,Урал
+2008,6.8,2000,Petrol,1,Ford,Manual,Black,Full,0,Yes,780104,Москва
+1996,20.02,2000,Diesel,5,Kia,Manual,Blue,Full,0,Yes,487536,Юг
+2007,24.75,4000,Petrol,5,Chevrolet,Manual,Red,Unknown,1,Yes,828547,Юг
+2004,16.72,2500,Electric,4,Toyota,Automatic,White,Full,0,No,870608,Сибирь
+2003,13.79,1000,Electric,2,Toyota,Automatic,White,Partial,0,Yes,813176,Урал
+2018,16.95,1200,Petrol,5,Ford,Automatic,White,Partial,0,Yes,717526,Урал
+2007,26.09,5000,Petrol,4,Tesla,Automatic,Gray,Unknown,0,Yes,990535,Дальний Восток
+2013,12.49,2000,Petrol,1,Honda,Manual,Black,Full,2,Yes,650463,Дальний Восток
+2001,15.59,1800,Diesel,3,Ford,Manual,Red,Partial,0,Yes,423615,Сибирь
+2017,16.38,1500,Petrol,4,Honda,Manual,Silver,Partial,0,Yes,722167,Сибирь
+2011,18.42,2000,Diesel,1,Kia,Manual,Silver,Full,1,Yes,833420,Москва
+1996,15.6,1000,Petrol,2,Honda,Manual,Gray,Unknown,0,Yes,460298,СПб
+2013,25.14,1200,Diesel,5,Ford,Automatic,Silver,Partial,1,Yes,362427,Сибирь
+2015,20.29,1200,Electric,4,Ford,Manual,Blue,Full,1,Yes,822652,СПб
+2005,22.62,5000,Diesel,4,Tesla,Manual,Black,Full,1,Yes,964976,Сибирь
+1995,20.55,800,Petrol,5,Kia,Automatic,Blue,Partial,1,Yes,95000,Сибирь
+2003,8.87,5000,Diesel,1,Tesla,Manual,Silver,Full,0,Yes,998484,СПб
+2015,28.59,3000,Diesel,5,BMW,Manual,Blue,Partial,2,No,817073,Сибирь
+2003,13.23,3000,Petrol,1,Hyundai,Manual,Red,Full,0,Yes,779104,Юг
+2016,15.63,4000,Diesel,3,Volkswagen,Manual,Gray,Partial,0,Yes,869182,Урал
+2006,21.38,2500,Diesel,1,Tesla,Automatic,Black,Full,1,No,688622,Урал
+2023,18.28,2000,Petrol,4,Ford,Manual,White,Partial,0,Yes,848469,СПб
+2013,5.0,1500,Diesel,1,Volkswagen,Manual,Black,Full,0,Yes,680329,Сибирь
+2016,25.78,3000,Petrol,3,Hyundai,Manual,Silver,Partial,0,Yes,1008495,СПб
+2023,22.7,800,Diesel,5,Chevrolet,Manual,Black,Partial,1,No,591211,Москва
+2020,23.83,2500,Diesel,2,Ford,Manual,Silver,Full,1,Yes,982124,Сибирь
+2003,21.14,2500,Petrol,3,Tesla,Manual,Black,Partial,1,No,583902,Юг
+2010,18.05,2500,Electric,5,Nissan,Automatic,White,Unknown,0,Yes,916334,Дальний Восток
+2006,15.98,2000,Petrol,2,Hyundai,Automatic,Gray,Partial,0,Yes,739828,СПб
+2005,14.29,1200,Diesel,3,Ford,Automatic,Silver,Partial,0,No,485156,СПб
+2011,20.69,4000,Petrol,1,Hyundai,Automatic,White,Partial,0,Yes,986378,СПб
+2021,17.87,2500,Petrol,4,Nissan,Manual,Black,Partial,0,Yes,787126,Дальний Восток
+1998,14.5,2000,Diesel,5,Tesla,Automatic,Gray,Unknown,0,Yes,170982,Сибирь
+2013,23.81,1500,Petrol,1,Nissan,Automatic,Red,Full,0,Yes,727764,Сибирь
+2023,15.95,4000,Petrol,5,Hyundai,Automatic,Blue,Unknown,1,Yes,1043372,Дальний Восток
+2017,12.48,3000,Diesel,2,Ford,Automatic,Red,Full,1,No,795696,Сибирь
+2011,12.63,1500,Petrol,5,Honda,Automatic,Silver,Unknown,0,Yes,356086,Москва
+2017,21.03,1200,Electric,4,Volkswagen,Manual,Red,Full,0,Yes,937330,Сибирь
+2012,17.04,4000,Petrol,3,Ford,Manual,Black,Unknown,2,Yes,877448,Сибирь
+2006,17.33,800,Diesel,2,Chevrolet,Manual,Gray,Full,2,Yes,432754,Дальний Восток
+2007,15.99,2500,Diesel,3,Chevrolet,Automatic,White,Full,0,Yes,727872,Урал
+1998,22.09,2000,Diesel,5,Toyota,Manual,Black,Full,0,Yes,352366,Москва
+2017,21.61,1000,Electric,2,Toyota,Manual,Red,Full,0,Yes,1067691,СПб
+1995,16.62,3000,Electric,3,Ford,Manual,Red,Full,0,Yes,836357,СПб
+1995,7.35,800,Diesel,5,Nissan,Automatic,Blue,Partial,0,No,95000,СПб
+2023,19.49,2500,Diesel,5,Chevrolet,Manual,Blue,Full,0,Yes,745307,Сибирь
+2020,18.86,2000,Diesel,2,Honda,Manual,Red,Partial,0,Yes,930774,Дальний Восток
+2016,16.29,800,Diesel,5,Hyundai,Manual,Red,Unknown,0,Yes,493120,СПб
+2023,17.08,1500,Petrol,3,Ford,Manual,Blue,Full,0,Yes,706570,Москва
+2019,10.84,1200,Petrol,3,Chevrolet,Manual,Gray,Full,0,No,565993,Юг
+2007,16.18,1200,Petrol,3,Kia,Manual,Gray,Unknown,1,No,405652,Дальний Восток
+2020,19.86,3000,Electric,3,Toyota,Automatic,Black,Full,1,Yes,1404272,Юг
+2016,18.44,1200,Petrol,4,Tesla,Manual,Red,Full,0,Yes,574586,Юг
+2002,22.91,2000,Diesel,5,Kia,Automatic,Red,Partial,1,Yes,589284,Юг
+2011,21.53,1500,Petrol,2,Chevrolet,Manual,Silver,Partial,0,Yes,489622,СПб
+2017,9.5,1000,Petrol,5,Tesla,Automatic,Silver,Unknown,0,Yes,286803,Урал
+2012,20.7,1000,Petrol,5,Toyota,Automatic,Blue,Full,0,Yes,471361,Урал
+2015,18.01,1500,Diesel,1,Honda,Automatic,Blue,Partial,0,Yes,921471,Сибирь
+2017,14.85,2000,Diesel,4,Nissan,Manual,Gray,Partial,1,Yes,767755,Сибирь
+2001,15.05,3000,Petrol,5,BMW,Automatic,Gray,Partial,1,Yes,468933,Сибирь
+2003,19.68,2500,Diesel,5,Hyundai,Manual,Blue,Full,1,Yes,512373,Сибирь
+2011,20.8,1500,Diesel,1,BMW,Automatic,Black,Full,2,Yes,755416,Сибирь
+2009,24.29,2000,Diesel,2,Kia,Automatic,Blue,Full,1,Yes,637369,Дальний Восток
+2005,22.49,5000,Diesel,4,Ford,Automatic,Gray,Full,0,Yes,915803,Сибирь
+2009,23.0,1200,Diesel,4,Chevrolet,Manual,Red,Full,0,No,480693,Юг
+1998,17.69,5000,Petrol,5,Nissan,Automatic,Black,Partial,1,No,560235,Дальний Восток
+2013,23.6,1800,Petrol,5,Kia,Manual,Gray,Full,0,Yes,594306,Москва
+2023,9.12,4000,Diesel,4,Chevrolet,Automatic,White,Unknown,0,Yes,989429,Москва
+2008,16.51,2500,Petrol,4,Tesla,Automatic,Gray,Full,0,Yes,629476,Москва
+2010,12.17,1500,Petrol,2,Toyota,Manual,White,Full,0,Yes,517497,Урал
+2014,14.93,5000,Electric,5,Chevrolet,Manual,Red,Unknown,0,Yes,1248892,Сибирь
+2016,14.63,1000,Electric,1,Volkswagen,Manual,Gray,Full,0,No,1083834,Москва
+2000,17.9,1500,Diesel,5,Kia,Manual,Silver,Unknown,0,Yes,472599,Москва
